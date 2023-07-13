@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Agradecimentos",
+    "subtitulo": "",
+    "arquivo": "agradecimentos.php"
+  },
+  {
+    "titulo": "Epígrafe",
+    "subtitulo": "",
+    "arquivo": "epigrafe.php"
+  },
+  {
+    "titulo": "Prefácio",
+    "subtitulo": "",
+    "arquivo": "prefacio.php"
+  },
+  {
+    "titulo": "Capítulo 1",
+    "subtitulo": "Introdução",
+    "arquivo": "cap1.php"
+  },
+  {
+    "titulo": "Capítulo 2",
+    "subtitulo": "Título Exemplo",
+    "arquivo": "cap2.php"
+  },
+  {
+    "titulo": "Conclusão",
+    "subtitulo": "",
+    "arquivo": "conclusao.php"
+  },
+  {
+    "titulo": "Referências",
+    "subtitulo": "",
+    "arquivo": "referencias.php"
+  },
+  {
+    "titulo": "Apêndices",
+    "subtitulo": "",
+    "arquivo": "apendices.php"
+  },
+  {
+    "titulo": "Listas de imagens, tabelas e quadros",
+    "subtitulo": "",
+    "arquivo": "listas.php"
+  }
+]

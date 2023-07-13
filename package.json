@@ -1,0 +1,21 @@
+{
+  "name": "jimp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jimp": "node jimp.js",
+    "gulp": "gulp compress"
+  },
+  "keywords": [],
+  "author": "Isabela Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
