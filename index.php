@@ -48,7 +48,7 @@ $autorLivro = "Mauro Pantoja";
           <h1 class="cover-title"><?php echo $tituloLivro; ?></h1>
           <p class="cover-author"><?php echo $autorLivro; ?></p>
 
-          <p class="cover-info">Essa página é um livro digital publicado pela Superintendência de Educação à Distância, com conteúdo produzido e revisado pelos professores associados à Universidade Federal do Espírito Santo. Aproveite!</p>
+          <p class="cover-info">Essa página é um livro digital publicado pela Superintendência de Educação à Distância.</p>
 
           <a class="btn-primary" id="iniciar-leitura" href="agradecimentos.php">Iniciar leitura</a>
         </header>
