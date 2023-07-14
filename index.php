@@ -1,7 +1,7 @@
 <!-- Insira as informações do Livro aqui -->
 <?php
-$tituloLivro = "Título do Livro";
-$autorLivro = "Nome do Autor";
+$tituloLivro = "Planejamento Estratégico SEAD 2021-2030";
+$autorLivro = "Mauro Pantoja";
 ?>
 
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ $autorLivro = "Nome do Autor";
         <header class="cover-header">
 
           <span>Livro Digital</span>
-          <span>2021</span>
+          <span>2023 (Versão Revisada)</span>
           <h1 class="cover-title"><?php echo $tituloLivro; ?></h1>
           <p class="cover-author"><?php echo $autorLivro; ?></p>
 
@@ -112,7 +112,7 @@ $autorLivro = "Nome do Autor";
       </div>
     </section>
 
-    <?php include 'ficha-catalografica.php'; ?>
+   
 
     <section id="credits">
       <div class="container container-content">
@@ -125,8 +125,8 @@ $autorLivro = "Nome do Autor";
         </div>
 
         <div class="credits-gov">
-          <p><strong>Presidente da República</strong><br>Jair Messias Bolsonaro</p>
-          <p><strong>Ministro da Educação</strong><br>Milton Ribeiro</p>
+          <p><strong>Presidente da República</strong><br>Luiz Inácio Lula da Silva</p>
+          <p><strong>Ministro da Educação</strong><br>Camilo Santana</p>
           <p><strong>Diretoria de Educação a Distância DED/CAPES/MEC</strong><br>Carlos Cézar Modernel Lenuzza</p>
         </div>
 
@@ -148,36 +148,22 @@ $autorLivro = "Nome do Autor";
             <p>
               <strong>Gerência</strong><br>
               <em>Coordenação:</em><br>
-              Letícia Pedruzzi Fonseca<br>
+              Lorena Zanette<br>
               <em>Equipe:</em><br>
-              Fabricio Broedel<br>
-              Lorena Silva Zanette
+              Lissandra Stéphane
             </p>
 
             <p>
-              <strong>Diagramação</strong><br>
+              <strong>Diagramação e Ilustração</strong><br>
               <em>Coordenação:</em><br>
-              Thaís Imbroisi<br>
+              Arí Souza<br>
               <em>Equipe:</em><br>
-              Diana Klippel
+              Leonardo Cezana
             </p>
 
-            <p>
-              <strong>Ilustração</strong><br>
-              <em>Coordenação:</em><br>
-              Priscilla Garone<br>
-              <em>Equipe:</em><br>
-              Luiza Tanaka
-            </p>
-
+            
             <p>
               <strong>Desenvolvimento</strong><br>
-              <em>Coordenação:</em><br>
-              Edson Rufino<br>
-              <em>Equipe:</em><br>
-              Isabela Zucarato<br>
-              Daiani Vieira<br>
-              Isabela Oliveira<br>
               Paulo Serpa
             </p>
           </div>
@@ -191,7 +177,7 @@ $autorLivro = "Nome do Autor";
   <a id="voltar-topo" title="Voltar ao topo" href="#topo"><span>Voltar ao topo</span></a>
 
   <footer>
-    <span>2022 Sead Ufes. Todos os direitos reservados.</span>
+    <span>2023 Sead Ufes. Todos os direitos reservados.</span>
     <a href="https://ldi.ufes.br/" target="_blank" title="Abrir site do LDI em nova aba">Desenvolvido por LDI</a>
   </footer>
 
