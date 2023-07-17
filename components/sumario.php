@@ -1,8 +1,7 @@
 <ul class="sumario">
 
-  <li><a href="agradecimentos.php">Agradecimentos</a></li>
+  <li><a href="apresentacao.php">Apresentação</a></li>
 
-  <li><a href="epigrafe.php">Epígrafe</a></li>
 
   <li><a href="prefacio.php">Prefácio</a></li>
 

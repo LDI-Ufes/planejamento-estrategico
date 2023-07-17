@@ -1,13 +1,8 @@
 [
   {
-    "titulo": "Agradecimentos",
+    "titulo": "Apresentação",
     "subtitulo": "",
-    "arquivo": "agradecimentos.php"
-  },
-  {
-    "titulo": "Epígrafe",
-    "subtitulo": "",
-    "arquivo": "epigrafe.php"
+    "arquivo": "apresentacao.php"
   },
   {
     "titulo": "Prefácio",

@@ -50,7 +50,7 @@ $autorLivro = "Mauro Pantoja";
 
           <p class="cover-info">Essa página é um livro digital publicado pela Superintendência de Educação à Distância.</p>
 
-          <a class="btn-primary" id="iniciar-leitura" href="agradecimentos.php">Iniciar leitura</a>
+          <a class="btn-primary" id="iniciar-leitura" href="apresentacao.php">Iniciar leitura</a>
         </header>
       </div>
     </section>
