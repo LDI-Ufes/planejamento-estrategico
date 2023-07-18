@@ -1,7 +1,7 @@
 <!-- Insira as informações do Livro aqui -->
 <?php 
-$tituloLivro = "Título do Livro"; 
-$autorLivro = "Nome do Autor";
+$tituloLivro = "Planejamento Estratégico SEAD 2021-2030"; 
+$autorLivro = "Mauro Pantoja";
 ?>
 
 <!DOCTYPE html>
