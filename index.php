@@ -15,6 +15,16 @@ $autorLivro = "Mauro Pantoja";
 
   <?php include 'components/preload.php' ?>
 
+  <style type="text/css">    
+      ol {list-style: none; counter-reset: li}
+      li::before {content: counter(li); color: red;
+      display: inline-block; width: 1em;
+      margin-left: -1em}
+      li {counter-increment: li}
+
+    
+  </style>
+
   <link rel="stylesheet" href="css/index.min.css">
 
   <meta name="theme-color" content="#fff" />
