@@ -276,19 +276,157 @@ e maternidade, veem na EAD uma oportunidade de melhorar seus currículos sem sai
 <p>Sem sombra de dúvidas, a possibilidade de realizar uma graduação a distância usando a internet expandiu o acesso e a chance de muitas pessoas realizarem seus sonhos, crescerem em suas carreiras e, até mesmo, mudarem suas realidades. Em um país que ofertava cursos pela televisão, o fato de um estudante poder escolher a que horas e de que maneira estuda abriu as portas da graduação àqueles que fazem parte da grande mão de obra trabalhadora do país. Essa mudança é fundamental no combate às desigualdades sociais e prova que a educação é um caminho primordial para dar acesso e corrigir falhas estruturais em um país que luta para eliminar a desigualdade desde sua origem. Sentiremos o impacto das evasões, de fato, no fim da pandemia, quando os alunos puderem retomar seus estudos plenamente. Por enquanto, as instituições estarão adaptando e flexibilizando suas atividades para atender os alunos.</p>
 
 <p>Fonte: <a href=https://abed.org.br/arquivos/CENSO_EAD_2020_PORTUGUES.pdf>Censo EAD.BR - Relatório Analítico da Aprendizagem a Distância no Brasil 2020-2021</a></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+
+<h3>1.3.4. Gestão e Institucionalização</h3>
+
+<p>Pelo ciclo normal das políticas públicas, já deveríamos ter passado à fase de incorporação das práticas desenvolvidas, com a experiência da UAB, ao cotidiano institucional. Como projeto e política pública de um governo e com base no princípio de autonomia que as universidades detêm, já deveríamos ter assimilado a Educação a Distância como atividade regular própria, por meio da institucionalização da modalidade. Do mesmo modo, as universidades já deveriam estar recebendo o financiamento da EAD assim como ocorre histórica e tradicionalmente com o fomento para a educação presencial, ou seja, pela matriz orçamentária. Somente assim, as instituições passariam para uma próxima etapa de amadurecimento necessário para EAD: ocupar seu lugar natural no seio da instituição educacional, de modo capilarizado e naturalizado. Afinal, segundo a legislação atual, ela é uma modalidade, uma forma de ensinar e aprender (BRASIL, 1996; LIBÂNEO et al., 2008) destinada a grupos de cidadãos desfavorecidos da oportunidade de participar de outros modos de ensino-aprendizagem, tais como a educação presencial ou outras modalidades educacionais.</p>
+
+<p>Para quem pensa e faz EAD, os cursos de formação à distância terão mais qualidade se a própria instituição puder conceber, gestar e implementar a proposta. Da forma como tem sido, como programa de governo e não de Estado, as experiências ficam engessadas por diretrizes e orientações externas. No caso da UAB, por exemplo, as propostas pedagógicas devem se enquadrar ao modelo definido pela Diretoria de Educação a Distância (DED) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e outros setores do Ministério da Educação, inclusive na forma de executar as verbas de manutenção dos cursos. Além disso, ainda que possuam diferentes especificidades, os projetos de EAD precisam adequar-se às legislações internas, que são prioritariamente concebidas, aprovadas e voltadas para a modalidade presencial. O fato de o financiamento ocorrer com parâmetros, por exemplo, dificulta a incorporação da modalidade na vida acadêmica cotidiana da universidade. Ou seja, sem exercer sua autonomia universitária e executar as verbas da forma como considera mais adequada e com clareza da disponibilidade (ou não) orçamentária, a instituição fica praticamente impossibilitada de capilarizar os seus setores para incorporar a EAD. Sem institucionalizar e promover formação de qualidade é improvável que ocorra mudança de postura atitudinal da comunidade acadêmica em relação à modalidade (LITWIN, 2001; MILL, 2013).</p>
+
+<p>Sabemos que as estruturas organizacionais das Universidades Públicas, de forma geral, foram definidas para a funcionalidade do ensino presencial. Isso significa espaço físico construído, presença de alunos e professores, dinâmica curricular de cursos, laboratórios de pesquisa, programas de extensão, processo burocrático administrativo e recursos orçamentários para a operacionalização do sistema. Temos consciência de que os processos de transformação causam na vida das pessoas e nas organizações uma sensação de dualidade,
+resistência a mudanças, porque há uma incerteza em relação ao que é novo. As pessoas possuem necessidade de estabilidade e conforto do que é conhecido e essa inércia acaba por dificultar a adoção de novos procedimentos. E o pior é que quanto mais inovadora for a proposição de mudança, maior o grau de resistência. Entretanto, as mudanças tecnológicas são inevitáveis atualmente e preponderantes para a atuação eficaz e efetiva das instituições.</p>
+
+<p>Portanto, já que as mudanças são inevitáveis, é preciso transformar o modo de pensar, agir e interagir internamente na UFES. A introdução da modalidade a distância na estrutura presencial de ensino (Ensino Híbrido) exige alterações referentes à Normatização, Formação de Recursos Humanos; Estrutura Organizacional; Oferta de Cursos; e Tecnologia, em função das características diferenciadas da educação à distância. Diversas Instituições de Ensino Superior, de variados portes, como, por exemplo, a <a href=https://www.ufrgs.br/sead/>Universidade Federal do Rio Grande - FURG</a>, a <a href=https://netel.ufabc.edu.br/>Universidade Federal do ABC - UFABC</a>, a <a href=https://nead.ufersa.edu.br/?_ga=2.187970349.409320247.1679323531-1234228539.1679323531&_gl=1*6t0yxa*_ga*MTIzNDIyODUzOS4xNjc5MzIzNTMx*_ga_K0YZPWHKKC*MTY3OTMyMzUzMS4xLjEuMTY3OTMyMzYxNi4wLjAuMA..>Universidade Federal Rural do Semiárido - UFERSA</a>, a <a href=https://www.unifesp.br/reitoria/sead/>Universidade Federal De São Paulo - UNIFESP</a>, a <a href=https://www.cead.unb.br/>Universidade de Brasília - UNB</a>, a <a href=https://cesad.ufs.br/>Universidade Federal de Sergipe - UFS</a>, a <a href=https://cipead.ufpr.br/portal1/>Universidade Federal do Paraná - UFPR</a> e a <a href=http://cead.ufpi.br/>Universidade Federal do Piauí - UFPI</a> já estão em fase bastante avançada nesse processo de
+mudança. Portanto, há uma gestão particularizada a ser inserida na funcionalidade geral do processo de gestão da educação presencial da UFES, a fim de que seja viabilizada a integração entre as modalidades de ensino (presencial e EAD) e é nesse sentido que devemos começar a caminhar.</p>
+
+<p> A dificuldade terá de ser vencida num espectro mais amplo do que simplesmente agregar um novo órgão burocrático e/ou um agente operador de Programa do Governo Federal, como é o caso da UAB. De modo geral, a inserção da educação a distância nas Instituições Públicas de Ensino Superior vem sendo feita por meio de vários atos internos e inclusões administrativas e programáticas: convênios, portarias, inclusão no PDI, resolução de Conselhos, estatuto, regimento e resoluções. Assim, a integração funcional das modalidades de ensino (presencial e EAD), para unificar os objetivos, deverá ser inserida no <a href=https://daocs.ufes.br/estatuto-da-ufes>Estatuto da UFES</a> e, no desenrolar do processo de formação superior, as normas de funcionamento da educação à distância serão também inseridas no <a href=https://daocs.ufes.br/sites/daocs.ufes.br/files/field/anexo/Regimento%20Geral%20da%20UFES.pdf>Regimento Geral</a> da instituição. O <a href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Plano Pedagógico Institucional - PPI</a> e o <a href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento Institucional - PDI</a> deverão estabelecer previsões estratégicas para os dois campos de atuação institucional: presencial e a distância.</p>
+
+<p>Uma das mudanças essenciais para viabilizar a institucionalização da educação a distância na UFES será o suporte orçamentário. Uma vez integrada à modalidade EAD no contexto do objetivo específico da universidade pública, o mais lógico serão os recursos financeiros para as duas modalidades, presencial e a distância, comporem o orçamento
+geral da instituição. O termo “institucionalização” que normalmente é utilizado para se referenciar a um modelo de fomento (VIEIRA et al., 2012) deverá evoluir, no meio acadêmico, para indicar o processo de implantação e maturidade da EAD (FERREIRA & CARNEIRO, 2015; PESCE, 2007; SILVA & SILVA, 2012). As previsões de novos cursos, tanto numa modalidade como na outra, farão parte das estratégias de desenvolvimento do ensino superior da Universidade. No <a href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>PPI</a> e <a href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>PDI</a>, as estratégias de novos cursos serão definidas, o que criará indicadores de despesas para os exercícios financeiros. </p>
+
+<p>Outro item a ser considerado é o de recursos humanos para atividades na própria sede da instituição, como produção programática, materiais didáticos e publicações. Nesse caso, serão utilizados os recursos humanos da própria instituição, professores, tutores e estudantes-estagiários. A operacionalização dos polos associados situados nos
+demais campi se dará da mesma forma. No caso de localidades distantes, sem a existência de campus próprio, a forma conveniada com o estado ou prefeitura, a exemplo dos polos UAB existentes, poderá ser ativada. Essas unidades disponibilizarão o espaço físico e outros recursos necessários nos termos dos convênios que poderão e/ou deverão ser estabelecidos.</p>
+
+<p>A educação a distância, assim como a presencial, tem sua regulação, avaliação, supervisão, credenciamento e descredenciamento como atribuições dos órgãos superiores da educação nacional. A cada universidade pública é facultada a iniciativa de proposição de cursos na modalidade EAD, com projeto pedagógico, instrumentalização necessária, recursos humanos e financeiros. O momento é de mudança de paradigmas. A estrutura e a organização das universidades federais, de uma forma generalizada, com suporte em seus documentos básicos, como estatuto, regimento geral, plano pedagógico institucional e plano de desenvolvimento institucional, devem acompanhar as mudanças e se perfilar com as necessidades que o momento e a
+sociedade exigem. </p>
+
+<p>Assim, independente dos cursos que estão e serão ofertados integralmente na modalidade EAD semipresencial (fomentados pela UAB), é fundamental que a SEAD/UFES avance nas negociações com os demais órgãos e na regulamentação interna da UFES para que possamos introduzir, inicialmente, o Ensino Híbrido na organização pedagógica e curricular de seus cursos de graduação presenciais (exceto Medicina), com a oferta de carga horária na modalidade de EAD até o limite de 40% da carga horária total do curso. Para viabilizar essa demanda, o Projeto Pedagógico do Curso (PPC) presencial deverá apresentar claramente, na matriz curricular, o percentual de carga horária à distância e indicar as metodologias a serem utilizadas, no momento do protocolo dos pedidos de autorização, reconhecimento e renovação de reconhecimento de curso.</p>
+
+<h3>1.3.5. Cenário Regional - Ambiente operacional</h3>
+
+<p>O ambiente operacional é o microambiente de atuação. Também chamado de ambiente competitivo, setorial, ou imediato, é formado por componentes que influenciam a organização de maneira direta. São os participantes que estão mais “próximos” como, por exemplo, alunos, fornecedores, concorrentes, órgãos regulamentadores, etc. Neste sentido, existem algumas informações que integram o cenário regional/estadual/municipal e que poderão, de alguma forma, influenciar e são influenciados pela dinâmica de atuação da SEAD, fazendo com que sua
+análise seja importante para nortear as ações que serão planejadas. </p>
+
+<p>A população do Espírito Santo foi estimada em 4.108.508 habitantes, conforme divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), em em 01/07/2021, sendo que 49,48% da população capixaba (2.033.067 habitantes) residem nos sete municípios da Região Metropolitana da Grande Vitória (Cariacica, Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória). A UFES interiorizou sua atuação com a implantação de 27 polos de EAD, estando presente em apenas dois municípios da Região Metropolitana da Grande Vitória - RMGV (Vila
+Velha e Vitória). Considerando os dados levantados pela mesma pesquisa, a presença da UFES contempla uma população de 2.033.067 habitantes. Diante da possibilidade da ampliação da rede de polos de apoio presencial de EAD para os municípios com maior densidade demográfica (população maior que 30.000 hab.), a UFES passaria a assistir uma população de 3.255.462 habitantes. É evidente que, proporcionalmente, metade dos nossos potenciais alunos são moradores da região metropolitana. Com isso, além de atender seis municípios da RMGV (Cariacica, Guarapari, Serra, Viana, Vila Velha e Vitória), equivaleria a uma cobertura de 79,23% da população residente no estado contra os 49,48% atuais. </p>
+
+<p>O Plano de Desenvolvimento do Espírito Santo – 2030 é embasado na perspectiva de que a educação deve atingir patamares superiores de conhecimento, desenvolvendo capital humano, pesquisa e experimentação, alcançando as fronteiras do conhecimento científico e tecnológico. Há um entendimento de que a habilidade de adquirir e agregar novas
+competências são cruciais para o desempenho de indivíduos, empresas, regiões e países. Por outra vertente, sabemos que o perfil do profissional na sociedade do conhecimento passa pela formação sólida e pelo desenvolvimento de competências diversas; pela capacidade de resolver problemas; pela polivalência do conhecimento; pela capacidade de inovar;
+e pelo domínio de informações culturais e tecnológicas. Essa estrutura de pensamento pode se reportar ao nível setorial das atividades econômicas. Cada setor ou atividade econômica é caracterizado por uma base específica de conhecimento, tecnologias e uso de insumos. E neste aspecto algumas informações disponibilizadas pelo estado são relevantes:</p>
+
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th class="align-center" colspan="2">VOCAÇÕES ECONÔMICAS DO ESTADO DO ESPÍRITO SANTO</th>
+    </tr>
+    <tr>
+      <th scope="row"><strong>SETORES</strong></th>
+      <th scope="row"><strong>INFORMAÇÕES RELEVANTES</strong></th>
+    </tr>
+    <tr>
+      <th scope="row">Agronegócio</th>
+      <td>O agronegócio absorve 33% da população economicamente ativa e é responsável por 30% do PIB Estadual. Café e fruticultura (mamão
+papaia, abacaxi, maracujá, coco, goiaba e morango).</td>
+    </tr>
+    <tr>
+      <th scope="row">Automotivo</th>
+      <td>O setor de produção automotiva vem chamando cada vez mais a atenção de investidores. Duas grandes empresas (Agrale e Volare) escolheram o Espírito Santo para se instalarem, formando um polo automobilístico no Norte do Estado.</td>
+    </tr>
+    <tr>
+      <th scope="row">Economia Verde</th>
+      <td>Práticas que visam à inclusão social e a erradicação da pobreza; uso eficiente dos recursos naturais; redução do uso de combustíveis fósseis e valorização de fontes limpas e renováveis de energia; qualidade e eficiência nos sistemas de mobilidade urbana e tratamento adequado aos resíduos aliado à implantação de sistemas eficientes de reciclagem.</td>
+    </tr>
+    <tr>
+      <th scope="row">Petróleo e Gás natural</th>
+      <td>O Estado conta com disponibilidade de distribuição de gás natural na Região Metropolitana de Vitória, em Aracruz, em Anchieta e em Cachoeiro de Itapemirim. Já existem projetos em andamento para que outros municípios do interior com vocação industrial, como Colatina, Linhares, São Mateus e Sooretama, também recebam redes de distribuição de gás natural. As perspectivas em torno da cadeia de petróleo e gás natural movimentam negócios, atraem investimentos e geram boas oportunidades para os investidores, como no setor naval, de logística para atendimento às atividades de exploração e produção, entre tantas outras.</td>
+    </tr>
+    <tr>
+      <th scope="row">Metal Mecânico</th>
+      <td>Movimenta mais de R$ oito bilhões por ano, cerca de 20% do PIB estadual. Gera aproximadamente 30 mil empregos diretos e 120 mil indiretos nas quase 1.500 empresas de transformação de metais e de produção de bens e serviços intermediários, como fundição, forjaria, oficinas de corte, soldagem e estamparia. Também envolve a produção de bens finais, como máquinas, equipamentos, veículos e materiais de transporte.</td>
+    </tr>
+    <tr>
+      <th scope="row">Moveleiro</th>
+      <td>O polo moveleiro de Linhares é o sexto maior em móveis seriados do País. Além dos seriados, o Espírito Santo também sedia inúmeras empresas que fabricam móveis sob encomenda para atender a demanda dos grandes centros urbanos.</td>
+    </tr>
+    <tr>
+      <th scope="row" rowspan="3">Mineração e Siderurgia</th>
+      <td>ArcelorMittal - Possui duas plantas industriais na Grande Vitória. A ArcelorMittal Tubarão produz placas de aço e bobinas laminadas a quente, com capacidade instalada para produzir até 7,5 milhões de toneladas ao ano. A outra unidade, a ArcelorMittal Cariacica, produz aços longos, perfis leves e médios para construção mecânica, torres de transmissão de energia e telecomunicações.</td>
+    </tr>
+    <tr>
+      <td>Vale - Tem capacidade para produzir até 28 milhões de toneladas por ano de pellets de minério, em sete usinas de pelotização. A oitava usina, atualmente em construção, elevará a produção da empresa para 36 milhões de toneladas por ano, consolidando-a como o maior complexo de pelotização de minério de ferro do mundo.</td>
+    </tr>
+    <tr>
+      <td>Samarco Mineração – É uma empresa brasileira essencialmente exportadora, controlada por uma joint-venture entre a Vale S.A. e a anglo-australiana BHP Billiton. Está situada em Ubu, município de Anchieta, Sul do Estado. É a segunda maior fornecedora transoceânica de pelotas de minério do mundo, produzindo 22,250 milhões de toneladas por ano. Com projeto de expansão em fase final, para construção de uma quarta usina (P4P), a produção da Samarco deve saltar para 30,5 milhões de toneladas de pelotas de minério de ferro por ano.</td>
+    </tr>
+    <tr>
+      <th scope="row">Rochas Ornamentais</th>
+      <td>O Espírito Santo possui uma das maiores reservas de mármore e granito do País, com uma enorme variedade de cores. Dispõe de um parque industrial com cerca 3.500 empresas, que atuam desde a extração/produção de rochas ornamentais até a sua exportação. O percentual de exportações do Espírito Santo alcança 88,55% do valor contabilizado no Brasil. Essa porcentagem equivale à aproximadamente 165 mil toneladas de rochas carbonáticas brutas e manufaturadas, silicáticas brutas e manufaturadas, ardósias, dentre outras.</td>
+    </tr>
+    <tr>
+      <th scope="row">Vestuário</th>
+      <td>A indústria do vestuário e acessórios movimenta cerca de 1.300 empresas no Espírito Santo, incluindo micro, pequenas e médias. Estão localizadas em vários municípios, com destaque para Colatina, no Noroeste do Estado, e também para a Região Metropolitana da Grande Vitória. A cadeia produtiva do setor é composta por diversos organismos, que interagem entre si e compõem, de forma produtiva, o segmento do setor têxtil.</td>
+    </tr>
+    <tr>
+      <th scope="row">Turismo</th>
+      <td>O Espírito Santo é um dos mais atraentes estados brasileiros. Suas belezas, aliadas às tradições de índios, negros, portugueses, italianos, alemães e outros povos que participaram da construção da história capixaba, compõem um rico mosaico. Nesse cenário, o estado se destaca por ser extremamente rico em opções seja turismo religioso, turismo de negócios e eventos, agro turismo, ecoturismo, turismo cultural, histórico e esotérico.</td>
+</tr>
+  </table>
+  <figcaption>
+  Fonte: https://www.es.gov.br/
+  </figcaption>
+</figure>
+
+<p>Para fins de planejamento e organização das ações do setor público, os municípios do estado do Espírito Santo são agregados em Macrorregiões e Microrregiões de Planejamento, segundo elementos estratégicos, ancorados em tendências de peso e em fatos portadores de futuro; seus fatores dinâmicos vinculados a cadeias produtivas, estrutura logística de transporte e comunicações e hierarquia urbana; e capacidade de geração e retenção de renda nos espaços regionais, interiorizando o urbano e os serviços.</p>
+
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th class="align-center" colspan="4">PRINCIPAIS ATIVIDADES ECONÔMICAS POR MACRORREGIÃO E MICRORREGIÃO DO ESTADO DO ESPÍRITO SANTO</th>
+    </tr>
+    <tr>
+      <th scope="row"><strong>MACRORREGIÕES</strong></th>
+      <th scope="row"><strong>MICRORREGIÕES</strong></th>
+      <th scope="row"><strong>MUNICÍPIOS</strong></th>
+      <th scope="row"><strong>POTENCIALIDADES ECONÔMICAS</strong></th>
+    </tr>
+    <tr>
+      <th scope="row"rowspan="3">Metropolitana</th>
+      <th scope="row">Metropolitana</th>
+      <td>Cariacica, Serra, Viana, Vitória, Vila Velha, Fundão e Guarapari</td>
+      <td>Área diversificada: Indústria, metal-mecânica, serviços de comércio exterior, serviços especializados (excelência em educação, saúde e software), turismo de negócios, administração pública, petróleo e gás, atividade portuária.</td>
+    </tr>
+    <tr>
+      <th scope="row">Sudoeste Serrana</th>
+      <td>Afonso Cláudio, Brejetuba, Conceição do Castelo, Domingos Martins, Laranja da Terra, Marechal Floriano e Venda Nova do Imigrante</td>
+      <td>Possui a segunda menor população entre as dez microrregiões do Estado, com 144.047 habitantes (IBGE, 2021). A região tem forte influência da imigração europeia do século XIX, principalmente italianos, alemães e pomeranos. O relevo serrano foi um fator fundamental para a fixação dos núcleos coloniais e para o desenvolvimento da cultura cafeeira. A microrregião apresenta um rico patrimônio histórico, constituído de casarões e rotas, como a Rota Imperial.<br>
+      Integra a Região Turística Montanhas Capixabas, com um turismo fortemente baseado no agroturismo, ecoturismo e turismo de aventura. A economia tem como base especialmente a agricultura, além da pecuária e hortifrutigranjeiro. A agricultura é muito importante como geradora de emprego e renda, sendo ainda mais acentuada por ocorrer em pequenas propriedades, com predomínio da mão de obra familiar. A agroindústria, além de familiar, caracteriza-se por sua diversificação, em que sobressaem a cafeicultura, a fruticultura e a olericultura, que se somam às atividades ligadas ao agroturismo e à produção artesanal. Quanto ao café, cabe destacar Brejetuba, que é conhecida como a Capital Nacional do Café.</td>
+    </tr>
+    <tr>
+      <th scope="row">Central Serrana</th>
+      <td>Itaguaçu, Itarana, Santa Leopoldina, Santa Maria de Jetibá e Santa Teresa</td>
+      <td>São municípios fortemente influenciados por sua ocupação histórica, formada por italianos, alemães, pomeranos, entre outros, o que se refletiu na construção de suas identidades locais. Com uma população de 102.027 habitantes (IBGE, 2021), a menor entre as microrregiões, é um dos destinos de turismo histórico-cultural do Espírito Santo, com festas, outras atividades culturais e um inestimável acervo arquitetônico e urbanístico.<br>
+      Tem na agropecuária a base de sua economia, sendo o café um dos principais produtos cultivados. Cabe destacar ainda a agroindústria, o setor granjeiro, o agroturismo, o turismo, dentre outros.</td>
+    </tr>
+    <tr>
+      <th scope="row" rowspan="2">Norte</th>
+      <th scope="row">Nordeste</th>
+      <td>Conceição da Barra, Pedro Canário, São Mateus, Montanha, Mucurici, Pinheiros, Ponto Belo, Jaguaré e Boa Esperança</td>
+      <td>A microrregião apresenta uma população estimada em 299.457 habitantes (IBGE,2021). É contemplada por belas paisagens naturais, históricas e culturais, com destaque para o extenso litoral. O Porto de São Mateus foi fundado à época do ciclo da mandioca e do café, em 1621. O porto e respectiva vila têm valor histórico, paisagístico e arquitetônico cujo casario remete ao sobrado português. Foi tombado pela Resolução do Conselho Estadual de Cultura Nº 01/1976. O distrito de Itaúnas é outro destino capixaba conhecido nacionalmente por suas dunas e belezas naturais, e sua vila está inserida no entorno do Parque Estadual de Itaúnas. Ambos os territórios apresentam manifestações culturais e folclóricas importantes, tais como o forró, o Ticumbi e o Jongo.<br>
+      A economia da Microrregião Nordeste é diversificada e tem por base a silvicultura, petróleo e gás, café conilon, pecuária, cana-de-açúcar e usinas de álcool e fruticultura. A região também apresenta uma grande quantidade de fornecedores de bens e serviços para a indústria local. Configura-se como uma área de influência pelo fornecimento de bens e serviços, especialmente na área da educação, por possuir campi da Universidade Federal do Espírito Santo (Ufes) e do Instituto Federal do Espírito Santo (Ifes). A centralidade da educação técnica e superior atrai estudantes não só do Espírito Santo, mas também de outros estados.
+    </td>
+    </tr>
+    <tr>
+      <th scope="row">Noroeste</th>
+      <td>Água Doce do Norte, Barra de São Francisco, Ecoporanga, Mantenópolis, Vila Pavão, Águia Branca e Nova Venécia</td>
+      <td>A microrregião ocupa 22,61% do território estadual e conta com uma população estimada em 164.155 habitantes (IBGE, 2021). Possui quatro unidades de conservação, sendo duas particulares, uma estadual e uma federal, com destaque para a Área de Proteção Ambiental Pedra do Elefante, em Nova Venécia, protegida pelo Decreto Estadual Nº 794-R de 2001. Existem belas paisagens naturais, como a Pedra da Dona Rita, Pedra da Rapadura e inúmeras cachoeiras.<br> A economia tem por base o café conilon, a pecuária, a fruticultura e as rochas ornamentais. Os centros urbanos dos municípios de Nova Venécia e Barra de São Francisco têm crescido gradativamente com o comércio e prestação de serviços. A microrregião apresenta grande potencial de incremento em setores como granito, ampliando as atividades de extração e as de processamento e geração de empregos. A rodovia BR-381 corta o município de Barra de São Francisco e liga a microrregião ao estado de Minas Gerais.</td>
+    </tr>
+    
+  </table>
+  <figcaption>
+  Fonte: Instituto Jones dos Santos Neves - Fevereiro/2022
+  </figcaption>
+</figure>
+
 <p></p>
 
 <div id="notas">

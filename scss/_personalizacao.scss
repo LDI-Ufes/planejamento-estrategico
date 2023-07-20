@@ -115,6 +115,10 @@ article {
 		font-family: $sans;
 		border-collapse: collapse;
 
+		strong {
+			word-break: normal;
+		}
+
 		caption {
 			text-align: left;
 			font-family: $serif;
