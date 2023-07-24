@@ -1,6 +1,6 @@
 <?php 
 $capitulo = "Capítulo 2";
-$titulo = "Título Exemplo";
+$titulo = "Perfil Institucional da SEAD";
 $abertura = "(img/abertura-capX.png)";
 include("components/page-header.php"); 
 ?>

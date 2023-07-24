@@ -4,11 +4,7 @@
     "subtitulo": "",
     "arquivo": "apresentacao.php"
   },
-  {
-    "titulo": "Prefácio",
-    "subtitulo": "",
-    "arquivo": "prefacio.php"
-  },
+ 
   {
     "titulo": "Capítulo 1",
     "subtitulo": "Introdução",
@@ -16,7 +12,7 @@
   },
   {
     "titulo": "Capítulo 2",
-    "subtitulo": "Título Exemplo",
+    "subtitulo": "Perfil Institucional da SEAD",
     "arquivo": "cap2.php"
   },
   {

@@ -307,10 +307,9 @@ sociedade exigem. </p>
 <p>O ambiente operacional é o microambiente de atuação. Também chamado de ambiente competitivo, setorial, ou imediato, é formado por componentes que influenciam a organização de maneira direta. São os participantes que estão mais “próximos” como, por exemplo, alunos, fornecedores, concorrentes, órgãos regulamentadores, etc. Neste sentido, existem algumas informações que integram o cenário regional/estadual/municipal e que poderão, de alguma forma, influenciar e são influenciados pela dinâmica de atuação da SEAD, fazendo com que sua
 análise seja importante para nortear as ações que serão planejadas. </p>
 
-<p>A população do Espírito Santo foi estimada em 4.108.508 habitantes, conforme divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), em em 01/07/2021, sendo que 49,48% da população capixaba (2.033.067 habitantes) residem nos sete municípios da Região Metropolitana da Grande Vitória (Cariacica, Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória). A UFES interiorizou sua atuação com a implantação de 27 polos de EAD, estando presente em apenas dois municípios da Região Metropolitana da Grande Vitória - RMGV (Vila
-Velha e Vitória). Considerando os dados levantados pela mesma pesquisa, a presença da UFES contempla uma população de 2.033.067 habitantes. Diante da possibilidade da ampliação da rede de polos de apoio presencial de EAD para os municípios com maior densidade demográfica (população maior que 30.000 hab.), a UFES passaria a assistir uma população de 3.255.462 habitantes. É evidente que, proporcionalmente, metade dos nossos potenciais alunos são moradores da região metropolitana. Com isso, além de atender seis municípios da RMGV (Cariacica, Guarapari, Serra, Viana, Vila Velha e Vitória), equivaleria a uma cobertura de 79,23% da população residente no estado contra os 49,48% atuais. </p>
+<p>A população do Espírito Santo foi estimada em 4.108.508 habitantes, conforme divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), em em 01/07/2021, sendo que 49,48% da população capixaba (2.033.067 habitantes) residem nos sete municípios da <a href=https://pt.wikipedia.org/wiki/Regi%C3%A3o_Metropolitana_da_Grande_Vit%C3%B3ria>Região Metropolitana da Grande Vitória</a> (Cariacica, Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória). A UFES interiorizou sua atuação com a implantação de 27 polos de EAD, estando presente em apenas dois municípios da Região Metropolitana da Grande Vitória - RMGV (Vila Velha e Vitória). Considerando os dados levantados pela mesma pesquisa, a presença da UFES contempla uma população de 2.033.067 habitantes. Diante da possibilidade da ampliação da rede de polos de apoio presencial de EAD para os municípios com maior densidade demográfica (população maior que 30.000 hab.), a UFES passaria a assistir uma população de 3.255.462 habitantes. É evidente que, proporcionalmente, metade dos nossos potenciais alunos são moradores da região metropolitana. Com isso, além de atender seis municípios da RMGV (Cariacica, Guarapari, Serra, Viana, Vila Velha e Vitória), equivaleria a uma cobertura de 79,23% da população residente no estado contra os 49,48% atuais. </p>
 
-<p>O Plano de Desenvolvimento do Espírito Santo – 2030 é embasado na perspectiva de que a educação deve atingir patamares superiores de conhecimento, desenvolvendo capital humano, pesquisa e experimentação, alcançando as fronteiras do conhecimento científico e tecnológico. Há um entendimento de que a habilidade de adquirir e agregar novas
+<p>O <a href=https://planejamento.es.gov.br/Media/sep/Plano%20ES%202030/ES2030.pdf>Plano de Desenvolvimento do Espírito Santo – 2030</a> é embasado na perspectiva de que a educação deve atingir patamares superiores de conhecimento, desenvolvendo capital humano, pesquisa e experimentação, alcançando as fronteiras do conhecimento científico e tecnológico. Há um entendimento de que a habilidade de adquirir e agregar novas
 competências são cruciais para o desempenho de indivíduos, empresas, regiões e países. Por outra vertente, sabemos que o perfil do profissional na sociedade do conhecimento passa pela formação sólida e pelo desenvolvimento de competências diversas; pela capacidade de resolver problemas; pela polivalência do conhecimento; pela capacidade de inovar;
 e pelo domínio de informações culturais e tecnológicas. Essa estrutura de pensamento pode se reportar ao nível setorial das atividades econômicas. Cada setor ou atividade econômica é caracterizado por uma base específica de conhecimento, tecnologias e uso de insumos. E neste aspecto algumas informações disponibilizadas pelo estado são relevantes:</p>
 
@@ -372,7 +371,7 @@ papaia, abacaxi, maracujá, coco, goiaba e morango).</td>
 </tr>
   </table>
   <figcaption>
-  Fonte: https://www.es.gov.br/
+  Fonte: <a href=https://www.es.gov.br>https://www.es.gov.br/</a>
   </figcaption>
 </figure>
 
@@ -420,14 +419,155 @@ papaia, abacaxi, maracujá, coco, goiaba e morango).</td>
       <td>Água Doce do Norte, Barra de São Francisco, Ecoporanga, Mantenópolis, Vila Pavão, Águia Branca e Nova Venécia</td>
       <td>A microrregião ocupa 22,61% do território estadual e conta com uma população estimada em 164.155 habitantes (IBGE, 2021). Possui quatro unidades de conservação, sendo duas particulares, uma estadual e uma federal, com destaque para a Área de Proteção Ambiental Pedra do Elefante, em Nova Venécia, protegida pelo Decreto Estadual Nº 794-R de 2001. Existem belas paisagens naturais, como a Pedra da Dona Rita, Pedra da Rapadura e inúmeras cachoeiras.<br> A economia tem por base o café conilon, a pecuária, a fruticultura e as rochas ornamentais. Os centros urbanos dos municípios de Nova Venécia e Barra de São Francisco têm crescido gradativamente com o comércio e prestação de serviços. A microrregião apresenta grande potencial de incremento em setores como granito, ampliando as atividades de extração e as de processamento e geração de empregos. A rodovia BR-381 corta o município de Barra de São Francisco e liga a microrregião ao estado de Minas Gerais.</td>
     </tr>
-    
+    <tr>
+      <th scope="row" rowspan="2">Central</th>
+      <th scope="row">Centro-Oeste</th>
+      <td>Alto Rio Novo, Baixo Guandu, Colatina, Pancas, Governador Lindenberg, Marilândia, São Domingos do Norte, São Gabriel da Palha, Vila Valério e São Roque do Canaã</td>
+      <td>Somada à beleza natural, vista entre montanhas e vales, a Microrregião Centro-Oeste tem diversas etnias, dentre elas a pomerana, e tradições culturais e folclóricas. Atualmente, a população é estimada em 287.508 habitantes (IBGE, 2021).<br> A economia está baseada na prestação de serviços, indústria e agropecuária, sendo o café conilon o principal produto de destaque na agricultura. Outro setor de destaque é a exploração de rochas e granitos, com seus serviços correlatos. A Centro-Oeste tem um eixo de desenvolvimento logístico privilegiado, devido à presença do Rio Doce e da logística de infraestrutura de estradas e ferrovias (BR-259, BR-101 e Ferrovia Vitória-Minas).<br> O agroturimo e o turismo de aventura devem ser mais desenvolvidos, como alternativa para potencializar os atrativos que a região oferece, considerando as belas paisagens, como os gnaisses presentes na unidade de conservação Monumento Natural dos Pontões Capixabas, em Pancas (Lei Estadual nº11.686/2008), e o distrito de Itapina, em Colatina, que é um núcleo histórico tombado pelo Conselho Estadual de Cultura (CEC). O município de Colatina exerce centralidade para parte da Microrregião Noroeste e Leste de Minas, com o fornecimento de bens e serviços, especialmente na área da saúde e da educação de nível técnico e superior.</td>
+    </tr>
+    <tr>
+      <th scope="row">Rio Doce</th>
+      <td>Aracruz, Ibiraçu, João Neiva, Linhares, Rio Bananal e Sooretama</td>
+      <td>Há vários povos que habitam a região, como descendentes de italianos, indígenas e quilombolas, o que muito enriquece o contexto histórico e cultural. A microrregião apresenta uma população total estimada em 364.848 habitantes (IBGE, 2021).<br> A Rio Doce tem um potencial paisagístico expressivo que favorece a atividade turística, com praias, reservas florestais e lagoas. Também abriga aldeias indígenas e tradições culturais diversificadas. Possui um dos maiores resquícios da Mata Atlântica do Brasil, considerando a Floresta Nacional de Goytacazes, a Reserva Biológica de Comboios, a Reserva Biológica de Sooretama, além da Reserva Natural Vale.<br> Na economia, há setores desenvolvidos e de alta competitividade, com destaque para o industrial e o portuário. A região recebe muitos investimentos na cadeia da produção de celulose, área de energia, metalmecânica, petróleo e gás e complexo portuário, como o Estaleiro Jurong. Os municípios de Linhares e Aracruz exercem centralidade urbana na oferta de comércio e serviços, assim como na indústria, com forte integração às atividades econômicas do Estado do Espírito Santo. O turismo também é um grande potencial de ativo econômico que deve ser melhor explorado, considerando as belezas naturais. A fruticultura (mamão, maracujá e abacaxi, com destaque para o cacau) também é importante, junto com a produção de café conilon, enquanto a silvicultura e a pecuária têm espaço para crescer.</td>
+    </tr>
+    <th scope="row" rowspan="3">Sul</th>
+      <th scope="row">Central Sul</th>
+      <td>Cachoeiro do Itapemirim, Vargem Alta, Castelo, Atílio Vivacqua, Mimoso do Sul, Muqui, Apiacá e Jerônimo Monteiro</td>
+      <td>Concentra 345.735 habitantes (IBGE, 2021), sendo a terceira mais populosa do Estado. Além disso, depois da Metropolitana, é a microrregião de maior densidade demográfica. Cachoeiro de Itapemirim é o principal polo de bens e serviços, especialmente nas áreas de saúde e de educação de nível técnico e superior.<br> Destaca-se por suas jazidas de rochas ornamentais e pelas atividades econômicas a elas relacionadas. Possui uma das cadeias produtivas mais diversificadas do Espírito Santo, inclusive com a produção de equipamentos e acessórios para extração e beneficiamento das rochas. Cachoeiro de Itapemirim é responsável pelo abastecimento de 80% do mercado nacional de mármore. Contudo, as jazidas e atividades relacionadas se estendem para outros municípios, como Atílio Vivácqua, Castelo, Mimoso do Sul, Muqui e Vargem Alta.<br> Cabe ainda destacar os setores de agricultura, indústria e pecuária e, em alguns municípios, o agroturismo, o turismo religioso, o turismo histórico e cultural, o turismo pedagógico, o turismo de aventura e o ecoturismo. Conta também com atrativos arquitetônicos, paisagísticos e culturais, com rico patrimônio, incluindo conjuntos arquitetônicos preservados, manifestações folclóricas, como as Folias de Reis e Boi Pintadinho, e atrativos naturais (montanhas, cachoeiras, corredeiras e grutas), como o Parque Estadual de Forno Grande e a Gruta do Limoeiro, patrimônio histórico estadual, sendo a mais importante área de estudos sobre a pré-história do Espírito Santo.</td>
+    </tr>
+    <tr>
+      <th scope="row">Caparaó</th>
+      <td>Divino de São Lourenço, Dores do Rio Preto, Guaçuí, Ibitirama, Muniz Freire, Irupi, São José do Calçado, Alegre, Bom Jesus do Norte, Iúna e Ibatiba</td>
+      <td>É a microrregião capixaba com o maior número de municípios.A população residente é de 118.651 habitantes (IBGE, 2021). As belezas naturais constituem um dos seus principais ativos, sendo um destaque o Parque Nacional do Caparaó, que se estende para além das fronteiras do Estado. Nele está localizado o Pico da Bandeira, o terceiro mais alto do País, com 2.892 metros.<br> O principal cultivo da microrregião é o café, com destaque para os produtos especiais. Tem potencial para crescer em áreas como turismo de experiência, fruticultura, agroturismo e silvicultura, dentre outras. Há atividades já realizadas na região ligadas ao turismo ecológico e de aventura, como trilhas que levam a cachoeiras e pontos de prática de esportes radicais (rapel, voo livre), e ao agroturismo, com forte presença da agricultura familiar.</td>
+    </tr>
+    <tr>
+      <th scope="row">Litoral Sul</th>
+      <td>Alfredo Chaves, Anchieta, Iconha, Piúma, Itapemirim, Rio Novo do Sul, Marataízes e Presidente Kennedy</td>
+      <td>Destaca-se ainda o agroturismo - no município de Alfredo Chaves, por exemplo, ocorre a tradicional Festa da Banana e do Leite - e o turismo religioso, com o Santuário Nacional de Anchieta e a caminhada Passos de Anchieta. O turismo dessa região é, assim, muito rico e diversificado, e ainda com grande potencial de crescimento e valorização de seus ativos.<br> A Litoral Sul tem a indústria como principal atividade econômica, com destaque para a produção e exportação de minério, em virtude da presença da usina e do porto da Samarco Mineração S/A. A atividade pesqueira, a produção e distribuição de petróleo e gás, a agricultura (café e frutas, especialmente banana e abacaxi) e a pecuária bovina (de corte e de leite) são outras atividades de relevância na economia.</td>
+    </tr>
   </table>
   <figcaption>
   Fonte: Instituto Jones dos Santos Neves - Fevereiro/2022
   </figcaption>
 </figure>
 
-<p></p>
+<p>Alguns municípios do estado do Espírito Santo estão dentro da área de atuação da Superintendência do Desenvolvimento do Nordeste (SUDENE), que tem por finalidade promover o desenvolvimento includente e sustentável de sua área de atuação e a integração competitiva da base produtiva regional nas economias nacional e internacional. Isso
+significa apoio e estímulo, por meio da administração de incentivos e benefícios fiscais, aos investimentos privados prioritários, as atividades produtivas e as iniciativas de desenvolvimento sub-regional com recursos financeiros do Fundo Constitucional de Financiamento do Nordeste – FNE e do Fundo de Desenvolvimento do Nordeste (FDNE).</p>
+
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th class="align-center" colspan="3">MUNICÍPIOS DO ESTADO DO ESPÍRITO SANTO ONDE A UFES POSSUI POLO DE EAD OU PRETENDE CRIÁ-LOS E QUE ESTÃO NA ÁREA DE ATUAÇÃO DA SUDENE</th>
+    </tr>
+    <tr>
+    <th scope="row"><strong>MUNICÍPIO</strong></th>
+      <th scope="row"><strong>POPULAÇÃO ESTIMADA - 2021</strong></th>
+</tr>
+<tr>
+  <td>Baixo Guandu</td>
+  <td>31.263</td>
+</tr>
+<tr>
+  <td>Barra de São Francisco</td>
+  <td>45.301</td>
+</tr>
+<tr>
+  <td>Colatina</td>
+  <td>124.283</td>
+</tr>
+<tr>
+  <td>Conceição da Barra</td>
+  <td>31.479</td>
+</tr>
+<tr>
+  <td>Ecoporanga</td>
+  <td>22.748</td>
+</tr>
+<tr>
+  <td>Jaguaré</td>
+  <td>31.589</td>
+</tr>
+<tr>
+  <td>Linhares</td>
+  <td>179.755</td>
+</tr>
+<tr>
+  <td>Mantenópolis</td>
+  <td>15.653</td>
+</tr>
+<tr>
+  <td>Montanha</td>
+  <td>18.954</td>
+</tr>
+<tr>
+  <td>Nova Venécia</td>
+  <td>50.751</td>
+</tr>
+<tr>
+  <td>Pinheiros</td>
+  <td>27.601</td>
+</tr>
+<tr>
+  <td>São Gabriel da Palha</td>
+  <td>39.085</td>
+</tr>
+<tr>
+  <td>São Mateus</td>
+  <td>134.629</td>
+</tr>
+<tr>
+  <td>Sooretama</td>
+  <td>31.278</td>
+</tr>
+  </table>
+  <figcaption>
+    Fonte: <a href=https://www.ibge.gov.br>https://www.ibge.gov.br/</a> e <a href=https://www.gov.br/sudene/pt-br>https://www.gov.br/sudene/pt-br</a>
+  </figcaption>
+</figure>
+
+<p>Analisando os diversos aspectos presentes no microambiente de atuação, percebemos que eles são perfeitamente conciliáveis para a atuação da SEAD e apresentam similaridades com
+a visão e os valores institucionais da UFES. A SEAD/UFES, em suas intervenções na dinâmica social, com a oferta de produtos na área educacional, além da ética, buscará privilegiar e
+promover o desenvolvimento sustentável, baseado nos pilares do desenvolvimento econômico, do desenvolvimento social e da proteção ambiental. É necessário cada vez mais “pensar
+global, agir local”. Esse pensamento, atribuído ao planejador urbano e ativista social escocês Patrick Geddes, nunca esteve tão urgente em sua implementação como agora.</p>
+
+<!-- adicionar imagem lateral de competências aqui -->
+
+<p>Os crescentes acidentes ambientais e as constantes transformações climáticas apontam para um desequilíbrio que o meio social está provocando no ambiente, processo no qual
+o ser humano pode ser o agente transformador de maneira positiva ou negativa. Não se trata mais do cumprimento de uma norma e/ou acordo e, sim, de uma necessidade básica do ser humano. Na SEAD/UFES essa conscientização está internalizada e é um dos valores que permeia a atuação de seus agentes. Cada vez mais as cinco áreas de importância, os chamados <b>Cinco P`s da sustentabilidade</b> necessitam que as instituições de ensino se conscientizem de que precisam trabalhar conjuntamente.</p>
+
+<!-- adicionar img com os 5 ps de sustentabilidade aqui -->
+
+<h3>1.3.6. Cenário Regional - Instituições de Ensino Superior no Espírito Santo - Modalidade EAD</h3>
+
+<p>A SEAD busca conhecer e analisar, quando for o caso, as Instituições de Ensino Superior - IES que atuam no estado do Espírito Santo, na modalidade EAD, com o intuito de equalizar e ajustar a oferta de produtos e serviços de educação, de tal forma que efetivamente venha ao encontro dos interesses e necessidades da sociedade brasileira, e em particular da capixaba.</p>
+
+<p>As Instituições de Ensino Superior privadas (FAVI, UNIP, ANHANGUERA, UNESC, FAESA, UNINTER, UNIFRAN, ESAB, FACES, MULTIVIX, UCL, FAVENI, UNOPAR, DOCTUM, UNESA e UVV) possuem polos de apoio presencial EAD em 41 dos 78 municípios do estado do Espírito Santo. Do setor público, atuam no estado a UFES (29 polos) e o Instituto Federal do Espírito Santo - IFES que atua em 33 polos de apoio presencial à EAD. Em todos os municípios onde uma das IES do setor público atua, pelo menos uma das instituições privadas também possui polo e estas possuem polos em alguns municípios onde as IES públicas não estão presentes (Anchieta, Barra de São Francisco, Guaçuí, Iconha, Jaguaré, Marataízes, Pancas, Pedro Canário e São Gabriel da Palha). O IFES atua em todos os municípios em que a UFES está presente e possui polos EAD em alguns municípios nos quais a UFES não atua (Cariacica, Guarapari, Ibatiba, Serra e Viana).</p>
+
+<p>As paraestatais Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE), o Serviço Nacional de Aprendizagem Rural (SENAR) e o Serviço Nacional de Aprendizagem Industrial (SENAI) atuam na oferta de cursos técnicos, e/ou de curta duração e/ou livres. Já o Serviço Nacional de Aprendizagem Comercial (SENAC) oferta cursos de graduação, pós-graduação, extensão, técnicos e abertos. Os cursos ofertados pelas instituições privadas incluem bacharelados, licenciaturas, tecnológicos, especializações, aperfeiçoamentos, MBAs, capacitações, línguas e MOOCs.</p>
+
+<h3>1.3.7. Tendências</h3>
+
+<p>A BrainReserve é uma consultoria de marketing estratégico independente e inovadora. É liderada pela renomada futurista Faith Popcorn que foi a primeira pessoa a aplicar o estudo de tendências ao marketing, tornando seu nome sinônimo de futurismo, ideação criativa e crescimento de negócios. A consultoria utiliza o futurismo aplicado para revelar o que vem a seguir, para que marcas e empresas/organizações possam prosperar na próxima década. Mostra como capitalizar o cenário de consumidores em constante mudança, prevendo o que está por vir com precisão incomparável. Ostenta uma taxa de precisão documentada de mais de 95% na previsão de tudo, desde tecnologia até nutrição e cuidados pessoais.</p>
+
+<p>O seu Banco de Tendências é um repositório de insights e dados sobre mudanças culturais. Ela monitora continuamente as 17 Tendências da BrainReserve através de sua equipe principal de analistas e estrategistas de tendências, compondo uma rede global de <a href=https://www.merriam-webster.com/dictionary/trendspotter>trendspotters</a> e informações assistidas por tecnologia na forma de mapas de calor, Planejamento Estratégico SEAD 2021-2030 53 escuta cultural e outras ferramentas proprietárias. Cada uma das tendências reflete uma dimensão diferente e não óbvia do comportamento e do desejo do consumidor. Às vezes, essas lentes são contraditórias e conflitantes, assim como nossos impulsos. Mas, juntas elas descrevem o espectro completo e global da experiência humana através das lentes do futuro. Com isso a especialista, através de pesquisas permanentes, consegue prever tendências, produtos que podem virar sucesso e influenciar a dinâmica de empresas/organizações no mercado. Seu acompanhamento é fundamental para mapear o impacto do futuro de qualquer negócio porque elas explicam e preveem as dimensões flutuantes refletidas na experiência humana à medida que evoluem para definir os comportamentos de consumo do amanhã.</p>
+
+<p>As tendências são as seguintes: 99 Vidas; Ancoragem; AtmosFear; Estar Vivo; Saque; Clã; Cocooning; Down-Aging (Envelhecimento Descendente); Egonomia; EVEolução; Aventura de Fantasia; FutureTense; Alternância de Ícones; Vingança do Prazer; Salve nossa Sociedade; Pequenas indulgências; Vigilante Consumidor.</p>
+
+<p>O fio condutor que tece tudo o que você leu até aqui é o fascínio pelo amanhã e uma lente provocativa para a cultura. Nesse sentido, a consultoria BrainReserve, em diversos outros artigos, aponta os setores que irão crescer à medida que avançamos para 2030:</p>
+
+
+
+
+<h3>1.3.8. Perspectivas</h3>
+
+<p>A principal perspectiva é a integração da UFES ao Programa de Expansão da EaD nas Universidades Federais que é a consolidação das ações do Ministério da Educação (MEC) para ampliar o acesso e fomentar a permanência dos discentes na educação superior, por meio da educação a distância (EaD). O Reuni Digital, como ficou conhecido na ocasião de seu lançamento, visa contribuir para o alcance das metas do Plano Nacional de Educação (PNE), em destaque a meta 12, que estabeleceu em 33% o percentual de matrículas para a população de 18 a 24 anos (taxa líquida) e em 50% para a população em geral (taxa bruta) até o ano de 2024. Foi estruturado para enfrentar a desigualdade de acesso à educação superior pública e de qualidade. O objetivo principal é gerar oportunidade para a população apta a cursar o ensino de nível superior, em especial os jovens de 18 a 24 anos, que moram em locais
+distantes, onde as vagas presenciais são pouco ofertadas, bem como auxiliar aqueles que precisam trabalhar enquanto estudam.</p>
+
+<p>O <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol5_Monitoramento_Plano_de_expansao_EaD_universidades_federais.pdf>Reuni Digital</a> é um programa, em construção, voltado para a expansão da Educação a Distância (EaD) nas Universidades Federais, visando o aumento das matrículas no segmento público do ensino superior
+e fundamentado no compromisso com a qualidade dos cursos oferecidos pelas Instituições de Ensino Superior, na indissociabilidade do ensino, pesquisa e extensão e na autonomia das IFES. Ao longo de 2020 e 2021, ainda no âmbito do desenvolvimento do Projeto, coordenado pelo MEC, com apoio de diversos entes da educação superior, foi possível alcançar as seguintes entregas relevantes: o <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol3_Diagnosticos_e_desafios_expansao_EaD_Brasil.pdf>Diagnóstico e desafios para a expansão da EaD no Brasil</a>; o <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol1_Benchmarking_internacional_EaD.pdf>Benchmarking Internacional da EaD</a> e o <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol2_Panorama_EaD_Brasil.pdf>Panorama da EAD no Brasil</a>. É importante destacar que essas ações resultaram no desenvolvimento de um <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol4_Plano_de_expansao_EaD_nas_universidades_federais.pdf>Plano de Expansão do EaD nas Universidades Federais</a> e em um <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol5_Monitoramento_Plano_de_expansao_EaD_universidades_federais.pdf>Monitoramento do Plano de expansão da EaD nas Universidades Federais</a>, este último ainda em elaboração.</p>
+
+
+
 
 <div id="notas">
   <dl>
