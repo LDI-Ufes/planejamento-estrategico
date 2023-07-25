@@ -533,7 +533,7 @@ global, agir local”. Esse pensamento, atribuído ao planejador urbano e ativis
 <!-- adicionar imagem lateral de competências aqui -->
 
 <p>Os crescentes acidentes ambientais e as constantes transformações climáticas apontam para um desequilíbrio que o meio social está provocando no ambiente, processo no qual
-o ser humano pode ser o agente transformador de maneira positiva ou negativa. Não se trata mais do cumprimento de uma norma e/ou acordo e, sim, de uma necessidade básica do ser humano. Na SEAD/UFES essa conscientização está internalizada e é um dos valores que permeia a atuação de seus agentes. Cada vez mais as cinco áreas de importância, os chamados <b>Cinco P`s da sustentabilidade</b> necessitam que as instituições de ensino se conscientizem de que precisam trabalhar conjuntamente.</p>
+o ser humano pode ser o agente transformador de maneira positiva ou negativa. Não se trata mais do cumprimento de uma norma e/ou acordo e, sim, de uma necessidade básica do ser humano. Na SEAD/UFES essa conscientização está internalizada e é um dos valores que permeia a atuação de seus agentes. Cada vez mais as cinco áreas de importância, os chamados <strong>Cinco P`s da sustentabilidade</strong> necessitam que as instituições de ensino se conscientizem de que precisam trabalhar conjuntamente.</p>
 
 <!-- adicionar img com os 5 ps de sustentabilidade aqui -->
 
@@ -556,16 +556,16 @@ o ser humano pode ser o agente transformador de maneira positiva ou negativa. N�
 <p>O fio condutor que tece tudo o que você leu até aqui é o fascínio pelo amanhã e uma lente provocativa para a cultura. Nesse sentido, a consultoria BrainReserve, em diversos outros artigos, aponta os setores que irão crescer à medida que avançamos para 2030:</p>
 
 <ul>
-  <li><b><a href=https://www.voitto.com.br/blog/artigo/e-learning>E-learning</a>:</b> de cursos online a implantes cerebrais, conhecimento é poder. </li>
-  <li><b><a href=https://rockcontent.com/br/blog/e-commerce-guia>E-commerce</a>:</b> satisfazer as necessidades do consumidor sem obrigá-lo a sair de seus Pod Coons (espaços móveis de vida/trabalho).</li>
-  <li><b><a ref=https://www.saudebusiness.com/ti-e-inovao/entenda-como-telessade-pode-melhorar-medicina-no-brasil>Telessaúde</a>:</b> de visitas de bem-estar a procedimentos médicos e saúde mental, tudo está acontecendo virtualmente. O apoio emocional será vital por anos pós-pandemia, à medida que a sociedade se recupera do que perdeu.</li>
-  <li><b>Transporte:</b> Recriando nosso sistema atual para um mundo pós-pandemia e investindo em viagens espaciais e temporais.</li>
-  <li><b><a href=https://atozofai.withgoogle.com/intl/pt-BR/robotics>IA e robótica</a>:</b> reforçando e substituindo nossa força de trabalho à medida que entramos neste novo estágio da evolução humana.</li>
-  <li><b><a href=https://techinnovations.info/why-every-organization-needs-an-augmented-reality-strategy/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4-St4ZlhKLzFNWjBNZNmNd_gzOKl-Xug8iH_io3QPTKI1W-ecvHHYaAqAKEALw_wcB>VR e AR</a>:</b> Construindo nosso admirável novo mundo virtual.</li>
-  <li><b>Economia do prazer:</b> Se faz o trabalhador se sentir bem, implante.</li>
-  <li><b>Localização de fabricação e serviços:</b> Fornecendo segurança em caso de pandemias, falhas de energia e interrupção da cadeia de suprimentos.</li>
-  <li><b>Eco-serviços:</b> Responder às mudanças climáticas como uma prioridade urgente.</li>
-  <li><b>Colonização espacial:</b> Para garantir nossa sobrevivência como espécie. Além da questão das mudanças climáticas, os humanos enfrentarão nas próximas pandemias patógenos mais letais com uma disseminação mais rápida. Deverá haver a capacidade de saltos planetários. </li>
+  <li><strong><a href=https://www.voitto.com.br/blog/artigo/e-learning>E-learning</a>:</strong> de cursos online a implantes cerebrais, conhecimento é poder. </li>
+  <li><strong><a href=https://rockcontent.com/br/blog/e-commerce-guia>E-commerce</a>:</strong> satisfazer as necessidades do consumidor sem obrigá-lo a sair de seus Pod Coons (espaços móveis de vida/trabalho).</li>
+  <li><strong><a ref=https://www.saudebusiness.com/ti-e-inovao/entenda-como-telessade-pode-melhorar-medicina-no-brasil>Telessaúde</a>:</strong> de visitas de bem-estar a procedimentos médicos e saúde mental, tudo está acontecendo virtualmente. O apoio emocional será vital por anos pós-pandemia, à medida que a sociedade se recupera do que perdeu.</li>
+  <li><strong>Transporte:</strong> Recriando nosso sistema atual para um mundo pós-pandemia e investindo em viagens espaciais e temporais.</li>
+  <li><strong><a href=https://atozofai.withgoogle.com/intl/pt-BR/robotics>IA e robótica</a>:</strong> reforçando e substituindo nossa força de trabalho à medida que entramos neste novo estágio da evolução humana.</li>
+  <li><strong><a href=https://techinnovations.info/why-every-organization-needs-an-augmented-reality-strategy/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4-St4ZlhKLzFNWjBNZNmNd_gzOKl-Xug8iH_io3QPTKI1W-ecvHHYaAqAKEALw_wcB>VR e AR</a>:</strong> Construindo nosso admirável novo mundo virtual.</li>
+  <li><strong>Economia do prazer:</strong> Se faz o trabalhador se sentir bem, implante.</li>
+  <li><strong>Localização de fabricação e serviços:</strong> Fornecendo segurança em caso de pandemias, falhas de energia e interrupção da cadeia de suprimentos.</li>
+  <li><strong>Eco-serviços:</strong> Responder às mudanças climáticas como uma prioridade urgente.</li>
+  <li><strong>Colonização espacial:</strong> Para garantir nossa sobrevivência como espécie. Além da questão das mudanças climáticas, os humanos enfrentarão nas próximas pandemias patógenos mais letais com uma disseminação mais rápida. Deverá haver a capacidade de saltos planetários. </li>
 </ul>
 <p>Fonte: <a href=https://faithpopcorn.com>https://faithpopcorn.com</a></p>
 
@@ -580,32 +580,5 @@ distantes, onde as vagas presenciais são pouco ofertadas, bem como auxiliar aqu
 <p>O <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol5_Monitoramento_Plano_de_expansao_EaD_universidades_federais.pdf>Reuni Digital</a> é um programa, em construção, voltado para a expansão da Educação a Distância (EaD) nas Universidades Federais, visando o aumento das matrículas no segmento público do ensino superior
 e fundamentado no compromisso com a qualidade dos cursos oferecidos pelas Instituições de Ensino Superior, na indissociabilidade do ensino, pesquisa e extensão e na autonomia das IFES. Ao longo de 2020 e 2021, ainda no âmbito do desenvolvimento do Projeto, coordenado pelo MEC, com apoio de diversos entes da educação superior, foi possível alcançar as seguintes entregas relevantes: o <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol3_Diagnosticos_e_desafios_expansao_EaD_Brasil.pdf>Diagnóstico e desafios para a expansão da EaD no Brasil</a>; o <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol1_Benchmarking_internacional_EaD.pdf>Benchmarking Internacional da EaD</a> e o <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol2_Panorama_EaD_Brasil.pdf>Panorama da EAD no Brasil</a>. É importante destacar que essas ações resultaram no desenvolvimento de um <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol4_Plano_de_expansao_EaD_nas_universidades_federais.pdf>Plano de Expansão do EaD nas Universidades Federais</a> e em um <a href=https://www.gov.br/mec/pt-br/reunidigital/pdf/REUNIDIGITALVol5_Monitoramento_Plano_de_expansao_EaD_universidades_federais.pdf>Monitoramento do Plano de expansão da EaD nas Universidades Federais</a>, este último ainda em elaboração.</p>
 
-
-
-
-<div id="notas">
-  <dl>
-    <dt id="nota1">1</dt>
-    <dd>Sistema e-MEC: Disponível em: <a href="http://emec.mec.gov.br/">http://emec.mec.gov.br/</a>. Acesso em: ago. 2020. <a href="#ref1" class="retornar">Ver no texto</a></dd>
-    <dt id="nota2">2</dt>
-    <dd>Metaverso ou mundo virtual é um espaço digital criado a partir de Computação Gráfica, com o qual é possível interagir via dispositivos de entrada e de saída (NETTO; MACHADO; OLIVEIRA, 2002, p. 5). <a href="#ref2" class="retornar">Ver no texto</a></dd>
-    <dt id="nota3">3</dt>
-    <dd>Kapp, Blair e Mesch (2014, p. 54) definem gamificação como o uso de elementos de jogo para engajar pessoas, motivar ações, promover aprendizagem e resolver problemas. <a href="#ref3" class="retornar">Ver no texto</a></dd>
-    <dt id="nota4">4</dt>
-    <dd>Disponível em: <a href="http://www.abed.org.br/site/pt/midiateca/censo_ead/">http://www.abed.org.br/site/pt/midiateca/censo_ead/</a>. Acesso em ago. 2020. <a href="#ref4" class="retornar">Ver no texto</a></dd>
-    <dt id="nota5">5</dt>
-    <dd>Até o momento de encerramento desta pesquisa, o último censo publicado pela ABED que contou com dados sobre o uso de jogos na EAD foi o de 2018, divulgado no segundo semestre de 2019. <a href="#ref5" class="retornar">Ver no texto</a></dd>
-    <dt id="nota6">6</dt>
-    <dd>Horizon Report. Disponível em: <a href="https://library.educause.edu">https://library.educause.edu</a>. Acesso em ago. 2020. <a href="#ref6" class="retornar">Ver no texto</a></dd>
-    <dt id="nota7">7</dt>
-    <dd>O detalhamento da pesquisa bibliográfica nas obras consultadas e os critérios de seleção e exclusão da revisão de literatura estão explicitados em cada capítulo. <a href="#ref7" class="retornar">Ver no texto</a></dd>
-    <dt id="nota8">8</dt>
-    <dd>O método misto, segundo Creswell (2007, p. 211) emprega a coleta e análise de dados de modo qualitativo e quantitativo. <a href="#ref8" class="retornar">Ver no texto</a></dd>
-    <dt id="nota9">9</dt>
-    <dd>O método comparativo, segundo Marconi e Lakatos (2010, p. 107), se ocupa da explicação dos fenômenos e permite analisar um dado concreto, com a finalidade de verificar similitudes e explicar divergências. <a href="#ref9" class="retornar">Ver no texto</a></dd>
-    <dt id="nota10">10</dt>
-    <dd>Apêndice A. <a href="#ref10" class="retornar">Ver no texto</a></dd>
-  </dl>
-</div>
 
 <?php include('components/page-footer.php'); ?>

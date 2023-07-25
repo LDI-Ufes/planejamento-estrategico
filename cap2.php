@@ -4,64 +4,141 @@ $titulo = "Perfil Institucional da SEAD";
 $abertura = "(img/abertura-capX.png)";
 include("components/page-header.php"); 
 ?>
+<h2 id="intertitulo-2-1">2.1. Organização Administrativa</h2>
 
-<!-- Introdução do Capítulo -->
-<p>Este capítulo tem como finalidade discorrer sobre o Design de Jogos e dois de seus desdobramentos educacionais: a Aprendizagem Baseada em Jogos Digitais e a gamificação na educação. O objetivo é coletar informações, identificar atributos e aspectos projetuais, para compor um instrumento de coleta de dados sobre as soluções que envolvem jogos digitais ou seus elementos, em contexto educacional.</p>
-<p>O texto apresenta definições, elementos, aplicações, abordagens e, em seguida, aponta processos projetuais encontrados na literatura selecionada para o desenvolvimento de jogos digitais, jogos educacionais e gamificação, com a comparação das etapas. Ao final, são expressas ideias dos autores pesquisados acerca do papel do designer no contexto do desenvolvimento de jogos digitais, jogos educacionais e da gamificação.</p>
-<p>A revisão narrativa tem por objetivo coletar dados sobre o Design de Jogos, a partir do levantamento de dados bibliográficos que apresentem a definição conceitual, definição estrutural e processual, em busca de informações sobre características dos jogos, as etapas do processo de desenvolvimento e a discussão do papel do designer no processo de design. </p>
-<p>O levantamento de dados ocorreu entre março e setembro de 2017, no Portal Periódicos Capes<a class="nota" href="#nota1" id="ref1" title="Portal de Periódicos Capes. Disponível em: http://www.periodicos.capes.gov.br/. Acesso em abr. 2020.">1</a>, no Google Acadêmico<a class="nota" href="#nota2" id="ref2" title="Google Acadêmico. Disponível em: https://scholar.google.com.br/. Acesso em abr. 2020.">2</a> e nas bases de dados internacionais ScienceDirect<a class="nota" href="#nota3" id="ref3" title="ScienceDirect. Disponível em: https://www.sciencedirect.com/. Acesso em abr. 2020.">3</a> e SciELO<a class="nota" href="#nota4" id="ref4" title="SciELO. http://www.scielo.org. Acesso em abr. 2020.">4</a>. Para o material sobre o Design de Jogos, os termos pesquisados nas bases de dados foram “design de jogos”; “processo de design”; “modelo de desenvolvimento”; “designer de jogos”; “<em lang="en">game design</em>”; “<em lang="en">design process</em>” “<em lang="en">framework</em>” “<em lang="en">model</em>”; “<em lang="en">game development</em>” e “<em lang="en">game designer</em>”. A pesquisa bibliográfica priorizou obras que abordassem um ou mais, dentre os temas: a) definição de Design de Jogos; b) características dos jogos digitais; c) etapas projetuais para a produção de um jogo digital; d) atuação do designer de jogos digitais.</p>
-<p>Em relação à busca pelas fontes sobre a Aprendizagem Baseada em Jogos Digitais, os termos pesquisados foram “aprendizagem baseada em jogos digitais”; “design”; “designer”; “jogo” “educação”; “aprendizagem”; “<em>game based learning</em>”; “<em>edutainment</em>”; “<em>game</em>”; “<em>learning</em>”; e “<em>serious games</em>”. Deu-se prioridade a obras que abordassem um ou mais, dentre os seguintes assuntos: a) definição de aprendizagem baseada em jogos digitais; b) características de aprendizagem baseada em jogos digitais; c) processo para criação de aprendizagem baseada em jogos digitais; d) o designer e a aprendizagem baseada em jogos digitais.</p>
-<p>Os termos pesquisados para as obras sobre gamificação na educação foram “gamificação”; “educação”; “aprendizagem”; “design”; “designer” “<em lang="en">gamification</em>”; “<em lang="en">education</em>”; e “<em lang="en">learning</em>”. Dentre os resultados, foram priorizadas obras que apresentassem um ou mais, dentre os tópicos: a) definição de gamificação; b) elementos da gamificação em âmbito educacional; c) abordagens para a aplicação da gamificação na educação; d) o designer e a gamificação para a educação. </p>
-<p>Foram selecionados para a inclusão nesta seção 80 estudos, divididos por temática, conforme quadro a seguir.</p>
+<p>A estrutura organizacional da SEAD foi regulamentada pela <a href=https://sead.ufes.br/wp-content/uploads/2022/06/regimento_interno_da_sead_2022.pdf>Resolução nº 14/2021 - Regimento Interno</a>. É através dela que procuramos viabilizar maior performance de atuação e flexibilidade diante das contingências que nos deparamos no percurso cotidiano e nos proporciona a geração de competências para a aceitação de desafios e aproveitamento de oportunidades, garantindo, assim, a satisfação do cidadão, demais usuários e, também, dos seus colaboradores, parceiros indispensáveis para uma empreitada bem-sucedida.</p>
+
+<p>O organograma da SEAD mostra que buscamos mesclar os conceitos das estruturas organizacionais simples e virtual, ou em rede, apresentando baixo grau de departamentalização, onde se sobressai a autoridade decorrente da competência técnica, da simplicidade, da obviedade, da agilidade, da flexibilidade, da manutenção barata e da clareza das responsabilidades. As composições das equipes de trabalho são flexíveis e interligadas as demais unidades.</p>
+
+<!-- adicionar organograma aqui -->
+
+<p>O que buscamos é a flexibilidade máxima da estrutura organizacional, com o intuito de obter concentração naquilo que sabemos fazer melhor. O nosso diferencial pressupõe uma elevada conectividade entre as partes, de tal forma que elas desenvolvam suas funções com autonomia e de forma auto coordenada. Entendemos que a unidade de comando é um conceito pouco relevante, porque trabalhamos com equipes auto gerenciadas e utilizamos plenamente as possibilidades de comunicação por meio de recursos das Tecnologias de Informação e Comunicação (TICs).</p>
+
+<h2 id="intertitulo-2-2">2.2. Macroprocessos Finalísticos e de Apoio</h2>
+
+<p>Os Macroprocessos Finalísticos da SEAD são 03 (três):</p>
+<ul>
+  <li>Processos de Realização de Cursos;</li>
+  <li>Processos de Provisão de Recursos e</li>
+  <li>Processos de Medição e Gestão.</li>
+</ul>
+
+<p>Os Macroprocessos de Apoio são 13 (treze):</p>
+<ul>
+  <li>Processos Relacionados aos Alunos;</li>
+  <li>Projeto e Desenvolvimento dos Cursos;</li>
+  <li>Planejamento da Prestação do Serviço Educacional;</li>
+  <li>Produção e Prestação do Serviço Educacional;</li>
+  <li>Gestão de Recursos Humanos;</li>
+  <li>Gestão de Recursos Materiais;</li>
+  <li>Gestão Financeira;</li>
+  <li>Planejamento e Gestão da Qualidade;</li>
+  <li>Medição e Monitoramento dos Processos;</li>
+  <li>Medição e Monitoramento da Prestação do Serviço Educacional;</li>
+  <li>Medição e Monitoramento da Satisfação dos Alunos e Colaboradores;</li>
+  <li>Auditorias internas e Auditorias do MEC.</li>
+  <!-- <li></li> -->
+</ul>
 
 <figure class="tabela">
   <table class="th-33">
-    <caption><span class="bold">Quadro 2.1 –</span> Obras e estudos da revisão de literatura sobre jogo, design e aprendizagem.</caption>
     <tr>
-      <th>Proposta do estudo</th>
-      <th>Autores</th>
-      <th>Quant.</th>
+      <th class="align-center" colspan="4">MACROPROCESSOS FINALÍSTICOS E DE APOIO AO EXERCÍCIO DAS COMPETÊNCIAS E FINALIDADES DA SEAD</th>
     </tr>
     <tr>
-      <th scope="row">Design de Jogos, definições e seus elementos</th>
-      <td>Bartle (1996); Crawford (2003); Bateman e Boon (2006); Dunniway e Novak (2008); Schuytema (2008); Adams (2010); Juul (2003); Novak (2010); Schell (2011); Salen e Zimmerman (2012); Rogers (2012).</td>
-      <td class="align-center">11</td>
+    <td class="align-center"><strong>MACROPROCESSOS FINALÍSTICOS</strong></td>
+    <td class="align-center"><strong>MACROPROCESSOS DE APOIO</strong></td>
+    <td class="align-center"><strong>PROCESSOS / INDICADORES QUALITATIVOS</strong></td>
+    <td class="align-center"><strong>SUBPROCESSOS</strong></td>
+   
+</tr>
+    <tr>
+      <td scope="row" rowspan="7"><strong>Processos de Realização dos Cursos</strong></td>
+      <td scope="row" rowspan="2">Processos Relacionados aos Alunos</td>
+      <td>Determinação e Análise dos Requisitos dos Alunos</td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">Abordagens para o Design de Jogos Digitais</th>
-      <td>Crawford (1984); Irish (2005); Dunniway e Novak (2008); Schuytema (2008); Adams (2010); Novak (2010); Bates (2014); Fullerton (2014).</td>
-      <td class="align-center">8</td>
+      <td>Comunicação com o Aluno</td>
+      <td>Atendimento SEAD</td>
     </tr>
     <tr>
-      <th scope="row">Jogos educativos e Aprendizagem Baseada em Jogos Digitais</th>
-      <td>Gee (2003); Mendes (2006); Mattar Neto (2008); Romão <em lang="en">et al</em>. (2008); Alves (2009); Tavares (2009); Mattar (2010); Novak (2010); Tori (2010); McGonigal (2012); Prensky (2012); Costa e Pafunda (2014); Fleury, Sakuda e Cordeiro (2014); Kapp, Blair e Mesch (2014); Mattar (2014); Bahia (2016); Ramos e Cruz (2018).</td>
-      <td class="align-center">17</td>
+      <td>Projeto e Desenvolvimento dos Cursos</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">Abordagens para a criação de Aprendizagem Baseada em Jogos Digitais</th>
-      <td>Garris, Ahlers e Driskell (2002); Kiili (2005); Ejersbo <em lang="en">et al</em>. (2008); Nadolski <em lang="en">et al</em>. (2008); Westera <em lang="en">et al</em>. (2008); Prensky (2012); Kapp, Blair e Mesch (2014); Groff <em lang="en">et al</em>. (2015); Bahia (2016).</td>
-      <td class="align-center">9</td>
+      <td>Planejamento da Prestação do Serviço Educacional</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">Gamificação na Educação</th>
-      <td>Deterding <em lang="en">et al</em>. (2011); Zichermann e Cunningham (2011); Kapp (2012); McGonigal (2012); Kapp, Blair e Mesch (2014); Landers (2014); Mattar (2014); Busarello (2016).</td>
-      <td class="align-center">8</td>
+      <td scope="row" rowspan="3">Produção e Prestação do Serviço Educacional</td>
+      <td>Gestão Pedagógica<br> IQ: 1,2,3,4,5,15,16,21.</td>
+      <td>Controle de Produto Não Conforme; Tutoria – Roteiro; Manual dos Coordenadores de Disciplinas; Guia de TCC Alunos; Guia de TCC Tutores; Manual da Coordenação de Tutoria; Manual de Padrões da SEAD/LDI; Desenvolvimento de Disciplinas; Encontros Presenciais; Organização do Sistema de Criação; Organização do Sistema de Produção de Disciplinas; Organização do Ambiente Virtual de Aprendizagem; Diagramação e Desenvolvimento do Material Didático; Elaboração de Videoaulas; Webconferências.</td>
     </tr>
     <tr>
-      <th scope="row">Abordagens para a gamificação na Educação</th>
-      <td>Simões <em lang="en">et al</em>. (2013); Simões, Redondo e Vilas (2013); Landers (2014); Kim e Lee (2015); Klock, Cunha e Gasparini (2015); Urha <em lang="en">et al</em>. (2015); Andrade, Mizoguchi e Isotani (2016).  </td>
-      <td class="align-center">7</td>
+      <td>Gestão Tecnológica<br> IQ: 17,18,19.</td>
+      <td>Normas Internas do Atendimento ao Aluno; Chamado de Assistência Técnica; Backup da Rede; Backup do Banco de Dados; Manutenção Preventiva dos Equipamentos de Informática; Solicitação de Atendimento ao Desenvolvimento de Software; Sistema de Informações Gerenciais - SIG; Produção, Gravação, Transmissão e Backup de Webconferências.</td>
     </tr>
     <tr>
-      <th scope="row">O designer de jogos digitais, educacionais e de gamificação</th>
-      <td>Bates (2004); Dunniway e Novak (2008); Schuytema (2008); Chagas (2009); Tavares (2009); Novak (2010); Fullerton (2014); Linzmayer (2014); Reiners e Wood (2014); Galisi (2009); Prensky (2012); Rogers (2012); Kenski (2015b); Marklund e Taylor (2015); Mattar (2010); Mattar (2014); Raftopoulos (2014); Nicholson (2015); Ašeriškis e Damaševičius (2017); Morschheuser <em lang="en">et al</em>. (2017).</td>
-      <td class="align-center">20</td>
+      <td>Gestão Acadêmica<br> IQ: 20,22,23.</td>
+      <td>Avaliação e Melhoria Contínua; Manual de Atividades da Secretaria Acadêmica; Avaliação de Alunos; Revisão de Gabarito; Revisão de Provas; Elaboração de Provas; Empréstimo de Material Bibliográfico; Rotina Operacional - Coordenação de TCC; Cancelamento e Trancamento de Matrícula; Arquivo Discente; Manual do Aluno.</td>
     </tr>
+    <tr>
+      <td scope="row" rowspan="3"><strong>Processos de Provisão de Recursos</strong></td>
+      <td>Gestão de Recursos Humanos</td>
+      <td>IQ: 28</td>
+      <td>Capacitação de Tutores, Coordenadores de Disciplinas e Colaboradores; Recrutamento, Seleção e Contratação de Pessoal; Emissão de Certificados de Capacitação Interna e de Palestrantes; Recrutamento, Seleção e Contratação de Estagiários; Tratamento aos Alunos Portadores de Necessidades Especiais – PNE.</td>
+    </tr>
+    <tr>
+      <td>Gestão de Recursos Materiais</td>
+      <td>IQ: 24</td>
+      <td>Logística; Aquisição de Bens, Produtos e Serviços; Almoxarifado; Aquisição de Material Bibliográfico; Manutenção Preventiva do dos Bens Móveis e Equipamentos.</td>
+    </tr>
+    <tr>
+      <td>Gestão Financeira</td>
+      <td>IQ: 14</td>
+      <td>Assessoria permanente a Execução Financeira dos Projetos.</td>
+    </tr>
+    <tr>
+      <td scope="row" rowspan="6"><strong>Processos de Medição e Gestão</strong></td>
+      <td>Planejamento e Gestão Estratégica</td>
+      <td>IQ: 11, 12, 13</td>
+      <td>Elaboração, acompanhamento e readequações.</td>
+    </tr>
+    <tr>
+      <td>Medição e Monitoramento dos Processos</td>
+      <td>IQ: 6, 27</td>
+      <td>Controle de Produto Não Conforme; Ações Corretivas, Ações Preventivas e Melhoria Contínua.</td>
+    </tr>
+    <tr>
+      <td>Medição e Monitoramento da Prestação do Serviço Educacional</td>
+      <td>IQ: 8, 10, 26</td>
+      <td>Controle de Produto Não Conforme; Ações Corretivas, Ações Preventivas e Melhoria Contínua.</td>
+    </tr>
+    <tr>
+      <td>Medição e Monitoramento da Satisfação dos Alunos e Colaboradores</td>
+      <td>IQ: 9, 25</td>
+      <td>Ações Corretivas, Ações Preventivas e Melhoria Contínua; Avaliação e Melhoria Contínua.</td>
+    </tr>
+    <tr>
+      <td>Auditorias Internas</td>
+      <td>IQ: 7</td>
+      <td>Ações Corretivas, Ações Preventivas e Melhoria Contínua.</td>
+    </tr>
+    <tr>
+      <td>Auditorias do MEC</td>
+      <td>IQ: 7</td>
+      <td>Ações Corretivas, Ações Preventivas e Melhoria Contínua.</td>
+    </tr>
+   
   </table>
-  <figcaption>
-    Fonte: elaborado pela autora.
-  </figcaption>
 </figure>
+
+<h2 id="intertitulo-2-3">2.3. Gestão de Pessoas</h2>
+
+<h3>2.3.1. Perfil do corpo técnico e docente</h3>
 
 <p>A seguir, o estudo se apresenta em subseções, a saber: a) o Design de Jogos digitais e as abordagens para a produção; b) a aprendizagem baseada em jogos digitais e modelos para o desenvolvimento; c) gamificação na educação e modelos para aplicação; e d) o designer no contexto dos jogos digitais, aprendizagem baseada em jogos digitas e gamificação na educação.</p>
 <p>As abordagens projetuais para o desenvolvimento desses projetos serão comparadas e a atuação do designer nesses contextos será discutida. Por fim, serão apresentadas as contribuições do capítulo para a elaboração de uma ficha de categorização soluções lúdicas que envolvam jogos digitais ou seus elementos.</p>
