@@ -139,14 +139,281 @@ include("components/page-header.php");
 <h2 id="intertitulo-2-3">2.3. Gestão de Pessoas</h2>
 
 <h3>2.3.1. Perfil do corpo técnico e docente</h3>
+<ul>
+  <li>Comprometidos com a missão da SEAD e o papel da Universidade Pública;</li>
+  <li>Comprometidos com a valorização do serviço público e conscientes da importância de seu trabalho para a sociedade;</li>
+  <li>Zelosos com o patrimônio público;</li>
+  <li>Atuantes nas discussões e definições das políticas públicas;</li>
+  <li>Pertencentes à comunidade universitária;</li>
+  <li>Empenhados com a qualidade dos processos educativos, assumindo a corresponsabilidade com a formação dos estudantes;</li>
+  <li>Responsáveis, solidários e respeitosos, exercendo uma postura pautada pela ética;</li>
+  <li>Críticos e investigativos de modo constante, primando pela formação qualificada e o aperfeiçoamento de suas funções;</li>
+  <li>Democráticos nas relações e dispostos ao trabalho em equipe;</li>
+  <li>Comprometidos com o desenvolvimento de ações de ensino, pesquisa, extensão e gestão, atentos às demandas locais, regionais, nacionais e globais.</li>
+</ul>
 
-<p>A seguir, o estudo se apresenta em subseções, a saber: a) o Design de Jogos digitais e as abordagens para a produção; b) a aprendizagem baseada em jogos digitais e modelos para o desenvolvimento; c) gamificação na educação e modelos para aplicação; e d) o designer no contexto dos jogos digitais, aprendizagem baseada em jogos digitas e gamificação na educação.</p>
-<p>As abordagens projetuais para o desenvolvimento desses projetos serão comparadas e a atuação do designer nesses contextos será discutida. Por fim, serão apresentadas as contribuições do capítulo para a elaboração de uma ficha de categorização soluções lúdicas que envolvam jogos digitais ou seus elementos.</p>
-<!-- Fim \ Introdução do Capítulo -->
+<p>As pessoas que compõem a equipe da SEAD, majoritariamente, possuem um nível de escolaridade acima do esperado para o cargo. Os incentivos existentes nos planos de carreira da Universidade e/ou a existência de um constante estímulo em busca de conhecimento e habilidade propiciam as ocorrências deste tipo.</p>
+
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th class="align-center" colspan="7">GESTÃO DE PESSOAS - PERFIL DA EQUIPE</th>
+    </tr>
+    <tr>
+      <th scope="row"><strong>ESCOLARIDADE</strong></th>
+      <th scope="row"><strong>DOCENTES DIREÇÃO</strong></th>
+      <th scope="row"><strong>SERVIDORES TÉCNICOS</strong></th>
+      <th scope="row"><strong>ESTAGIÁRIOS</strong></th>
+      <th scope="row"><strong>CONTRATADOS</strong></th>
+      <th scope="row"><strong>BOLSISTAS</strong></th>
+      <th scope="row"><strong>TOTAL</strong></th>
+    </tr>
+    <tr>
+      <td>2º Grau Completo ou Técnico</td>
+      <td>-</td>
+      <td>2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Superior Incompleto</td>
+      <td>-</td>
+      <td>-</td>
+      <td>10</td>
+      <td>4</td>
+      <td>-</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>Sup. Completo ou Habilitação Legal Equiparada</td>
+      <td>-</td>
+      <td>1</td>
+      <td>-</td>
+      <td>3</td>
+      <td>4</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Especialização</td>
+      <td>-</td>
+      <td>4</td>
+      <td>-</td>
+      <td>4</td>
+      <td>25</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td>Mestrado</td>
+      <td>-</td>
+      <td>11</td>
+      <td>-</td>
+      <td>-</td>
+      <td>32</td>
+      <td>43</td>
+    </tr>
+    <tr>
+      <td>Doutorado</td>
+      <td>2</td>
+      <td>1</td>
+      <td>-</td>
+      <td>-</td>
+      <td>69</td>
+      <td>72</td>
+    </tr>
+    <tr>
+    <th scope="row"><strong>TOTAL</th>
+    <th scope="row"><strong>2</th>
+    <th scope="row"><strong>20</th>
+    <th scope="row"><strong>10</th>
+    <th scope="row"><strong>11</th>
+    <th scope="row"><strong>130</th>
+    <th scope="row"><strong>173</strong></th>
+   
+    <tr>
+      <th class="align-center" colspan="7"></th>
+    </tr>
+    <tr>
+      <th scope="row"><strong>IDADES</strong></th>
+      <th scope="row"><strong>DOCENTES DIREÇÃO</strong></th>
+      <th scope="row"><strong>SERVIDORES TÉCNICOS</strong></th>
+      <th scope="row"><strong>ESTAGIÁRIOS</strong></th>
+      <th scope="row"><strong>CONTRATADOS</strong></th>
+      <th scope="row"><strong>BOLSISTAS</strong></th>
+      <th scope="row"><strong>TOTAL</strong></th>
+    </tr>
+    <tr>
+      <td>18 a 30 anos</td>
+      <td>-</td>
+      <td>-</td>
+      <td>10</td>
+      <td>6</td>
+      <td>3</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>31 a 40 anos</td>
+      <td>-</td>
+      <td>9</td>
+      <td>-</td>
+      <td>3</td>
+      <td>56</td>
+      <td>68</td>
+    </tr>
+    <tr>
+      <td>41 a 50 anos</td>
+      <td>-</td>
+      <td>9</td>
+      <td>-</td>
+      <td>1</td>
+      <td>45</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>51 a 60 anos</td>
+      <td>1</td>
+      <td>1</td>
+      <td>-</td>
+      <td>1</td>
+      <td>21</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>61 a 70 anos</td>
+      <td>1</td>
+      <td>1</td>
+      <td>-</td>
+      <td>-</td>
+      <td>5</td>
+      <td>7</td>
+    </tr>
+    <tr>
+    <th scope="row"><strong>TOTAL</th>
+    <th scope="row"><strong>2</th>
+    <th scope="row"><strong>20</th>
+    <th scope="row"><strong>10</th>
+    <th scope="row"><strong>11</th>
+    <th scope="row"><strong>130</th>
+    <th scope="row"><strong>173</strong></th>
+    </tr>
+  </table>
+</figure>
+
+<p>Na SEAD atuam diversos docentes e bolsistas, selecionados por concurso público, que se vinculam à Superintendência, por determinado período de tempo (duração do curso), como Coordenadores de Cursos, Coordenadores de Tutoria, Professores, Tutores e outros componentes da Equipe Multidisciplinar. Os estagiários são vinculados ao Laboratório de Design Instrucional (LDI). Trata-se de um Projeto de Extensão que desenvolve suas atividades na Superintendência. Entretanto, em decorrência da alteração na estrutura organizacional da Superintendência, a perspectiva é que em 2023 se transforme em Projeto de Pesquisa, para que fique adequado com a nova regulamentação do órgão e do novo Regimento Interno da Pro-Reitoria de Extensão (PROEX). A SEAD estuda também a possibilidade de desenvolver parcerias, como objeto de pesquisa em áreas de seu interesse, com os diversos pesquisadores da comunidade universitária para integrar-se a seus respectivos projetos.</p>
+
+<p>O Governo Federal autorizou a contratação de 33 docentes em virtude do credenciamento da UFES junto a UAB. A prioridade de trabalho desenvolvido por estes profissionais é o atendimento de 20h semanais para atuar na modalidade EaD, constituindo-se, portanto, em 660 horas semanais cuja carga horária no momento não é disponibilizada para a SEAD. </p>
+
+<h3>2.3.2. Infraestrutura física e Gestão Patrimonial</h3>
+
+<p>O espaço físico onde a SEAD-UFES desenvolve suas atividades é inadequado por diversas razões, entre as quais destacamos: área e banheiros insuficientes, prédio sem ventilação, almoxarifado e arquivo permanente alocados em ambiente inóspito, além de estar situado sobre a cisterna do Teatro da UFES. Mas, ainda assim foi adaptado para suportar a demanda atual, com mobiliário customizado e ar condicionado em período integral (é o maior custo de energia elétrica da UFES por m² de área utilizada). Trata-se de um grande salão, em formato geométrico de um trapézio irregular, onde funciona um estúdio de webconferência (web e gravação de videoaulas); sala de tutores; sala da tecnologia da informação; laboratório de design instrucional; secretaria acadêmica dos cursos; banheiros (um masculino e um feminino); copa cozinha e um fosso (onde estão localizados o almoxarifado e o arquivo permanente). O prédio contém ainda dois mezaninos. No primeiro, estão instalados a diretoria, a secretaria administrativa e a coordenação financeira. No segundo, outro estúdio de webconferência e uma sala de reuniões.</p>
+
+<p>Diante da inadequação do espaço físico descrito e as circunstâncias que contraindicam a utilização do prédio onde a SEAD funciona por falta de condições estruturais, e ainda o fato de que o crescimento das atividades de EAD já é uma realidade, é certo que viabilizar a mudança da SEAD para um novo espaço torna-se uma medida de bom senso e de ótima relação custo-benefício. Diante deste fato, o órgão iniciará a demanda pela elaboração do Projeto Arquitetônico e demais plantas da infraestrutura necessárias para pleiteiar a construção de um prédio customizado para o desenvolvimento de suas atividades. </p>
+
+<p>Com relação aos polos de apoio presencial EAD, os parâmetros de infraestrutura física e de pessoal foram estabelecidos pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), na <a href=http://http//portal.mec.gov.br/index.php?option=com_docman&view=download&alias=66441-pn-n11-2017-regulamentacao-ead-republicada-pdf&category_slug=junho-2017-pdf&Itemid=30192>Portaria Normativa MEC nº 11/2017</a>.</p>
+
+<p>O polo EAD deverá apresentar identificação inequívoca da IES responsável pela oferta dos cursos, manter infraestrutura física, tecnológica e de pessoal adequada ao projeto pedagógico dos cursos a ele vinculados, ao quantitativo de estudantes matriculados e à legislação específica, para a realização das atividades presenciais, especialmente:</p>
+
+<ul>
+  <li>Salas de aula ou auditório;</li>
+  <li>Laboratório de informática;</li>
+  <li>Laboratórios específicos presenciais ou virtuais;</li>
+  <li>Sala de tutoria;</li>
+  <li>Ambiente para apoio técnico-administrativo;</li>
+  <li>Acervo físico ou digital de bibliografias básica e complementar;</li>
+  <li>Recursos de Tecnologias de Informação e Comunicação - TIC;</li>
+  <li>Organização dos conteúdos digitais.</li>
+</ul>
+
+<p>É possível, com base em convênios firmados com outras instituições, que os espaços acadêmicos possam ser situados em outros locais. O IFES, por exemplo, possui campus em sete municípios onde a SEAD pretende realizar a expansão. Porém, há a obrigatoriedade da existência de pelo menos uma sala de aula/multiuso nas instalações do polo. Todos os espaços obrigatórios devem estar localizados no endereço sede do polo, podendo os demais espaços estar situados em locais distintos, desde que exista Termo de Cessão de Uso, assinado pelo proprietário do espaço, indicando os dias e horários de uso prioritário pelo polo UAB.</p>
+
+<p>Um polo deve ter uma infraestrutura tecnológica composta, basicamente, por:</p>
+
+<ul>
+  <li>Computadores em número adequado para atender o quantitativo de alunos do polo;</li>
+  <li>Conexão à internet em banda larga para todos os ambientes do polo;</li>
+  <li>Ferramentas pedagógicas tais como Datashow; lousa, podendo ser digital; equipamentos para webconferências.</li>
+</ul>
+
+<h4>2.3.2.1. Ampliação de polos</h4>
+
+<p>O Censo da Educação Superior 2021, divulgado pelo MEC/INEP, em 04/11/2022, indicou que, em média, há 1,8 alunos matriculados em cursos presenciais na rede privada para cada aluno matriculado na rede pública. Seis estados possuem essa relação maior que a média brasileira e o Espírito Santo (média 2,0) é um deles. Paralelamente, a população do Espírito Santo foi estimada em 4.108.508 habitantes, conforme divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), em 01/07/2021, sendo que 49,48% da população capixaba (2.033.067 habitantes) vivem nos sete municípios da <a href=https://pt.wikipedia.org/wiki/Regi%C3%A3o_Metropolitana_da_Grande_Vit%C3%B3ria>Região Metropolitana da Grande Vitória</a> (Cariacica, Fundão, Guarapari, Serra, Viana, Vila Velha e Vitória). É evidente que a maioria dos nossos potenciais alunos são moradores desses municípios. Considerando o déficit na oferta de matrícula pela rede pública, criaremos, na vigência do PDI 2021-2030, os seguintes polos de EAD:</p>
+
+  <figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th class="align-center">MACRORREGIÕES DE PLANEJAMENTO DO ESTADO DO ESPÍRITO SANTO</th>
+      <th class="align-center">MUNICÍPIOS</th>
+    </tr>
+    <tr>
+      <td>Metropolitana</td>
+      <td>Cariacica, Guarapari, Serra, Viana, UFES-Campus Goiabeiras, UFES-Campus Maruípe, Santa Maria de Jetibá.</td>
+    </tr>
+    <tr>
+      <td>Norte</td>
+      <td>Jaguaré, Barra de São Francisco.</td>
+    </tr>
+    <tr>
+      <td>Central</td>
+      <td>São Gabriel da Palha, Sooretama.</td>
+    </tr>
+    <tr>
+      <td>Sul</td>
+      <td>Anchieta, Guaçuí, Ibatiba, Marataízes.</td>
+    </tr>
+</table>
+</figure>
+
+<p>Com relação à proposição de criação dos polos associados à UFES (campus Goiabeiras e campus Maruípe), a SEAD pretende estruturá-los para finalidades diferentes. O polo do campus Goiabeiras para ofertar o ensino a distância semipresencial; apoiar o Ensino Híbrido; e as demais atividades presenciais. Há o entendimento de que ele possibilitará/facilitará a integração do ensino híbrido, viabilizando a possibilidade de uma transição de maior acesso à mobilidade, acessibilidade, inclusão e alcance; convivência num mesmo ambiente, com
+possibilidade de intercâmbio, entre metodologias e tecnologias de ensino-aprendizagem; acesso, igualdade e qualidade por diferentes abordagens; além da potencialização, integração e articulação intercampi (os polos de apoio presencial Alegre e São Mateus deverão ser reestruturados nos campi da UFES, nos respectivos municípios).</p>
+
+<p>O polo do campus Maruípe será estruturado para desenvolver as atividades vinculadas ao <a href=https://www.unasus.gov.br>Sistema Universidade Aberta do SUS (UNA-SUS)</a>, criado em 2010 para atender às necessidades de capacitação e educação permanente dos profissionais que atuam no Sistema Único de Saúde (SUS). Coordenado pelo Ministério da Saúde, por meio da atuação conjunta da Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES/MS) e da Fundação Oswaldo Cruz (Fiocruz), o Sistema UNA-SUS conta com uma rede colaborativa formada atualmente por 35 instituições de ensino superior (entre as quais a UFES, que recebeu parecer favorável ao seu credenciamento em 29/04/2014) para a oferta de cursos a distância gratuitamente. As atuais políticas nacionais para formação e qualificação dos profissionais de saúde, como as Diretrizes Curriculares Nacionais dos Cursos de Graduação das distintas profissões da saúde e o programa Mais Médicos (Brasil, 2013), reiteram que o Sistema Único de Saúde (SUS) constitui-se espaço privilegiado de ensino-aprendizagem.</p>
+
+<h4>2.3.2.2. Sistemas, Máquinas, Equipamentos e Utensílios</h4>
+
+<p>A UFES realizou recentemente uma adequação no parque de máquinas, equipamentos e utensílios da SEAD, promovendo diversas substituições e agregações, para acompanhar a evolução tecnológica que ocorre intensamente na área de atuação do órgão e que exige melhoria necessariamente periódica e contínua em curto espaço de tempo. No contexto mais amplo, a comunidade acadêmica da UFES já contava com o sistema Moodle para todos os níveis de ensino. O sistema é referência mundial em ações de educação a distância. Mais recentemente, a SEAD integrou-se à nova plataforma GSuite For Education para rodar mais recursos de mediação educacional por meio de tecnologias e viabilizar a estruturação e melhoria de seus processos. </p>
+
+<p>Com isso pretendemos que a UFES/SEAD se mantenha na vanguarda tecnológica a fim de que possamos desenvolver com excelência a modalidade de ensino a distância. Uma das necessidades mais prementes é a criação de uma plataforma em nuvem para exibição e armazenamento de vídeos, a exemplo do Youtube.</p>
+
+<p>Entretanto, por se tratar de uma infraestrutura sensível e vital para a SEAD e considerando o alto índice de obsolescência dos equipamentos de tecnologia e comunicação, entendemos que não basta fazer um investimento periódico na estruturação/reestruturação do seu parque tecnológico. O ideal é que o tempo de utilização de todo o sistema seja o maior possível ao longo da vida útil dos seus componentes e/ou obsolescência e que a Superintendência de Tecnologia da Informação – STI dispense sempre um tratamento diferenciado
+à SEAD, considerando as especificidades da sua atuação e que caminhem juntas em busca de soluções conjuntas que atendam às necessidades da comunidade universitária.</p>
+
+<h2 id="intertitulo-2-4">2.4. Aspectos Orçamentários</h2>
+
+<h2 id="intertitulo-2-5">2.5. Avaliação Institucional</h2>
+
+<p>A avaliação institucional, como processo permanente integrado ao planejamento estratégico, é responsável por acompanhar a realização da missão e verificar como está sendo construída a visão de futuro, promovendo uma ampla reflexão sobre as atividades (acadêmicas e administrativas) e resultando na proposição de medidas que visem ao aperfeiçoamento institucional.</p>
+
+<p>A Avaliação Institucional tem como premissas básicas os seguintes aspectos:</p>
+
+<ul>
+  <li>Prestar contas à sociedade do cumprimento de suas responsabilidades;</li>
+  <li>Considerar as atividades de ensino, pesquisa e extensão, no que diz respeito a sua eficácia e eficiência;</li>
+  <li>Avaliar a atuação das unidades a partir de um conjunto significativo de indicadores de qualidade integrados entre si e conforme a sua relação orgânica com a Instituição; </li>
+  <li>Criar uma cultura de avaliação educativa internalizada no cotidiano da Instituição;</li>
+  <li>Respeitar os valores e a cultura institucionais;</li>
+  <li>Promover um processo avaliativo participativo e transparente, atingindo todos os indivíduos que constituem os segmentos universitários e a sociedade civil.</li>
+</ul>
+
+<p>Nessa perspectiva, o planejamento deve considerar o processo avaliativo não apenas como um mero levantamento de fragilidades e potencialidades, mas, acima de tudo, como um processo de acompanhamento permanente das ações que visam alcançar os objetivos estratégicos estabelecidos.</p>
+
+<p>Considerando a natureza das atividades da SEAD, as interações com a sociedade e a previsão de crescimento em um período determinado, estruturamos o planejamento de longo, médio e curto prazo, respectivamente, através dos objetivos estratégicos estabelecidos no Planejamento Estratégico da SEAD, no <a href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Projeto Pedagógico Institucional (PPI)</a> e no <a href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento e Institucional (PDI)</a>.</p>
+
+<p>Na UFES, a <a href=https://www.ufes.br/secretaria-de-avalia%C3%A7%C3%A3o-institucional-seavin>Secretaria de Avaliação Institucional - SEAVIN</a> é o órgão responsável por acompanhar, coordenar e articular as diversas ações de avaliação desenvolvidas na Instituição. Os principais processos avaliados, e em decorrência disso acompanhados pela SEAVIN, são: processos de reconhecimento e renovação de reconhecimento de cursos via Enade; processos de reconhecimento e renovação de reconhecimento de cursos via visitas in loco; Índice Geral de Cursos (IGC); recredenciamento institucional; e rankings (nacional e internacional).</p>
+
+<p>As ações do Enade são atualmente divididas em três grandes etapas: desenvolvimento, treinamento e sensibilização. Destaca-se que a UFES alcançou Conceito de Curso máximo (5) em cinco cursos, um deles é desenvolvido na modalidade EAD pela SEAD/UFES. Os cursos nota cinco da UFES são: Arquivologia, Pedagogia-CEUNES, Estatística, Filosofia-EaD e Educação do Campo-CEUNES. A última vez em que um curso foi avaliado com CC=5 foi em 2008.</p>
+
+<p>O IGC é o índice que determina a renovação do credenciamento de todas as IES brasileiras. No entanto, todas as instituições devem passar por avaliações in loco periodicamente – chamadas de Recredenciamento Institucional. O tempo entre as avaliações institucionais in loco são determinadas pela nota da última visita institucional. A modalidade de ensino presencial da UFES obteve seu Conceito Institucional quatro (4) em 2011. Dessa forma, a próxima avaliação está prevista para ocorrer em 2021. Já a modalidade a distância, SEAD/
+UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota três), determinando a reavaliação em cinco anos, ou seja, prevista para 2022. </p>
+
+<h2 id="intertitulo-2-6">2.6. Planejamento Institucional</h2>
+
+
 
 
 
 <section>
+
   <h2 id="intertitulo-x">2.1 Exemplo de Intertítulo X</h2>
   <p>Salen e Zimmerman (2012, p. 95) apresentam uma síntese de definições de diversos autores sobre o jogo, em contextos analógicos e digitais, conforme quadro, a seguir. </p>
 
@@ -166,7 +433,7 @@ include("components/page-header.php");
       </tr>
       <tr>
         <th scope="row">Procede de acordo com regras que limitam os jogadores</th>
-        <td class="checked"> </td>
+        <td class="checked"></td>
         <td class="checked"> </td>
         <td class="checked"> </td>
         <td class="checked"> </td>
@@ -335,22 +602,7 @@ include("components/page-header.php");
     </figcaption>
   </figure>
 
-  <p>A partir disso, os autores definem jogo como “um sistema no qual os jogadores se envolvem em um conflito artificial, definido por regras, que implica um resultado quantificável” (SALEN; ZIMMERMAN, 2012, p. 95).</p>
-  <p>Crawford (2003 p. 6) considera que os jogos são uma forma de expressão criativa para a diversão interativa, jogável, com metas, desafios e conflitos. Segundo Schuytema (2008, p. 3), um jogo “é uma atividade lúdica composta por uma série de ações e decisões, limitada por regras e pelo universo do <em lang="en">game</em>, que resultam em uma condição final [...]”.</p>
-  <p>Para Rogers (2012, p. 26), o jogo é uma atividade com regras e condições de vitória, que requer um jogador. Schell (2011, p. 34) afirma que o jogo é jogado voluntariamente, tem objetivos, conflitos e regras, pode levar à derrota ou vitória, é interativo, tem desafios, pode criar valores internos próprios, envolve o jogador e é um sistema fechado formal. De acordo com o autor, “o jogo é uma atividade de solução de problemas, encarada de forma lúdica” (SCHELL, 2011, p. 37).</p>
-  <p>Juul (2003, p. 34) define o jogo como um sistema baseado em regras com o qual os jogadores interagem. As regras dão sentido e permitem ações, estabelecendo diferenças entre movimentos potenciais e eventos. São propostas pelo autor seis características necessárias para algo ser considerado um jogo: regras fixas; resultado variável e quantificável; valorização do resultado; esforço do jogador; vínculo do jogador ao resultado; consequências negociáveis.</p>
-  <p>Em relação ao Design de Jogos, Schuytema (2008, p. 3) explica com a analogia de que este é como uma planta baixa de um jogo – um plano para transformar a ideia em uma estrutura completa. Bateman e Boon (2006, p. 4) afirmam que o Design de Jogos é o processo de coordenar a evolução do design de um jogo. Tal processo pode envolver diversos agentes e componentes e é tarefa do designer integrar e garantir que os componentes criados atendam à determinada experiência de jogo.</p>
-  <p> Adams (2010, p. 37) defende que o Design de Jogos é um ofício, que inclui elementos artísticos – uma vez que deve ser esteticamente agradável –, e funcionais, pois deve proporcionar uma experiência memorável ao jogar. Projetar essa experiência requer criatividade e planejamento cuidadoso, uma vez que o objetivo de um jogo é entreter, por meio do jogar.</p>
-  <p>Schell (2011, p. 10) afirma que para compreender o Design de Jogos, é necessário entender uma rede complexa de criatividade, psicologia, arte, tecnologia e negócios. O autor defende que Design de Jogos é o ato de decidir o que um jogo deve ser, mas que por si só, o jogo é apenas artefato. Portanto, o designer de jogos se ocupa de projetar a experiência possibilitada pelo jogo para as pessoas que o jogam – e que não necessariamente se encerra ao fim do jogo (jogar).</p>
-  <p>O autor classifica os elementos dos jogos em quatro categorias intituladas “tétrade elementar”, que coexistem de modo inter-relacionado (SCHELL, 2011, p. 41): </p>
-  <ul>
-    <li><strong>Mecânica:</strong> entendida como conjunto de regras e a jogabilidade, o objetivo do jogo e os meios para alcançá-lo. </li>
-    <li><strong>Narrativa:</strong> é a sequência de eventos, uma história contada, que se desenvolve ao longo do jogo.</li>
-    <li><strong>Estética:</strong> relaciona-se com a aparência, os sons, cheiros, sabores e as sensações; importante na construção da experiência que o jogo proporcionará ao jogador.</li>
-    <li><strong>Tecnologia:</strong> é composta por materiais e interações que tornam o jogo possível de ser jogado.</li>
-  </ul>
-  <p>Em relação aos tipos de jogos, Dunniway e Novak (2008, p. 41) reconhecem que a escolha do gênero dita o design de um jogo. Nesse sentido, os autores explicam que há quatro tipos de orientação de design: pela jogabilidade, tecnologia, arte e narrativa. O design orientado pela jogabilidade apresenta uma experiência de jogo inovadora e o design orientado pela tecnologia, por sua vez, é voltado à experimentação de elementos da programação, do gráfico ou da física. O design orientado pela arte possui foco em características visuais únicas, enquanto o design orientado pela narrativa prioriza a história e seus elementos.</p>
-  <p>Novak (2010, p. 96) declara que os gêneros dos jogos são categorias com base no tema, ambiente, apresentação, perspectiva do jogador e estratégia de jogo. Rogers (2012, p. 32) complementa que os jogos possuem muitos gêneros e subgêneros. Por gênero, entende-se um estilo característico de jogabilidade. O autor lista alguns e pontua que um jogo pode combinar vários gêneros e subgêneros na proposta da jogabilidade. </p>
+  
   <ul>
     <li><strong>Ação: </strong>requer coordenação visual-motora, cujos subgêneros são aventura de ação, ação <em lang="en">arcade</em>, plataforma, ação furtiva, luta, <em lang="en">beat'em up/hack'n'slash</em>; </li>
     <li><strong><em lang="en">Shooter</em> (atirador):</strong> tem foco em atirar projéteis, com os subgêneros tiro em primeira pessoa, <em lang="en">shoot'em up</em> e tiro em terceira pessoa; </li>
@@ -364,12 +616,7 @@ include("components/page-header.php");
     <li><strong>Estratégia:</strong> jogos de pensamento tático e planejamento, com subgêneros estratégia em tempo real, estratégia em turnos, e jogos de defesa de torre;</li>
     <li><strong>Simulação de veículos:</strong> jogos simuladores de direção de diversos veículos, com subgêneros corrida e voo.</li>
   </ul>
-  <p>Segundo Novak (2010, p. 82), as plataformas mais comuns para os jogos são fliperamas, console, computador, plataformas on-line, consoles portáteis e <em lang="en">smartphones</em>. Os jogos podem ser jogados em modo monojogador, dois jogadores, multijogador local, multijogador em rede e multijogador on-line (NOVAK, 2010, p. 90).</p>
-  <p>Segundo Marucchi-Foino (2012, p. 10), os tipos de projeção gráfica em jogos são 2D, 2.5D e 3D. A projeção ortográfica 2D é a mais simples, em que a profundidade é mínima. A projeção ortográfica 2.5D proporciona acesso à terceira dimensão, para aumentar a impressão de profundidade. A projeção em perspectiva simula o ambiente em três dimensões, considerando o ângulo de visão da cena. </p>
-  <p>Kapp, Blair e Mesch (2014, p. 275) explicam que um “jogo 3D” faz uso de gráficos tridimensionais e permite movimento em todas as três dimensões, enquanto um “jogo 2D” possui gráfico e movimentação limitadas a duas dimensões. Os autores discorrem acerca das possibilidades tecnológicas para a implementação, que envolvem <em lang="en">software</em>, motores de jogo (<em lang="en">game engines</em>) e/ou linguagem de programação. </p>
-  <p>Com relação aos motores de jogo, esses são usados para estruturar o jogo em sistema que permite interação do usuário e que reaja a essas interações, por meio dos mecanismos de entrada (<em lang="en">input</em>s) e saída (<em lang="en">outputs</em>). Os autores explicam que os motores para criação de jogos em duas dimensões, de modo geral são simples de usar, com interface baseada no visual e interações de arrastar e soltar, mas que linguagens de <em lang="en">script</em> podem ser usadas para ampliar as funcionalidades. Alguns motores para o desenvolvimento de jogos em duas dimensões citados pelos autores são: GameMaker<a class="nota" href="#nota5" id="ref1" title="GameMaker. Disponível em: https://www.yoyogames.com/gamemaker. Acesso em abr. 2020.">5</a>, GameSalad<a class="nota" href="#nota6" id="ref1" title="GameSalad. Disponível em: https://gamesalad.com. Acesso em abr. 2020.">6</a>, Construct2<a class="nota" href="#nota7" id="ref1" title="Construct2. Disponível em: https://www.scirra.com/store/construct-2. Acesso em abr. 2020.">7</a> e Stencyl<a class="nota" href="#nota8" id="ref1" title="Stencyl. Disponível em: http://www.stencyl.com. Acesso em abr. 2020.">8</a> (KAPP; BLAIR; MESCH, 2014, p. 278). </p>
-  <p>Os motores para a criação de jogos em três dimensões tendem a ter um conjunto separado e especializado para a renderização de gráfico e física, que geralmente requerem programação em linguagens tais como C#<a class="nota" href="#nota9" id="ref1" title="C é uma das linguagens mais antigas e populares por sua eficiência e portabilidade, voltada para programar funções. C# é uma linguagem voltada para a programação de objetos. C++ é uma linguagem voltada para a programação de objetos e projetos de alto nível de desempenho (NOLIN, 2014, p. 243).">9</a>, C++ e Lua<a class="nota" href="#nota10" id="ref1" title="Schuytema (2008, p. 129) explica que Lua é uma linguagem de programação, mas também uma interface de programação de aplicações, que pode compartilhar dados e pode servir de estrutura para a construção de uma linguagem específica para o projeto.
-">10</a>. Além disso, é comum que a produção de modelos gráficos de cenário e personagens seja feita com <em lang="en">softwares</em> específicos de modelagem, como Maya<a class="nota" href="#nota11" id="ref1" title="Maya. Disponível em: https://www.autodesk.com/products/maya/. Acesso em abr. 2020.">11</a>, 3ds Max<a class="nota" href="#nota12" id="ref1" title="3ds Max. Disponível em: https://www.autodesk.com.br/products/3ds-max. Acesso em abr. 2020.">12</a> e Blender<a class="nota" href="#nota13" id="ref1" title=" Blender. Disponível em: https://www.blender.org/. Acesso em abr. 2020.">13</a>. Os autores citam alguns motores para o desenvolvimento de jogos em três dimensões: CryEngine<a class="nota" href="#nota14" id="ref1" title="CryEngine. Disponível em: https://www.cryengine.com. Acesso em abr. 2020.">14</a>, Torque 3D<a class="nota" href="#nota15" id="ref1" title="Torque3D. Disponível em: http://torque3d.org/. Acesso em abr. 2020.">15</a>, Unity<a class="nota" href="#nota16" id="ref1" title="Unity. Disponível em: https://unity3d.com. Acesso em abr. 2020.">16</a> e Unreal Engine<a class="nota" href="#nota17" id="ref1" title="Unreal Engine. Disponível em: https://www.unrealengine.com. Acesso em abr. 2020.">17</a>; e ferramentas para o desenvolvimento, tais como HTML5<a class="nota" href="#nota18" id="ref1" title="Hypertext Markup Language, versão 5, linguagem de marcação, comumente usada para construir páginas na Web.">18</a> e o programa Adobe Flash<a class="nota" href="#nota19" id="ref1" title="Adobe Flash. Adobe Flash. Disponível em: https://www.adobe.com/products/flash-builder-family.html. Acesso em abr. 2020.">19</a> (KAPP; BLAIR; MESCH, 2014, p. 279).</p>
+  
 
   <h3>2.1.1 Abordagens para a produção de jogos</h3>
 
@@ -377,9 +624,7 @@ include("components/page-header.php");
    <img width="270" height="270" src="img/ilustra_2.png" alt=""/>
  </figure>
 
-  <p>Esta seção tem por objetivo apresentar diversas abordagens para o Design de Jogos levantadas nesta pesquisa. Serão apresentados modelos projetuais, que serão discutidos e comparados, a fim de cotejar as etapas e compreender as semelhanças, diferenças e as lacunas.</p>
-  <p>Dunniway e Novak (2008, p. 40) alertam que não há modo certo ou errado de projetar um jogo, mas diferentes meios para fazê-lo. Bateman e Boon (2006, p. 5) afirmam que, embora possa existir um bom método para projetar jogos, isso não significa que tal método é aplicável a todos os casos, que sempre será relevante ou que é igualmente útil para todos os tipos de jogos. Os autores apontam a importância de conhecer e explorar diversos métodos, para ter mais opções, uma vez que o design de um jogo reflete as necessidades de um contexto projetual.</p>
-  <p>A abordagem metodológica de Crawford (1984, p. 49) foi e ainda é muito difundida, por considerar questões basilares ao desenvolvimento de jogos. Apesar de se tratar de uma abordagem antiga, a coerência e originalidade para a época em que foi divulgada a tornam pertinente. O autor indica as seguintes etapas: escolha de um tema; pesquisa e preparação; processo de design; pré-programação; programação; testes; e lançamento. </p>
+  
   <ol>
     <li><strong>Escolha de um tema:</strong> define como o jogo cativará o jogador, dos pontos de vista emocional e motivacional, expressa a meta, o ambiente, as condições e eventos.</li>
     <li><strong>Pesquisa e preparação:</strong> etapa para pesquisar ideias similares e esforços anteriores, reunir ideias e quesitos desejáveis.</li>
@@ -409,16 +654,7 @@ include("components/page-header.php");
     <li><strong>Pós-produção:</strong> fase de lançamento de versões para melhorias, correções, atualizações, conteúdos adicionais ou expansões.</li>
   </ol>
 
-  <p>Bates (2004, p. 203) esclarece que o ciclo projetual de alguns jogos dura seis meses, embora o de outros possa durar muitos anos. Independente da duração do projeto, há fases bem definidas, sendo essas: desenvolvimento do conceito, pré-produção e desenvolvimento.</p>
-  <ol>
-    <li><strong>Desenvolvimento de Conceito: </strong>essa etapa envolve a criação do “<em lang="en">high concept</em>”, que geralmente descreve o jogo de modo sucinto, em sentença breve que contempla o gênero do jogo, a jogabilidade, as funcionalidades e os aspectos, o cenário, enredo, público-alvo, a plataforma, o planejamento, cronograma e orçamento. Além disso, envolve o desenvolvimento do “<em lang="en">pitch document</em>”, um folheto resumido que apresenta a proposta do jogo, a justificativa e a rentabilidade; e do documento de conceito do jogo, que é mais longo e descritivo, direcionado aos <em lang="en">publishers</em>.</li>
-    <li><strong>Pré-produção:</strong> fase que envolve o desenvolvimento de documentos, tais como o “documento de design do jogo”, a “bíblia da arte” e o “documento técnico de design”. O documento de design do jogo descreve de modo minucioso tudo o que envolve a experiência do jogador e os elementos relacionados à jogabilidade. Esse documento é extenso e deve ser feito de modo a facilitar ao designer realizar modificações e à equipe, consultar. A bíblia da arte é o documento que apresenta o plano de produção de arte, descreve e ilustra os elementos, as referências e as características da linguagem visual do jogo, para servir de guia para as demais criações visuais, além de traçar o percurso de produção para a transformação dos conceitos visuais em ilustração ou modelo tridimensional. O documento técnico de design, por sua vez, contempla requisitos de ferramentas, tecnologia, estrutura, orçamento e cronograma para o desenvolvimento. Por fim, o resultado tangível da etapa de pré-produção é o protótipo, que deve permitir entendimento e visão em poucos minutos.</li>
-    <li><strong>Desenvolvimento: </strong>nessa etapa ocorre a produção do jogo, com testes constantes. Esse processo requer comunicação frequente entre os membros da equipe e controle do tempo e do orçamento. Nessa etapa, são geradas versões alfa (em que o projeto é jogável, embora nem todos os componentes estejam finalizados e integrados) e beta (em que o projeto está com todos os componentes implementados e em fase de testes, correções e aprimoramentos). Depois de concluídas todas as modificações, o jogo é fabricado. Após o lançamento, deve-se considerar a necessidade de desenvolver e disponibilizar extensões para compatibilidade ou melhorias.</li>
-  </ol>
-  <p>Irish (2005, p. 16) apresenta métodos de produção de <em lang="en">software</em>: “<em lang="en">Code-like-hell, Fix-like-hell</em>” e “<em lang="en">Increments to completition</em>”. O método <em lang="en">Code-like-hell, Fix-like-hell</em>, segundo o autor, se trata de um modelo comum e antigo, também conhecido como “método extremo de desenvolvimento de jogo”. O processo prevê as seguintes etapas: design; codificação e teste; e conclusão. </p>
-  <p>A etapa de design é a de definição do conceito e requisitos do projeto; a etapa de codificação e teste ocorre de modo cíclico, ao longo do desenvolvimento; e a etapa de conclusão se dá após a finalização de implementação e correção de todos os elementos. Em suma, os programadores codificam rapidamente para implementar o que foi definido no projeto e, após isso, testam e realizam ajustes. De acordo com o autor, esse modelo é problemático, pois deixa espaço para erros que, por vezes, são descobertos quando o código já está em desenvolvimento avançado. É um modelo que geralmente se adequa a projetos pequenos, com poucos e simples requisitos, pela dificuldade em mantê-lo por muitos meses.</p>
-  <p>De acordo com Irish (2005, p. 17), “<em lang="en">Increments to completition</em>” é um método de melhorias finitas e funciona para projetos em que o motor de jogo e as ferramentas a serem usadas já existam, e que cada peça e elemento seja um incremento. Esse processo fornece a vantagem de permitir desenvolvimento mútuo ou independente de vários componentes.</p>
-  <p>Inicialmente, são definidos os requisitos mais complexos do jogo e, posteriormente, definidos níveis de design menos complexos. Para cada nível de design, um ou mais componentes do sistema são desenvolvidos. No desenvolvimento, eles são codificados e testados e, antes de sua inserção e integração ao sistema, este é novamente testado.</p>
+ 
 
   <figure>
     <figcaption><span class="bold">Esquema 2.1 – </span>Abordagem <em lang="en">Increments to completition</em></figcaption>
@@ -426,15 +662,7 @@ include("components/page-header.php");
     <span class="fonte">Fonte: Irish (2005, p. 17, tradução nossa).</span>
   </figure>
 
-  <p>De acordo com Fullerton (2014, p. 414), o processo de produção de jogos é complexo e custoso. As etapas gerais, segundo a autora, são: conceituação; pré-produção; produção; garantia de qualidade; e manutenção.</p>
-  <ol>
-    <li><strong>Conceito:</strong> o conceito do jogo é gerado, com o objetivo de apresentar a ideia a um <em lang="en">publisher</em>. Junto a esse conceito, é apresentado um plano de projeto com metas, orçamento e cronograma, além de justificada a competência da equipe desenvolvedora. Essa etapa tem duração aproximada de um mês.</li>
-    <li><strong>Pré-produção:</strong> é produzido um protótipo digital com um nível jogável ou um ambiente do jogo, com foco em apresentar funcionalidades diferenciadas. Também deve ser preparado o documento de design com as especificações detalhadas do jogo. Essa etapa tem duração de aproximadamente cinco meses.</li>
-    <li><strong>Produção:</strong> é a etapa mais longa e custosa, com o objetivo de executar o plano estabelecido nas etapas anteriores. Os programadores escrevem o código que faz o jogo funcionar, artistas ilustram e animam e designers de som criam música e efeitos sonoros. O objetivo da etapa de produção é chegar ao código “alfa”, com todas as funcionalidades implementadas. Essa etapa pode durar cerca de 15 meses.</li>
-    <li><strong>Garantia de Qualidade:</strong> ao final da produção, o jogo é testado, avaliado e ocorre o refinamento. Ao final do polimento, chega-se ao código “ouro”, em que o jogo não apresenta mais problemas ou pendências e está pronto para ser lançado. Essa etapa dura cerca de dois meses.</li>
-    <li><strong>Manutenção:</strong> após o lançamento do jogo, a equipe acompanha o <em lang="en">feedback</em> dos jogadores e lança extensões e aprimoramentos para corrigir eventuais problemas. Essa etapa é contínua.</li>
-  </ol>
-  <p>A autora explica que, no início do projeto, as possibilidades são abertas e gerais, mas ao longo do processo são reduzidas as alterações no design inicial.</p>
+ 
   <figure>
     <figcaption><span class="bold">Esquema 2.2 – </span>Etapas de desenvolvimento.</figcaption>
     <img width="575" height="579" src="img/cap2/esquema_2-2.jpg" alt="Esquema projetual. Dentro de um retângulo branco há um triângulo cinza invertido, com a ponta para baixo. O retângulo e o triângulo são divididos em seções, por linhas. Na primeira linha, a seção com a palavra CONCEITUAÇÃO. No triângulo, há os dados DOCUMENTO DE CONCEITO, PLANO DE PROJETO E ORÇAMENTO, CONTRATO. Na segunda linha, a palavra PRÉ-PRODUÇÃO. No triângulo, os dados PROTÓTIPO JOGÁVEL, ESPECIFICAÇÕES DE TECNOLOGIA, DOCUMENTO DE DESIGN. Na terceira linha, a palavra PRODUÇÃO. No triângulo, os dados COMPONENTES, NÍVEIS, CÓDIGO ALFA. Na quarta linha, as palavras GARANTIA DE QUALIDADE. No triângulo, os dados CÓDIGO OURO. Na ponta do triângulo, a palavra LANÇAMENTO. Embaixo, na quinta linha, a palavra MANUTENÇÃO." />
@@ -719,16 +947,7 @@ include("components/page-header.php");
 <section>
   <h2 id="intertitulo-xx">2.2 Exemplo de Intertítulo XX</h2>
 
-  <p>Diversos autores salientam o potencial educacional dos jogos digitais – sejam eles projetados com esse propósito específico ou não. Segundo Novak (2010, p. 75), os jogos educativos, também conhecidos como “entretenimento educativo” (<em lang="en">edutainment</em>), são desenvolvidos especificamente para fins pedagógicos, para apresentar assuntos no próprio jogo – projetado para ensinar, enquanto diverte. Além disso, a autora afirma que os jogos que não são projetados especificamente para a educação acabam se tornando educativos “por acidente”, em função de fatores motivacionais que estimulam habilidades, obtenção e aplicação de conhecimentos e geram aprendizado (NOVAK, 2010, p. 77).</p>
-  <p>McGonigal (2012, p. 13) esclarece que as pessoas procuram os jogos pelas emoções proporcionadas, pois são sentimentos difíceis de alcançar.</p>
-  <blockquote>
-    <p>“Os jogadores querem saber: onde, no mundo real, existe esse sentimento de estar inteiramente vivo, focado e ativo em todos os momentos? Onde está a sensação de poder, de propósito heroico e senso de comunidade experimentados pelo jogador? Onde estão as explosões de alegria típicas de jogos criativos e estimulantes? Onde está a empolgante emoção de sucesso e vitória em equipe? [...] O mundo real simplesmente não oferece com tanta facilidade os prazeres cuidadosamente elaborados, os emocionantes desafios e o poderoso vínculo social conquistado em ambientes virtuais. A realidade não motiva com tanta eficácia. Ela não foi concebida para maximizar nosso potencial e não foi planejada para nos fazer felizes. [...] A realidade, em comparação aos jogos, se esgotou” </p>
-    <p class="citacao-autor">(MCGONIGAL, 2012, p. 13).</p>
-  </blockquote>
-
-  <p>Nesse sentido, a autora disserta sobre o uso de elementos dos jogos em contextos educacionais: subir de nível, por exemplo, pode substituir ou complementar o tradicional sistema de pontuação e notas, pois todos podem progredir, se houver esforço. Para a autora, esse sistema pode reduzir o estresse causado pelas falhas, estimulando os estudantes (MCGONIGAL, 2012, p. 136). Juul (2013, p. 30) complementa que, quando falhamos nos jogos, recebemos um <em lang="en">feedback</em> sobre nossos erros. Desse modo, o autor afirma que o jogo é a “arte do fracasso” – trata-se de um fracasso temporário, por meio do qual fazemos experiências e experimentos, para melhorarmos e atingirmos as metas.</p>
-  <p>Para Gee (2003, p. 34), os princípios de aprendizagem incorporados por jogos bem projetados podem tornar o aprendizado em âmbito educacional – e fora dele –, mais envolvente, tal como quando se joga de modo reflexivo e estratégico. Segundo o autor, os jogos proporcionam aprendizagem de modo ativo e crítico do domínio semiótico aprendido para a resolução de problemas em outros domínios semióticos, a partir de inter-relações entre os múltiplos sistemas de signos. Desse modo, estudantes podem aprender, explorar e percorrer caminhos diversos no espaço do jogo, em que as consequências do mundo real são baixas e a prática e a experimentação não são entediantes (GEE, 2003, p. 207).</p>
-
+  
   <figure class="tabela">
     <table class="th-33">
       <caption><span class="bold">Quadro 2.4 – </span>Princípios de aprendizagem em jogos bem projetados.</caption>
@@ -960,48 +1179,14 @@ include("components/page-header.php");
     <figcaption>Fonte: Adaptado de Prensky (2012, p. 220-221).</figcaption>
   </figure>
 
-  <p>Observa-se que, dentre os estilos de jogos possíveis para os 13 tipos de conteúdos de aprendizagem listados, o RPG foi o mais frequente, sugerido para cinco tipos de conteúdo (habilidades, julgamento, comportamento, linguagem, comunicação); seguido por jogos de aventura, indicado para quatro tipos de conteúdo (habilidades, julgamento, processo, observação); por jogos de simulação, citado para três tipos de conteúdos (teorias, processo, sistemas) e de reflexo, também listado para três tipos de conteúdos (procedimentos, linguagem, comunicação).</p>
-  <p>Ainda sobre as possibilidades de uso de jogos na educação, Gallo (2007, p. 165) aponta que os jogos permitem um maior envolvimento por parte do aluno-jogador, facilitando a transmissão de conhecimento e o processo de aprendizagem. O autor cita duas formas de aplicação dos jogos na Educação: a) o desenvolvimento de jogos para contextos e conteúdos específicos; b) a utilização de jogos existentes no mercado a partir de uma abordagem diferenciada.</p>
-  <p>De acordo com Costa e Pafunda (2014, p. 114) o jogo pode ser utilizado como peça central de uma unidade de trabalho; como estímulo inicial; ou ainda, como meio para que o jogador reflita e melhore seu desempenho. As autoras pontuam as vantagens da utilização dos jogos na educação, dentre as quais são destacadas: a fixação e o desenvolvimento de conceitos de forma motivadora; a participação ativa do aprendiz na construção do conhecimento; e a socialização entre participantes.</p>
-  <p>Segundo Alves (2009 p. 142), a interação com os jogos pode desenvolver o raciocínio lógico, a criatividade e a capacidade de solucionar problemas, além de possibilitar exercitar a tomada de decisões, como contribuição para a formação do estudante, por meio da experiência do jogo, que pode promover aprendizagem dinâmica e interativa.</p>
-  <p>Tori (2010, p. 185) explica que a interatividade do jogo aumenta a sensação de presença e de aproximação. Segundo o autor, os educadores buscam alunos atentos, motivados e produtivos tal como em seus jogos favoritos e, para isso, os professores devem tornar suas aulas mais divertidas, interativas e desafiadoras.</p>
-  <p>Fleury, Sakuda e Cordeiro (2014, p. 74) descrevem os benefícios do uso de jogos digitais educacionais: o jogo possibilita progressão personalizada e apropriada, por meio da experiência e do ritmo do processo de aprendizagem de cada aprendiz; permite repetição e fornece ao estudante o controle de sua aprendizagem – o que propicia o aumento de engajamento; aborda mais de um tema por vez, de modo lúdico, e oferece simulações sobre importantes conceitos e conteúdos, exercícios e práticas.</p>
-  <p>Ramos e Cruz (2018, p.23) afirmam que ao adotar os jogos como recurso para a aprendizagem, deve-se fazê-lo com um enfoque globalizador, em conformidade com uma formação mais holística e integral, que priorize o “saber fazer” e o “saber ser” para desenvolver o autoconhecimento, a problematização, o exercício crítico e o convívio com o outro. Para as autoras, os jogos atuam sob formas de aprendizagem distintas, tais como:</p>
-  <ul>
-    <li><strong>Aprendizagem conceitual:</strong> apresenta fatos, informações, conteúdos conceituais e factuais, por meio de desafios, interação, repetição e memorização; </li>
-    <li><strong>Exercício de habilidades:</strong> em um ambiente seguro, de modo procedimental, permite a repetição de ações que envolvem habilidades, por meio das quais são explorados métodos e exercitadas técnicas, estratégias e habilidades, promovendo ação e reflexão sobre o fazer;</li>
-    <li><strong>Exercício de modos de ser:</strong> por meio de conteúdos atitudinais e comportamentais, permite ao estudante assumir papéis, realizar ações, interagir com outras pessoas, criar vínculos sociais e relacionais.</li>
-  </ul>
-  <p>Mendes (2006, p. 80) explica os jogos educativos são direcionados para públicos específicos, com conteúdos e tecnologias orientados para cumprir objetivos de ensino, planejados como ferramentas de aprendizagem, compostos por conteúdos de currículos escolares. McGonigal (2012, p. 134) declara que a produção desses exemplares é cada vez maior e, quando são bem-sucedidos em combinar design e conteúdo educativo, esses proporcionam envolvimento aos alunos com suas atividades. </p>
-  <p>Bahia (2016, p. 82) afirma que projetar jogos educativos que proporcionem experiência cultural e aprendizagem significativa é o desafio dos profissionais que atuam na área, pois cada contexto educacional tem suas especificidades e cada conceito de jogo tem consistência própria. </p>
-  <p>Nesse sentido, a autora defende que é preciso voltar o foco para o desenvolvimento de jogos digitais que se apresentem como “conhecimento de ponta”, mesmo sem dispor de “tecnologia de ponta”, desde que a proposta seja adequada aos recursos disponíveis (BAHIA, 2016, p. 100). </p>
-  <p>A esse respeito, Mattar (2014, p. 44) acrescenta que “não são as imagens ou a multimídia, mas a jogabilidade que devemos aproveitar dos <em lang="en">games </em>em educação”. De acordo com o autor, os jogos oferecem personalização e adaptação individual aos jogadores, de um modo que os professores muitas vezes não conseguem atingir. Para tanto, é preciso considerar o aprendizado e a jogabilidade em primeiro lugar, além do conteúdo e dos objetivos de aprendizagem (MATTAR, 2010, p. 84).  </p>
-  <p>O autor informa a necessidade da avaliação se fazer presente nos jogos educacionais, que pode contar com a participação síncrona ou assíncrona de professores, ou ocorrer por discussões e atividades escritas ou práticas, para relacionar a experiência do jogador ao currículo e avaliá-la. </p>
-  <p>Prensky (2012, p. 209) alega que a maioria dos jogos comerciais ainda requer uma revisão quase completa para possibilitar o uso em âmbito educacional. Tori (2010, p. 99) complementa que usar um jogo existente, sem alteração, envolve procurar um jogo adequado e definir o momento ideal de uso. Apesar disso, a tentativa de envolver o aluno pode fracassar, caso a atividade que, embora seja lúdica, venha a ser percebida como obrigação, já que não houve a participação do aprendiz na decisão de escolha e no modo de uso. Já a criação de jogos educativos, segundo o autor, geralmente tem seu fracasso atribuído à falta de comprometimento com o foco em engajamento e jogabilidade, para atender unicamente a demandas do projeto pedagógico.</p>
-  <p>Mattar (2010, p. 17) pontua que há uma dicotomia entre <em lang="en">games</em> educacionais (entediantes) e <em lang="en">games</em> comerciais (divertidos) e é preciso facilitar o aprendizado com <em lang="en">games</em>, ao invés de ensinar com <em lang="en">games</em>. Com base nisso, o autor explica que o aprendizado tangencial ocorrerá, com parte da audiência em um processo de autoeducação, quando é apresentado a assuntos potencialmente de seu interesse, em contexto envolvente.</p>
-  <p>Prensky (2012, p. 504) alerta que, apesar das muitas críticas aos jogos de aprendizagem – “edutenimento” –, isso não ocorre porque o conceito de edutenimento é falho, mas em razão da existência de alguns jogos desse tipo mal projetados. O autor afirma que toda a educação boa é, e sempre foi, edutenimento e, por isso, condenar o gênero, em função da existência de algumas obras ruins, é um erro.</p>
-  <p>O autor argumenta que o problema das abordagens que propõem elementos a serem inseridos em um jogo para que esse seja bem sucedido no contexto educacional é que essas informações não garantem um bom resultado projetual – razão pela qual tantos jogos para aprendizagem são entediantes e ineficientes. Tavares (2009, p. 243) reforça que buscar relações de aprendizagem, sem tornar o jogo tedioso, não é uma tarefa fácil.</p>
-  <p>Por fim, a melhor maneira de combinar os jogos digitais e aprendizagem em qualquer situação depende do público (idade, experiência anterior com jogos); do assunto; do contexto; da tecnologia disponível; dos recursos; e da maneira como se planeja viabilizar a distribuição (PRENSKY, 2012, p. 212).</p>
-
-  <h3>2.2.1 Abordagens para a Aprendizagem Baseada em Jogos Digitais</h3>
-
-  <p>Nesse item, serão apresentadas e comparadas abordagens para o desenvolvimento a aplicação de abordagens para a Aprendizagem Baseada em Jogos Digitais, com a intenção de compreender e cotejar as etapas basilares das propostas pesquisadas.</p>
-  <p>Bahia (2016, p. 82) informa boas práticas para desenhar jogos que proporcionem aprendizagem significativa, tais como: realizar um levantamento de referências com propósitos similares; conhecer, jogar e ler sobre jogos; dialogar com desenvolvedores de jogos; gerar um conceito de jogo e documentá-lo; definir escopo compatível com os recursos; e considerar o perfil do usuário, suas referências e expectativas. </p>
-  <p>No âmbito da aprendizagem baseada em jogos digitais, Prensky (2012, p. 473) explica que a motivação deve vir em primeiro lugar, seguida de reflexão, individualização e conteúdo. O autor descreve um modelo:</p>
+ 
+  
   <blockquote>
     <p>“Uma pessoa (o “professor”), com profundo conhecimento sobre o assunto, pensa: “Sabe, eu poderia fazer disso um jogo?” Isso acontece por si só ou porque alguém (“o produtor”) lhe apresentou essa oportunidade. O professor reflete sobre o assunto e pensa sobre o jogo por um tempo, buscando elementos que poderão ou não funcionar. Cada vez mais, eles se voltam aos jogos comerciais – desenvolvidos para adultos ou crianças – para modelo, ideias e inspiração. O professor faz o protótipo, por conta própria, ou solicita ajuda de outros para fazê-lo. O protótipo passa por inúmeras interações, fortalecimento e melhoramento da ideia. O professor, quase sempre trabalhando com o produtor, arrecada fundos e cria o jogo. Se o jogo funcionar, ele é vendido para outros clientes fora da organização de criação, podendo ser eventualmente vendido a um distribuidor. Normalmente, surgem diversas extensões da ideia original em outras áreas, com novos conteúdos. Surgem também os imitadores, alguns que simplesmente copiam e alguns que melhoram a concepção. O jogo é continuamente atualizado sempre que cada onda de tecnologia de um novo jogo e hardware leva a uma atualização na “aparência e sensação” do produto. Dadas essas atualizações, um excelente conceito inicial pode durar por um bom tempo”</p>
     <p class="citacao-autor">(PRENSKY, 2012, p. 522).</p>
   </blockquote>
   <p>Esse modelo pode ser resumido nas seguintes etapas: ideação, concepção, prototipagem, produção, distribuição e atualização.</p>
-  <ul>
-    <li><strong>Ideação:</strong> o professor tem uma ideia, mediante uma oportunidade;</li>
-    <li><strong>Concepção:</strong> o professor reflete sobre a ideia e define elementos;</li>
-    <li><strong>Prototipagem:</strong> o professor produz e aperfeiçoa o protótipo; </li>
-    <li><strong>Produção:</strong> o professor arrecada fundos e cria o jogo;</li>
-    <li><strong>Distribuição:</strong> o jogo é vendido e distribuído;</li>
-    <li><strong>Atualização:</strong> o jogo é atualizado constantemente, mediante mudanças na tecnologia.</li>
-  </ul>
-  <p>Ao longo do processo, o autor destaca elementos importantes: ter uma clara visão geral do projeto como um todo; manter o foco na experiência do jogador; criar um jogo com uma estrutura forte, porém adaptável; o jogo deve ser fácil de aprender – mas difícil de dominar e deve manter o jogador em estado de fluxo; oferecer recompensas, ao invés de penalidades; incluir exploração e descoberta; oferecer assistência por meio de dicas e ter uma interface útil (PRENSKY, 2012, p. 192).</p>
+ 
 
   <figure class="tabela">
     <table class="th-33">
