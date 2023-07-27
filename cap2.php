@@ -380,6 +380,84 @@ possibilidade de intercâmbio, entre metodologias e tecnologias de ensino-aprend
 
 <h2 id="intertitulo-2-4">2.4. Aspectos Orçamentários</h2>
 
+<p>O orçamento público é um instrumento de planejamento e execução da ação pública. Visa cobrir as despesas relacionadas ao funcionamento dos serviços e outros fins adotados pela política econômica
+ou geral do país, assim como a arrecadação das receitas já criadas em lei. Conforme dispõe a Constituição Federal, o orçamento é concretizado por meio da lei orçamentária anual, de iniciativa do poder
+executivo e é autorizado pelo poder legislativo. Orçar é exercício de elencar prioridades, e o orçamento público é a estratégia definida pelo governo para atender as funções e prioridades do Estado. A UFES é uma autarquia de regime especial vinculada ao Ministério da Educação (MEC) e faz parte desse arcabouço orçamentário e legal. Entretanto, possui autonomia administrativa e de gestão financeira e patrimonial, nos termos do art. 207 da <a href=https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>Constituição Federal</a>.</p>
+
+<p>Historicamente, a exemplo das demais universidades, a UFES possui um percentual significativo do orçamento do tesouro destinado ao pagamento de pessoal e encargos sociais, comprometendo por volta de 88,44% do orçamento anual. Outra parte do orçamento é destinada às despesas correntes da Universidade que contempla os benefícios aos
+servidores e a despesa necessária à manutenção e continuidade das atividades institucionais. Os investimentos compõem também a peça orçamentária e referem-se à parcela que é composta por naturezas de despesa utilizadas para a formação ou aquisição de capital (ativo permanente) da Instituição. A esses valores podem ser adicionados os recursos referentes às Programações Condicionadas à Aprovação Legislativa, prevista no Inciso III do art. 167 da Constituição Federal.</p>
+
+<p>Especificamente, as fontes de financiamento da UFES/SEAD são:</p>
+
+<ul>
+  <li>Dotações que são atribuídas à Universidade nos orçamentos da União mediante parâmetros de Matrizes de Orçamento de Custeio e Capital e outros destaques;</li>
+  <li>Transferências voluntárias ou convênios envolvendo cooperação com órgãos governamentais ou não governamentais;</li>
+  <li>Taxas e emolumentos.</li>
+</ul>
+
+<p>Atualmente, a SEAD é considerada como um centro de custos para a UFES, isto é, unidade geradora de despesa ou, quando gera receita, é insuficiente para cobrir as despesas. Isso se deve principalmente por estar engessada com uma atuação exclusivamente vinculada a um programa do Governo Federal (UAB) e/ou por falta de institucionalização e/ou por falta de iniciativa, deixando de captar receita nas seguintes modalidades:</p>
+
+<ul>
+  <li>Retribuição por atividades econômicas (comercialização ou serviços);</li>
+  <li>Ressarcimento por uso de infraestrutura, imagem institucional ou royalties;</li>
+  <li>Receitas próprias arrecadadas da aplicação de bens e valores;</li>
+  <li>Doações e contribuições, a título de subvenção, concedidas por autarquias ou quaisquer pessoas físicas ou jurídicas.</li>
+</ul>
+
+<p>A dotação orçamentária consignada para o custeio da SEAD, na LOA/2023, é insuficiente para suprir a necessidade da unidade. No orçamento dos cursos, que são gerenciados e fiscalizados por esta Secretaria, uma parte, parametrizada, é destinada ao custeio das despesas da Secretaria e outra parte às ofertas dos cursos. Entretanto, essa é uma situação que nos causa um enorme incômodo. A UFES é integrada ao <a href=http://portal.mec.gov.br/politica-de-educacao-inclusiva?id=12265>Sistema Universidade Aberta do Brasil – UAB</a> e, periodicamente, através de um processo coordenado pela SEAD, participa das chamadas para articulação de cursos que, após serem aprovados, são financiados pela CAPES/MEC com a descentralização dos recursos financeiros referendada por Termos de Cooperação. Em virtude das inúmeras dificuldades envolvidas na gestão orçamentária, esta Secretaria contrata uma Fundação de Apoio para efetuar a execução financeira dos projetos aprovados e fica com a coordenação e fiscalização. </p>
+
+<p>Atualmente, temos contratos vigentes apenas com a <a href=https://fest.org.br>Fundação Espírito-Santense de Tecnologia – FEST</a></p>
+
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th class="align-center">PROJETOS</th>
+      <th class="align-center">TC CAPES </th>
+      <th class="align-center">PROCESSO UFES</th>
+      <th class="align-center">Nº FEST</th>
+      <th class="align-center" colspan="2">VIGÊNCIA FEST</th>
+    </tr>
+    <tr>
+      <td>UAB 2018 - Edital 05</td>
+      <td>9307</td>
+      <td>23068.031737/2020-47</td>
+      <td>909</td>
+      <td>03/12/2020</td>
+      <td>03/10/2025</td>
+    </tr>
+    <tr>
+      <td>UAB 2018 - Biblioteconomia</td>
+      <td>9185</td>
+      <td>23068.031736/2020-01</td>
+      <td>910</td>
+      <td>03/12/2020</td>
+      <td>03/10/2025</td>
+    </tr>
+    
+  </table>
+</figure>
+
+
+<p>A UFES integra, também, o <a href=https://universidades.es.gov.br>Sistema Universidade do Espírito Santo - UniversidadES</a>, programa do governo do estado, administrado pela <a href=https://secti.es.gov.br>Secretaria da Ciência, Tecnologia, Inovação e Educação Profissional - Secti</a>, desenvolvendo e ofertando cursos para <a href=https://universidades.es.gov.br/polos-unac>Universidade Aberta Capixaba (UnAC)</a>, em regime de colaboração. Através da SEAD participa das chamadas para articulação de cursos que após serem aprovados são financiados pela <a href=https://fapes.es.gov.br>Fundação de Amparo à Pesquisa e Inovação do Espírito Santo – FAPES</a>, com a alocação de recursos financeiros vinculados aos Coordenadores dos Cursos, através de Termos de Outorga, para execução dos projetos de ensino.</p>
+
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th class="align-center">PROJETOS</th>
+      <th class="align-center">TERMO DE OUTORGA</th>
+      <th class="align-center">PROCESSO UFES</th>
+      <th class="align-center" colspan="2">VIGÊNCIA FAPES</th>
+    </tr>
+    <tr>
+      <td>UNAC 2022 - Especialização em Direitos Humanos</td>
+      <td>555/2021</td>
+      <td>23068.082707/2021-80</td>
+      <td>01/01/2022</td>
+      <td>01/01/2024</td>
+    </tr>
+  </table>
+</figure>
+
 <h2 id="intertitulo-2-5">2.5. Avaliação Institucional</h2>
 
 <p>A avaliação institucional, como processo permanente integrado ao planejamento estratégico, é responsável por acompanhar a realização da missão e verificar como está sendo construída a visão de futuro, promovendo uma ampla reflexão sobre as atividades (acadêmicas e administrativas) e resultando na proposição de medidas que visem ao aperfeiçoamento institucional.</p>
@@ -407,6 +485,140 @@ possibilidade de intercâmbio, entre metodologias e tecnologias de ensino-aprend
 UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota três), determinando a reavaliação em cinco anos, ou seja, prevista para 2022. </p>
 
 <h2 id="intertitulo-2-6">2.6. Planejamento Institucional</h2>
+
+<p>Há diversos instrumentos de planejamento na Universidade. Os três principais para a SEAD/UFES são:</p>
+
+<ul>
+  <li>O <a href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento Institucional (PDI) da UFES</a>;</li>
+  <li>O <a href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Planejamento Pedagógico Institucional (PPI) da UFES</a>; e</li>
+  <li>O <a href=https://sead.ufes.br/wp-content/uploads/2023/06/sead_planejamento-estrategico_2021-2030.pdf>Planejamento Estratégico da SEAD</a>.</li>
+</ul>
+
+<p>O PDI é o documento que identifica e norteia o que será desenvolvido na UFES de uma forma geral. Está relacionado à filosofia de trabalho, à missão e às atividades acadêmicas realizadas ou pretendidas. Dessa forma, serve de base para o planejamento da Universidade como um todo, tem a função de guiar o trabalho dos cursos, centros de ensino, departamentos, superintendências e programas. Além disso, é o instrumento que o Ministério da Educação (MEC) e outros órgãos de controle utilizam para avaliar a instituição.</p>
+
+<p>O PPI é um instrumento de gestão acadêmica para projetar a Universidade para o futuro, estabelecendo diretrizes que levem ao seu contínuo avanço institucional. Sempre está em sintonia com o Plano de Desenvolvimento Institucional (PDI), pois é o documento que vai nortear as práticas institucionais na área acadêmica, o compromisso com as questões sociais, bem como os mecanismos de inserção regional da UFES e concepções sobre os processos de ensino, aprendizagem e avaliação.</p>
+
+<p>O Planejamento Estratégico da SEAD é um planejamento elaborado/coordenado pelo(a) Superintendente, nomeado para a gestão da Superintendência, e sua equipe. O Planejamento Estratégico pode/deve ser encarado como uma estratégia de gestão para conduzir as ações da Superintendência durante o lapso de tempo 2021-2030.</p>
+
+<h3>2.6.1. Planejamento Estratégico da SEAD 2021-2030</h3>
+
+<p>O Planejamento Estratégico foi elaborado a partir das contribuições coletadas por nossos colaboradores, tendo como referências o cenário nacional e regional; as tendências e perspectivas; o <a href=https://pne.mec.gov.br/18-planos-subnacionais-de-educacao/543-plano-nacional-de-educacao-lei-n-13-005-2014>Plano Nacional da Educação (PNE)</a>; o <a href=https://www.gov.br/economia/pt-br/assuntos/planejamento-e-orcamento/plano-plurianual-ppa>Plano Plurianual do Governo Federal (PPA)</a>; o <a href=https://planejamento.es.gov.br/Media/sep/Plano%20ES%202030/ES2030.pdf>Plano de Desenvolvimento do Espírito Santo - 2030</a>; o Plano de Desenvolvimento Institucional (PDI) e o Plano Pedagógico Institucional (PPI) de diversas Instituições Federais de Ensino Superior; os resultados de análises realizadas internamente na Instituição (como a autoavaliação institucional); e a Análise Ambiental (SWOT). Com isso, a SEAD espera contribuir para que a Missão da UFES seja cumprida com efetividade, atendendo aos anseios da sociedade.</p>
+
+<p>A Análise Ambiental foi efetuada utilizando a Matriz SWOT ou FOFA para destacar os pontos do ambiente externo (oportunidades e ameaças) e interno (fortes e fracos), a fim de proporcionar melhor entendimento sobre quais pontos críticos, fora e dentro do órgão, podem influenciar o seu desempenho.</p>
+
+<p>Dentre as oportunidades e ameaças presentes no macroambiente e os principais pontos fortes e fracos da SEAD elencamos os seguintes:</p>
+
+<!-- planilha -->
+
+<p>Os fatores externos que produzem impactos na instituição não podem ser alvos de uma ação direta da SEAD/UFES . No máximo, podemos aproveitar as oportunidades e nos defendermos das ameaças. Já os fatores internos da Superintendência, definidos como fortes ou fracos, podem e devem ser alvos de ações de gestão interna porque podem influenciar de forma positiva ou negativa na atuação do órgão.</p>
+
+<p>De forma ponderada, as informações obtidas com o estudo detalhado do cenário em que atuamos conduzem a definição de qual ou quais estratégias voltadas para as nossas atividades fim pretendemos utilizar. Priorizamos algumas atividades meio, adotando objetivos estratégicos, cuja gestão de alguma forma contribuirá diretamente para a consecução da nossa missão. A Matriz Microambiente de Atuação x Produto, de Ansoff, ficou definida da seguinte forma:</p>
+
+<!-- imagem / matriz de ansoff -->
+
+<h4>2.6.1.1. Objetivos Estratégicos</h4>
+
+<p>O Planejamento Estratégico da SEAD está definido com base em um conjunto de 20 (vinte) objetivos estratégicos a serem alcançados até o final do período de vigência 2021-2030. Os objetivos possuem indicadores que serão utilizados parwa monitorar os resultados obtidos pela Superintendência no decorrer do tempo.</p>
+
+<ul>
+  <li>Ampliar a oferta de vagas em cursos, na modalidade EAD, de graduação, pós-graduação, extensão e abertos;</li>
+  <li>Intensificar ações de formação e qualificação dos servidores da SEAD;</li>
+  <li>Regulamentar a atuação da SEAD nas instâncias decisórias da UFES com vistas à integração das modalidades de ensino;</li>
+  <li>Institucionalizar e estabelecer as bases legais na UFES para implantar o Ensino Híbrido (<a href=https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/57496468/do1-2018-12-31-portaria-n-1-428-de-28-de-dezembro-de-2018-57496251>Portaria MEC/GM nº 1.428/2018</a>), viabilizando a inserção de carga horária EAD nos cursos presenciais, possibilitando flexibilização e diferenciação na integralização curricular dos mesmos;Implantar e operacionalizar a parceria UFES/UNA-SUS (credenciamento de 29/04/2014);</li>
+  <li>Ampliar a infraestrutura física, tecnológica e de pessoal projetada para a SEAD e para os polos de educação a distância, em consonância com os cursos a serem ofertados;</li>
+  <li>Ampliar a taxa de sucesso e os índices de permanência, reduzindo os índices de evasão nos cursos de graduação, pós-graduação e de extensão, efetuados na modalidade EAD semipresencial;</li>
+  <li>Viabilizar o financiamento da EAD de forma simétrica ao fomento da educação presencial;</li>
+  <li>Viabilizar a Integração dos AVAs (Moodle) com o Sistema de Informação para o Ensino (SIE);</li>
+  <li>Promover a atualização tecnológica das salas de aula e espaços de ensino, com o objetivo de viabilizar a utilização das tecnologias de informação e comunicação na convergência das modalidades de ensino;</li>
+  <li>Viabilizar a flexibilização dos componentes curriculares com vistas à ampliação da acessibilidade e da inclusão;</li>
+  <li>Aprimorar a política de comunicação e divulgação interna e externa da SEAD;</li>
+  <li>Viabilizar o acesso a programas e aplicativos solicitados pelo mercado e de recursos de tecnologia assistiva, bem como a utilização de simuladores e outras plataformas de ensino;</li>
+  <li>Apoiar e viabilizar a divulgação e a oferta de cursos, materiais pedagógicos, repositórios, mídias educativas para a promoção continuada de formação de toda comunidade universitária;</li>
+  <li>Apoiar, promover e valorizar as ações de trabalho conjunto nas diferentes modalidades de ensino;</li>
+  <li>Desenvolver e consolidar mecanismos de diagnóstico, análise e identificação das necessidades de educação e saúde, padrões de distribuição geográfica e perfil socioeconômico da população;</li>
+  <li>Identificar demandas e desenvolver ações de formação de profissionais em áreas prioritárias para o desenvolvimento local e regional;</li>
+  <li>Intensificar ações de cooperação entre a Universidade e os municípios da região;</li>
+  <li>Propor a ampliação e qualificação das ações de assistência ao estudante da modalidade EAD junto às Pró-Reitorias pertinentes;</li>
+  <li>Ampliar ações de parceria, formação e qualificação para atender demandas regionais, por meio da consolidação da atuação multicampi da SEAD.</li>
+</ul>
+
+<h4>2.6.1.2. Estratégias</h4>
+
+<ul>
+  <li>Avaliar continuamente os processos educativos utilizados na EAD;</li>
+  <li>Manter atualizados os Projetos Pedagógicos dos Cursos EAD;</li>
+  <li>Aprimorar os mecanismos de acompanhamento e avaliação dos cursos EAD;</li>
+  <li>Ampliar os usos de tecnologias da informação e da comunicação (TICs) no ensino e na gestão das coordenações de Cursos EAD;</li>
+  <li>Fortalecer a mobilidade acadêmica na graduação e na pós-graduação;</li>
+  <li>Estimular o desenvolvimento de práticas formativas e currículos interdisciplinares, com itinerários flexíveis e alternativos;</li>
+  <li>Criar e qualificar polos associados EAD nos diversos campi da UFES;</li>
+  <li>Ampliar as práticas de pesquisa e de extensão nos currículos dos cursos EAD;</li>
+  <li>Desenvolver processos de aproximação entre cursos EAD, os campos de atuação profissional e as demandas da sociedade;</li>
+  <li>Viabilizar e/ou consolidar novos cursos a serem ofertados na modalidade a distância;</li>
+  <li>Avaliar continuamente mecanismos e formas de ingresso na EAD;</li>
+  <li>Fortalecer a Câmara Acadêmica da SEAD como espaço idealizador e/ou gerador de criação coletiva de novos projetos para a modalidade EAD;</li>
+  <li>Implementar projeto institucional de formação inicial e continuada de professores da Educação Básica por meio da modalidade EAD;</li>
+  <li>Intensificar a divulgação dos cursos EAD na sociedade;</li>
+  <li>Propor política de enfrentamento a retenção e evasão nos cursos EAD;</li>
+  <li>Implementar e qualificar o Processo Seletivo de Vagas Ociosas nos cursos EAD;</li>
+  <li>Estimular ações pedagógicas inovadoras aplicáveis à EAD;</li>
+  <li>Propor ações afirmativas para o ingresso e permanência dos estudantes na modalidade EAD a serem desenvolvidas pelas Pró-Reitorias competentes;</li>
+  <li>Acompanhar o desempenho dos estudantes nos cursos EAD;</li>
+  <li>Promover a integração entre as Unidades Acadêmicas para qualificar os cursos EAD.</li>
+</ul>
+
+<h4>2.6.1.3. Gestão Estratégica</h4>
+
+<p>A SEAD ainda não dispõe de uma ferramenta capaz de traduzir sua estratégia de atuação nos próximos dez anos. Utilizaremos o Balanced Scorecard (BSC) no que couber, por analogia, para alinhar os objetivos estratégicos, metas, indicadores e ações propostas, de forma a orientar os servidores no desempenho de suas funções, de maneira coordenada, visando ao alcance dos objetivos traçados.</p>
+
+<p>Assim, as quatro perspectivas do BSC (Clientes, Proces sos Internos, Aprendizado e Crescimento, Financeiro) foram adaptadas para a realidade da UFES da seguinte forma:</p>
+
+<ul>
+  <li>Alunos e Sociedade; </li>
+  <li>Processos;</li>
+  <li>Aprendizado e Infraestrutura; e</li>
+  <li>Sustentabilidade Financeira.</li>
+</ul>
+
+<p>Fazendo um mapeamento estratégico, a leitura pode ser feita da seguinte forma: a SEAD/UFES serve aos alunos e à sociedade (dimensão Planejamento Estratégico SEAD 2021-2030 78
+Alunos e Sociedade), para quem deve entregar resultados. Para entregar resultados, é preciso desenvolver um conjunto de processos de trabalho (dimensão Processos) e, para que isso seja possível, é necessário prover uma infraestrutura de apoio e desenvolver conhecimentos na sua equipe (dimensão Aprendizado e Infraestrutura). Para viabilizar todo esse contexto, é necessário um orçamento que dê sustentação à instituição (dimensão Sustentabilidade Financeira).</p>
+
+<p>Além das perspectivas de análise e do mapeamento, é importante sabermos que este planejamento é composto pelos seguintes elementos:</p>
+
+<ul>
+  <li>Objetivos: definem o que a SEAD quer alcançar;</li>
+  <li>Indicadores: buscam medir e acompanhar o sucesso da estratégia organizacional;</li>
+  <li>Metas: referem-se ao nível de desempenho ou à taxa de melhorias que devem que ser realizadas para o alcance dos objetivos pretendidos; e</li>
+  <li>Planos de Ações: relacionam-se as ações práticas necessárias para o alcance dos objetivos estratégicos organizacionais;</li>
+</ul>
+
+<h3>2.6.2. Objetivos Quantitativos para o biênio 2023-2024</h3>
+
+
+<h3>2.6.3. Objetivos Qualitativos para 2021-2022</h3>
+
+<h3>2.6.4. Outros Indicadores: 2023 - 2024</h3>
+
+<ul>
+  <li>Número de estudantes em mobilidade acadêmica na modalidade EAD;</li>
+  <li>Taxa de sucesso nos cursos de Graduação EAD;</li>
+  <li>Taxa de cursos com conceito igual ou superior a quatro ofertados na modalidade EAD;</li>
+  <li>Número de ações ou capacitações de formação pedagógica para atuação na modalidade EAD;</li>
+  <li>Número de cursos que apresentam propostas curriculares interdisciplinares flexíveis, com utilização de parte de sua carga horária por meio da modalidade EAD;</li>
+  <li>Número de novos polos de apoio presencial para a modalidade EAD;</li>
+  <li>Taxa de permanência nos cursos EAD;</li>
+  <li>Taxa de estudantes concluintes dos cursos EAD, que ingressaram por ações afirmativas;</li>
+  <li>Ampliação da estrutura de ensino na modalidade EAD, de forma qualificada por meio de benfeitorias de infraestrutura, novos equipamentos ou novo mobiliário;</li>
+  <li>Política de enfrentamento da retenção e da evasão aprovada nas instâncias pertinentes;</li>
+  <li>Taxa de retenção nos cursos EAD;</li>
+  <li>Taxa de evasão nos cursos EAD;</li>
+  <li>Número de vagas ociosas nos cursos EAD;</li>
+  <li>Número de vagas ociosas ocupadas nos cursos EAD, mediante promoção de Processo Seletivo de Vagas Ociosas nesses cursos;</li>
+  <li>Número de ações em formação continuada por meio de cursos EAD;</li>
+  <li>Número de docentes capacitados em ações formativas por meio da EAD;</li>
+  <li>Média da Avaliação Docente pelo Discente (ADD) em cursos EAD;</li>
+  <li>Número de cursos EAD com média superior a oito na ADD.</li>
+</ul>
 
 
 

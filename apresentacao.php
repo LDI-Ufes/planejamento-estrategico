@@ -1,5 +1,5 @@
 <?php 
-$capitulo = "Apresentação"; 
+$capitulo = ""; 
 $titulo = "Apresentação"; 
 $abertura = "(img/abertura-global.png)";
 include("components/page-header.php");

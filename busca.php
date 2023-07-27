@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Buscar em Jogo, Design e Educação a Distância: experiências, reflexões e modelo projetual</title>
+  <title>Buscar em Planejamento Estratégico SEAD 2021-2030</title>
 
   <?php include 'components/preload.php' ?>
   <link rel="stylesheet" href="css/busca.min.css">
@@ -21,7 +21,7 @@
 
   <nav class="navbar">
     <div class="container">
-      <div class="nav-title"><a href="index.php" title="Voltar para a página inicial">Jogo, Design e Educação a Distância: experiências, reflexões e modelo projetual</a></div>
+      <div class="nav-title"><a href="index.php" title="Voltar para a página inicial">Planejamento Estratégico SEAD 2021-2030</a></div>
 
       <button id="nav-ajustes" class="btn-terciary" data-modal="#modal-ajustes"><span>Ajustes de leitura</span></button>
       <a class="nav-logo" href="https://sead.ufes.br/" target="_blank" title="Abrir site da Sead em nova aba">
