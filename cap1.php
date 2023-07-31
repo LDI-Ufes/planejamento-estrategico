@@ -153,10 +153,42 @@ do ensino, a acessibilidade e a inclusão social – entre outros.</p>
 contribuir para o cálculo de indicadores de qualidade, como o Conceito Preliminar de Curso (CPC) e o Índice Geral de Cursos (IGC). Considerando a última divulgação efetuada pelo MEC/INEP, em 04/11/2022, referente ao ano de 2021, destacamos como informações mais relevantes em relação à educação à distância as seguintes:</p>
 
 
+<figure>
+    <img src="img/cap1/grafico1.svg" alt="">
+  </figure>
 
-<!-- gráficos de 1 a 9 -->
+  <figure>
+    <img src="img/cap1/grafico3.svg" alt="">
+  </figure>
+  
+  <figure>
+    <img src="img/cap1/grafico4.svg" alt="">
+  </figure>
+  
+  <figure>
+    <img src="img/cap1/grafico6.svg" alt="">
+  </figure>
+  
+  <figure>
+    <img src="img/cap1/grafico7.svg" alt="">
+  </figure>
+  
+  <figure>
+    <img src="img/cap1/grafico8.svg" alt="">
+  </figure>
 
-
+  <figure>
+    <img src="img/cap1/grafico10.svg" alt="">
+  </figure>
+  
+  <figure>
+    <img src="img/cap1/grafico11.svg" alt="">
+  </figure>
+  
+  <figure>
+    <img src="img/cap1/grafico13.svg" alt="">
+  </figure>
+  
 
 <p>Como podemos observar pelos dados estatísticos divulgados pelo MEC, o cenário ratifica a assertividade do caminho que vem sendo trilhado pela SEAD/UFES. As alternativas viáveis para a ampliação da educação superior, na modalidade EAD, são múltiplas e a implementação de algumas ações são inadiáveis, como por exemplo, sua imediata institucionalização pela UFES, possibilitando, assim, o fortalecimento e cumprimento da missão da UFES. Outra ação viável para implementação imediata poderá ser a integração, nos cursos de graduação, das duas modalidades de ensino (presencial e EAD), consoante o que preconiza a <a href=https://www.in.gov.br/en/web/dou/-/portaria-n-2.117-de-6-de-dezembro-de-2019-232670913>Portaria MEC nº 2.117/2019</a>, que dispõe sobre a oferta de carga horária na modalidade de Ensino a Distância - EAD em cursos de graduação presenciais ofertados por Instituições de Educação Superior - IES pertencentes ao Sistema Federal de Ensino. O ensino híbrido já é uma realidade em diversas Universidades Federais como, por exemplo, UNB, UFMG, UFPE e UFPR. Ainda no âmbito institucional, teremos que incluir as demandas e as potencialidades da SEAD no <a href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Planejamento Pedagógico Institucional (PPI)</a> e no <a href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento Institucional (PDI)</a> da UFES; e prospectar/explorar as diversas possibilidades de parcerias que a SEAD pode estabelecer, inclusive com geração de receita própria.</p>
 
