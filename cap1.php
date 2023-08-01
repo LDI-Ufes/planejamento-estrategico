@@ -203,51 +203,50 @@ informação e de comunicação (TIC) na educação, tendo em vista que uma Inst
 
 <p>Um dos primeiros diagnósticos que pode ser destacado tem relação direta com as principais soluções tecnológicas adotadas pelas instituições consultadas, com o propósito de manter a oferta das aulas durante a pandemia, após a suspensão do ensino presencial.</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico14.svg" alt="">
+  </figure>
 
 <p>A cultura estabelecida na EAD clássica, baseada em ambientes virtuais de aprendizagem (AVA), como o Moodle, apresentou-se, inicialmente, como a principal alternativa em 35,4% dos casos. Contudo, os dados indicam uma proximidade em relação à tendência que se consolidou com o prolongamento da urgência social: as aulas por plataformas de videoconferência. Isso pode ser constatado com a crescente utilização dos serviços de videoconferência – como Zoom, Google Meet e Microsoft Teams – na educação, em todos os níveis e modalidades,
 a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em plataformas de compartilhamento de vídeos, como Youtube, e pela utilização complementar de aplicativos de mensagens instantâneas, por exemplo, Telegram e Whatsapp, como alternativas de atendimento. A migração das aulas presenciais para as aulas remotas, após o início da pandemia, foi relativamente rápida, com 76,2% das instituições se adaptando à mudança nos primeiros 30 dias, de acordo com o Gráfico abaixo</p>
 
-
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico15.svg" alt="">
+  </figure>
 
 <p>O que talvez possa ser questionado para ampliar o debate é se essa agilidade na resposta refletiu apenas os aspectos tecnológicos. Enquanto o meio técnico se apresentou rapidamente como uma alternativa para viabilizar a continuidade das aulas, entre as consequências da disrupção estava a dificuldade metodológica, cuja dimensão não pode ser desconsiderada.</p>
 
 <p>Uma forma de compreender essa complexidade está na análise dos obstáculos para a ampliação da oferta, a qual evidenciou a falta de uma política específica de formação dos professores. Além disso, a falta de conectividade dos alunos é representativa e não pode ser ignorada, assim como a resistência dos professores e da sociedade em relação à aprendizagem à distância e os limites das competências e habilidades digitais das instituições.</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico16.svg" alt="">
+  </figure>
 
 <p>Nesse sentido, pode-se afirmar, pela análise da conjuntura social, que a pandemia trouxe indicativos de uma mudança na educação, que deve passar pela formação dos professores, pela revisão metodológica e pela atualização dos recursos tecnológicos, entre outras etapas. Destaca-se, na modalidade EAD, o fato de que 38,1% das instituições já indicaram o início desse processo, conforme apontado no gráfico abaixo.</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico17.svg" alt="">
+  </figure>
 
 <p>O processo de mudança em si antecipa tendências e tem relação com o futuro da educação. A esse respeito, observa-se, no Gráfico abaixo, que 42,9% das instituições consultadas acreditam que a oferta da EAD será ampliada, enquanto 38,1% veem possibilidade de crescimento da opção pelo ensino híbrido (blended learning).</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico18.svg" alt="">
+  </figure>
 
 <p>O ensino híbrido vem se reconfigurando pelos sistemas de ensino, apresentando-se como a solução predominante para o retorno escalonado dos alunos pós-pandemia, por meio da mescla entre aulas presenciais e remotas. O emprego dessa metodologia deve, cada vez mais, intensificar-se nas instituições de ensino, com o planejamento integrado das atividades e o desafio de superar os limites de conectividade no Brasil.</p>
 
-<p>O Gráfico ao lado permite observar que os dados fornecidos pelas instituições participantes do Censo EAD. BR 2020-2021 confirmam essa tendência de ampliação da oferta da EAD e do ensino híbrido em relação às modalidades oferecidas.</p>
+<p>O Gráfico abaixo permite observar que os dados fornecidos pelas instituições participantes do Censo EAD. BR 2020-2021 confirmam essa tendência de ampliação da oferta da EAD e do ensino híbrido em relação às modalidades oferecidas.</p>
 
-
-<!-- inserir gráfico na lateral aqui -->
-
+<figure>
+    <img src="img/cap1/grafico19.svg" alt="">
+ </figure>
 
 <p>Outro aspecto relevante, na visão dos gestores das instituições, corresponde ao modo como a crise sanitária demandou novas formas de relacionamento com os alunos. Nesse contexto, por um lado, surgiram oportunidades e, por outro, dificuldades financeiras precisaram ser superadas, conforme demonstra o Gráfico abaixo.</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico20.svg" alt="">
+  </figure>
 
 <p>Outro fato observado no período é que os polos de apoio presencial perderam temporariamente sua representatividade, dadas as concessões necessárias feitas pelas portarias do Ministério da Educação (MEC), que reduziram as exigências da presencialidade de modo geral. Dessa forma, a linha histórica do Censo também fica marcada por esse momento bastante peculiar da educação. Isso, de algum modo, permitirá que se tenha no futuro uma nova visão sobre a importância dos polos, diante do impulsionamento causado na educação à distância (EAD) pelas condições de estudo durante a pandemia. Sob este aspecto, é importante voltar o olhar para o número de polos fechados em 2020. As condições atípicas potencializaram os fechamentos, que apresentaram números superiores em relação aos anos anteriores, com um detalhe importante: do montante geral fechado, aproximadamente 99% pertenciam a instituições privadas. Essa movimentação demonstra efeitos colaterais das flexibilizações permitidas pelo MEC e, eventualmente, é fruto do modelo de negócio em que o polo é, em muitos casos, sediado em pequenas escolas que também fecharam suas portas no último ano.</p>
 
@@ -257,32 +256,36 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 
 <p>Alguns aspectos do Gráfico ao lado chamam a atenção, como o fato de 27% dos cursos de pós-graduação abordar temas que são avaliados no Exame Nacional de Desempenho dos Estudantes (Enade), uma avaliação de graduação. Além disso, em todos os quesitos analisados, a pós-graduação é citada com menos frequência com relação ao desenvolvimento de habilidades para o trabalho, de atitudes profissionais, de pesquisa e de expansão de horizontes.</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico21.svg" alt="">
+  </figure>
 
 <p>Os cursos livres também se destacam pelo desenvolvimento de habilidades voltadas para o mercado de trabalho. Isso sugere que os alunos que estão buscando formação livremente também parecem ter o mundo do trabalho como sua maior preocupação. Destaca-se, no entanto, entre os cursos corporativos, o desenvolvimento de atitudes e habilidades interpessoais, revelando aquilo que o mercado de trabalho efetivamente está buscando desenvolver entre seus colaboradores já contratados.</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico22.svg" alt="">
+  </figure>
 
 <p>Com relação às ações de aprendizagem, assistir a vídeos e ler textos são as mais frequentes, sendo, na pós-graduação, a oferta de textos mais frequente ainda, com 92% das instituições oferecendo esse tipo de conteúdo. Vale ressaltar, no entanto, que, apesar de as atividades de correção automática também serem muito frequentes nos cursos de graduação e pós-graduação EAD, com quase 80% das instituições propondo esse tipo de ação, os cursos de graduação têm outras propostas que estão se tornando mais frequentes ainda: desenvolver
 solução de problemas, realizar trabalhos dissertativos, elaborar textos acadêmicos, participar de discussões e realizar atividades de sua prática profissional.</p>
 
 <p>Em linhas gerais, parece que os cursos de graduação estão com propostas mais ricas do que os cursos de pós-graduação e até mesmo do que os cursos presenciais. A parte de criação é, em média, a menos frequente, com de 56% a 65% das instituições solicitando materiais multimídia e textos não acadêmicos na graduação EAD, presencial ou híbrida. Na pós-graduação, 27% a 37% das instituições, respectivamente, solicitam isso. Em 2020, ano da pandemia, também somente as graduações EAD propuseram atividades em laboratório.</p>
 
-
-<!-- inserir gráfico aqui -->
-
+<figure>
+    <img src="img/cap1/grafico23.svg" alt="">
+  </figure>
 
 <p>Existe a sensação de que, em 2020, a diversidade de recursos se ampliou mais na EAD que em cursos presenciais.</p>
 
-<!-- inserir gráfico aqui -->
+<figure>
+    <img src="img/cap1/grafico24.svg" alt="">
+  </figure>
 
 <p>Quanto aos repositórios, 94,7% dos cursos de graduação EAD contam com bibliotecas on-line e 64,5% dos cursos presenciais e híbridos contam com bibliotecas físicas. Somente 78% dos cursos presenciais e híbridos foram atendidos por bibliotecas on-line, mesmo na pandemia. Mais uma vez, a pós-graduação apresentou a tendência de estar menos servida de recursos variados em comparação com as graduações. Além disso, a minoria das instituições, entre 15 e 23,7%, investe em diferentes repositórios em um único sistema de busca.</p>
 
-<!-- inserir gráfico aqui -->
+<figure>
+    <img src="img/cap1/grafico25.svg" alt="">
+  </figure>
 
 <h4>1.3.3.1. Perfil dos Alunos</h4>
 
@@ -557,17 +560,21 @@ significa apoio e estímulo, por meio da administração de incentivos e benefí
   </figcaption>
 </figure>
 
+<figure class="retrato lateral">
+   <img width="270" height="270" src="img/cap1/infografico2.svg" alt=""/>
+ </figure>
+
 <p>Analisando os diversos aspectos presentes no microambiente de atuação, percebemos que eles são perfeitamente conciliáveis para a atuação da SEAD e apresentam similaridades com
 a visão e os valores institucionais da UFES. A SEAD/UFES, em suas intervenções na dinâmica social, com a oferta de produtos na área educacional, além da ética, buscará privilegiar e
 promover o desenvolvimento sustentável, baseado nos pilares do desenvolvimento econômico, do desenvolvimento social e da proteção ambiental. É necessário cada vez mais “pensar
 global, agir local”. Esse pensamento, atribuído ao planejador urbano e ativista social escocês Patrick Geddes, nunca esteve tão urgente em sua implementação como agora.</p>
 
-<!-- adicionar imagem lateral de competências aqui -->
-
 <p>Os crescentes acidentes ambientais e as constantes transformações climáticas apontam para um desequilíbrio que o meio social está provocando no ambiente, processo no qual
 o ser humano pode ser o agente transformador de maneira positiva ou negativa. Não se trata mais do cumprimento de uma norma e/ou acordo e, sim, de uma necessidade básica do ser humano. Na SEAD/UFES essa conscientização está internalizada e é um dos valores que permeia a atuação de seus agentes. Cada vez mais as cinco áreas de importância, os chamados <strong>Cinco P`s da sustentabilidade</strong> necessitam que as instituições de ensino se conscientizem de que precisam trabalhar conjuntamente.</p>
 
-<!-- adicionar img com os 5 ps de sustentabilidade aqui -->
+<figure>
+   <img src="img/cap1/infografico.svg" alt=""/>
+ </figure>
 
 <h3>1.3.6. Cenário Regional - Instituições de Ensino Superior no Espírito Santo - Modalidade EAD</h3>
 

@@ -10,7 +10,9 @@ include("components/page-header.php");
 
 <p>O organograma da SEAD mostra que buscamos mesclar os conceitos das estruturas organizacionais simples e virtual, ou em rede, apresentando baixo grau de departamentalização, onde se sobressai a autoridade decorrente da competência técnica, da simplicidade, da obviedade, da agilidade, da flexibilidade, da manutenção barata e da clareza das responsabilidades. As composições das equipes de trabalho são flexíveis e interligadas as demais unidades.</p>
 
-<!-- adicionar organograma aqui -->
+<figure>
+   <img src="img/cap2/organograma.svg" alt=""/>
+ </figure>
 
 <p>O que buscamos é a flexibilidade máxima da estrutura organizacional, com o intuito de obter concentração naquilo que sabemos fazer melhor. O nosso diferencial pressupõe uma elevada conectividade entre as partes, de tal forma que elas desenvolvam suas funções com autonomia e de forma auto coordenada. Entendemos que a unidade de comando é um conceito pouco relevante, porque trabalhamos com equipes auto gerenciadas e utilizamos plenamente as possibilidades de comunicação por meio de recursos das Tecnologias de Informação e Comunicação (TICs).</p>
 
@@ -508,7 +510,6 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <p>Dentre as oportunidades e ameaças presentes no macroambiente e os principais pontos fortes e fracos da SEAD elencamos os seguintes:</p>
 
-<!-- planilha -->
 <figure class="tabela">
   <table class="th-33">
     <tr>
@@ -622,7 +623,9 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <p>De forma ponderada, as informações obtidas com o estudo detalhado do cenário em que atuamos conduzem a definição de qual ou quais estratégias voltadas para as nossas atividades fim pretendemos utilizar. Priorizamos algumas atividades meio, adotando objetivos estratégicos, cuja gestão de alguma forma contribuirá diretamente para a consecução da nossa missão. A Matriz Microambiente de Atuação x Produto, de Ansoff, ficou definida da seguinte forma:</p>
 
-<!-- imagem / matriz de ansoff -->
+<figure>
+   <img src="img/cap2/matriz-ansoff.svg" alt=""/>
+ </figure>
 
 <h4>2.6.1.1. Objetivos Estratégicos</h4>
 
