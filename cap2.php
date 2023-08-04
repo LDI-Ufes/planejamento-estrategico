@@ -1,7 +1,7 @@
 <?php 
 $capitulo = "Capítulo 2";
 $titulo = "Perfil Institucional da SEAD";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/capa1.svg)";
 include("components/page-header.php"); 
 ?>
 <h2 id="intertitulo-2-1">2.1. Organização Administrativa</h2>
