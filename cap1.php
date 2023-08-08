@@ -132,13 +132,13 @@ do ensino, a acessibilidade e a inclusão social – entre outros.</p>
 
 
 <ol>
-  <li>oferecer, prioritariamente, cursos de licenciatura e de formação inicial e continuada de professores da educação básica;</li>
-  <li>oferecer cursos superiores para capacitação de dirigentes, gestores e trabalhadores em educação básica dos Estados, do Distrito Federal e dos Municípios;</li>
-  <li>oferecer cursos superiores nas diferentes áreas do conhecimento;</li>
-  <li>ampliar o acesso à educação superior pública; </li>
-  <li>reduzir as desigualdades de oferta de ensino superior entre as diferentes regiões do País;</li>
-  <li>estabelecer amplo sistema nacional de educação superior à distância;</li>
-  <li>fomentar o desenvolvimento institucional para a modalidade de educação à distância, bem como a pesquisa em metodologias inovadoras de ensino superior, apoiada em tecnologias de informação e comunicação.</li>
+  <li>Oferecer, prioritariamente, cursos de licenciatura e de formação inicial e continuada de professores da educação básica;</li>
+  <li>Oferecer cursos superiores para capacitação de dirigentes, gestores e trabalhadores em educação básica dos Estados, do Distrito Federal e dos Municípios;</li>
+  <li>Oferecer cursos superiores nas diferentes áreas do conhecimento;</li>
+  <li>Ampliar o acesso à educação superior pública; </li>
+  <li>Reduzir as desigualdades de oferta de ensino superior entre as diferentes regiões do País;</li>
+  <li>Estabelecer amplo sistema nacional de educação superior à distância;</li>
+  <li>Fomentar o desenvolvimento institucional para a modalidade de educação à distância, bem como a pesquisa em metodologias inovadoras de ensino superior, apoiada em tecnologias de informação e comunicação.</li>
 </ol>
 
 <p>Ao analisarmos os objetivos III, IV e V da UAB fica claro que tais objetivos ainda não foram totalmente atendidos. A oferta de cursos por meio da UAB concentra-se majoritariamente em licenciaturas e observa-se que outras IES optaram por uma diversidade maior em sua formação. Com isso, de forma restrita, para a UAB, o objetivo III, referente à oferta de cursos nas diversas áreas do conhecimento, parece satisfatoriamente atendido.</p>

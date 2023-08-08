@@ -47,6 +47,11 @@ article {
 		> li {
 			margin-left: 1em;
 
+			&::marker{
+				color:var(--primariaPrincipal);
+				font-weight: 700;
+			}
+
 			strong:first-of-type {
 				color: var(--primariaPrincipal);
 			}
