@@ -1,7 +1,7 @@
 <?php 
 $capitulo = ""; 
 $titulo = "Referências"; 
-$abertura = "(img/abertura-global.png)";
+$abertura = "(img/capa4.png)";
 include("components/page-header.php"); 
 ?>
 
