@@ -89,7 +89,7 @@ $autorLivro = "Mauro Pantoja";
     </section>
 
 
-    <section id="authors">
+    <!-- <section id="authors">
       <div class="container container-content">
         <h2>Quem escreveu:</h2>
 
@@ -111,7 +111,7 @@ $autorLivro = "Mauro Pantoja";
 
         </ul>
       </div>
-    </section>
+    </section> -->
 
    
 
