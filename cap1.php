@@ -1,7 +1,7 @@
 <?php 
 $capitulo = "Capítulo 1";
 $titulo = "Introdução";
-$abertura = "(img/capa6.png)";
+$abertura = "(img/capa6.svg)";
 include("components/page-header.php"); 
 ?>
 <h2 id="intertitulo-1-1">1.1 A Superintendência de Educação a Distância - SEAD</h2>
