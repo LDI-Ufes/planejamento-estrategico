@@ -1,7 +1,7 @@
 <?php 
 $capitulo = ""; 
 $titulo = "Apresentação"; 
-$abertura = "(img/capa3.png)";
+$abertura = "(img/capa3.svg)";
 include("components/page-header.php");
 ?>
 
