@@ -10,7 +10,7 @@ include("components/page-header.php");
 
 <p>A SEAD é o órgão da UFES que realiza o acompanhamento, a supervisão e o apoio das atividades da EAD na Universidade, viabilizando os processos de ensino e aprendizagem mediados por tecnologias da informação e comunicação. Tem como objetivos:</p>
 
-<ul>
+<ul class="listagem">
   <li>Propor, definir e implementar políticas de EAD na UFES em conjunto com a Pró-Reitoria de Graduação, Pró-Reitoria de Pesquisa e Pós-Graduação e Pró-Reitoria de Extensão; </li>
   <li>Coordenar atividades pedagógicas e administrativas para o desenvolvimento dos cursos, dos projetos e das ações em EAD;</li>
   <li>Gerir os credenciamentos e fomentos que viabilizam as ofertas dos cursos de Graduação e Pós-Graduação à distância;</li>
@@ -76,7 +76,7 @@ o cumprimento da Missão da UFES.</p>
 <p><span class=" bold cor">NEGÓCIO:</span> Democratizar o acesso ao ensino superior e à qualificação profissional de cidadãos viabilizando ações educativas e de formação, com mediação didático-pedagógica dos processos de ensino e de aprendizagem através das tecnologias da informação e da comunicação, ambientes virtuais de aprendizagem e, presencialmente, uilizando os polos municipais de apoio presencial, contribuindo dessa forma para a redução das desigualdades sociais, o desenvolvimento humano, social, individual e coletivo de forma integrada com a sociedade e de forma comprometida com o desenvolvimento sustentável.</p>
 
 <p><span class=" bold cor">VALORES:</span></p>
-<ul>
+<ul class="listagem">
   <li>Atuação calcada em princípios éticos e de sustentabilidade social, econômica e ambiental;</li>
   <li>Compromisso com a excelência do ensino, da pesquisa e da extensão;</li>
   <li>Compromisso com a valorização das pessoas e defesa intransigente dos direitos humanos na garantia do Estado democrático de direito;</li>
@@ -91,7 +91,7 @@ o cumprimento da Missão da UFES.</p>
 </ul>
 
 <p><span class=" bold cor">DESAFIOS INSTITUCIONAIS:</span></p>
-<ul>
+<ul class="listagem">
   <li>Ações afirmativas </li>
   <li>Imagem Institucional</li>
   <li>Infraestrutura e acessibilidade</li>
@@ -103,7 +103,7 @@ o cumprimento da Missão da UFES.</p>
 
 <h2 id="intertitulo-1-3">1.3 Cenário da Educação a Distância</h2>
 
-<p>O estudo “Qualidade global em educação online, aberta, flexível e aprimorada por tecnologia”, realizado pelo Conselho Internacional para Educação Aberta e a Distância (ICDE), em 2018, examinou pontos fortes e fracos, além de oportunidades e ameaças à qualidade da educação à distância (EAD) em nível global. Foram entrevistados líderes de instituições de ensino da África, Arábia, Ásia, Europa, América Latina, Caribe, América do Norte e Oceania. O estudo apontou que, embora a EAD esteja em alta em muitos países, os cursos e programas ainda apresentam elevado grau de desigualdade. Um dos fatores que ocasionam essa desigualdade diz respeito à falta de consistência dos padrões utilizados pelos órgãos governamentais para avaliação da qualidade da educação virtual. Sem parâmetros para determinar o benchmarking, as instituições se deparam com um quadro de ambiguidade em relação às expectativas de qualidade de suas ações. A falta de padrões confiáveis também pode criar problemas em relação à credibilidade da aprendizagem virtual, flexível e aprimorada por tecnologia. Com isso, a oferta de cursos ou programas sem a incorporação das melhores práticas resulta em “experiências ruins de aprendizado para os alunos”, aponta o levantamento do ICDE.</p>
+<p>O estudo “Qualidade global em educação online, aberta, flexível e aprimorada por tecnologia”, realizado pelo Conselho Internacional para Educação Aberta e a Distância (ICDE), em 2018, examinou pontos fortes e fracos, além de oportunidades e ameaças à qualidade da educação à distância (EAD) em nível global. Foram entrevistados líderes de instituições de ensino da África, Arábia, Ásia, Europa, América Latina, Caribe, América do Norte e Oceania. O estudo apontou que, embora a EAD esteja em alta em muitos países, os cursos e programas ainda apresentam elevado grau de desigualdade. Um dos fatores que ocasionam essa desigualdade diz respeito à falta de consistência dos padrões utilizados pelos órgãos governamentais para avaliação da qualidade da educação virtual. Sem parâmetros para determinar o <em lang="en">benchmarking</em>, as instituições se deparam com um quadro de ambiguidade em relação às expectativas de qualidade de suas ações. A falta de padrões confiáveis também pode criar problemas em relação à credibilidade da aprendizagem virtual, flexível e aprimorada por tecnologia. Com isso, a oferta de cursos ou programas sem a incorporação das melhores práticas resulta em “experiências ruins de aprendizado para os alunos”, aponta o levantamento do ICDE.</p>
 
 <p>Outro desafio para a educação à distância em nível global é o desenvolvimento profissional. Em muitas regiões, ainda não foi implantada uma capacitação apropriada para o corpo docente ou mesmo para os demais profissionais envolvidos nas atividades. Essa circunstância resulta não só em um ambiente inadequado de aprendizagem para os alunos, como também em uma experiência frustrante para os próprios professores. Com isso, em muitos casos, os docentes preferem prosseguir no modo face a face, presencial, sem compreender o seu papel na educação à distância e sem conseguir atender as necessidades virtuais de seus alunos.</p>
 
@@ -156,10 +156,15 @@ contribuir para o cálculo de indicadores de qualidade, como o Conceito Prelimin
 
 
 <figure>
+  <h4 class="align-center">Vagas oferecidas para ingresso em cursos de graduação</h4>
+  <h5 class="align-center">Número de vagas oferecidas em cursos de graduação, por modalidade de ensino – Brasil 2014-2021</h5>
     <img src="img/cap1/grafico1.svg" alt="">
+  <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>  
   </figure>
 
   <figure>
+  <h4 class="align-center">Vagas oferecidas vs. Vagas ocupadas (ingressos)</h4>
+  <h5 class="align-center">Taxa de ocupação das vagas novas ofertadas, segundo cursos específicos - Brasil 2021</h5>
     <img src="img/cap1/grafico3.svg" alt="">
   </figure>
   
@@ -596,7 +601,7 @@ o ser humano pode ser o agente transformador de maneira positiva ou negativa. N�
 
 <p>O fio condutor que tece tudo o que você leu até aqui é o fascínio pelo amanhã e uma lente provocativa para a cultura. Nesse sentido, a consultoria <em lang="en">BrainReserve</em>, em diversos outros artigos, aponta os setores que irão crescer à medida que avançamos para 2030:</p>
 
-<ul>
+<ul class="listagem">
   <li><strong><em lang="en"><a href=https://www.voitto.com.br/blog/artigo/e-learning>E-learning</a></em>:</strong> de cursos online a implantes cerebrais, conhecimento é poder. </li>
   <li><strong><em lang="en"><a href=https://rockcontent.com/br/blog/e-commerce-guia>E-commerce</a></em>:</strong> satisfazer as necessidades do consumidor sem obrigá-lo a sair de seus Pod Coons (espaços móveis de vida/trabalho).</li>
   <li><strong><a ref=https://www.saudebusiness.com/ti-e-inovao/entenda-como-telessade-pode-melhorar-medicina-no-brasil>Telessaúde</a>:</strong> de visitas de bem-estar a procedimentos médicos e saúde mental, tudo está acontecendo virtualmente. O apoio emocional será vital por anos pós-pandemia, à medida que a sociedade se recupera do que perdeu.</li>
