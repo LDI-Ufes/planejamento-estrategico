@@ -31,8 +31,8 @@ include("components/page-header.php");
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center">MACRORREGIÕES DE PLANEJAMENTO DO ESTADO DO ESPÍRITO SANTO</th>
-      <th class="align-center">MUNICÍPIOS</th>
+      <th class="align-left">Macrorregiões de planejamento do Estado do Espírito Santo</th>
+      <th class="align-left">Municípios</th>
     </tr>
     <tr>
       <th scope="row">Metropolitana</th>
@@ -358,11 +358,11 @@ e pelo domínio de informações culturais e tecnológicas. Essa estrutura de pe
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center" colspan="2">VOCAÇÕES ECONÔMICAS DO ESTADO DO ESPÍRITO SANTO</th>
+      <th class="align-left" colspan="2">Vocações econômicas do Estado do Espírito Santo</th>
     </tr>
     <tr>
-      <th scope="row"><strong>SETORES</strong></th>
-      <th scope="row"><strong>INFORMAÇÕES RELEVANTES</strong></th>
+      <th scope="row"><strong>Setores</strong></th>
+      <th scope="row"><strong>Informações relevantes</strong></th>
     </tr>
     <tr>
       <th scope="row">Agronegócio</th>
@@ -422,13 +422,13 @@ papaia, abacaxi, maracujá, coco, goiaba e morango).</td>
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center" colspan="4">PRINCIPAIS ATIVIDADES ECONÔMICAS POR MACRORREGIÃO E MICRORREGIÃO DO ESTADO DO ESPÍRITO SANTO</th>
+      <th class="align-left" colspan="4">Principais atividades econômicas por macrorregião e microrregião do Estado do Espírito Santo</th>
     </tr>
     <tr>
-      <th scope="row"><strong>MACRORREGIÕES</strong></th>
-      <th scope="row"><strong>MICRORREGIÕES</strong></th>
-      <th scope="row"><strong>MUNICÍPIOS</strong></th>
-      <th scope="row"><strong>POTENCIALIDADES ECONÔMICAS</strong></th>
+      <th scope="row"><strong>Macrorregiões</strong></th>
+      <th scope="row"><strong>Microrregiões</strong></th>
+      <th scope="row"><strong>Municípios</strong></th>
+      <th scope="row"><strong>Potencialidades econômicas</strong></th>
     </tr>
     <tr>
       <th scope="row"rowspan="3">Metropolitana</th>
@@ -499,11 +499,11 @@ significa apoio e estímulo, por meio da administração de incentivos e benefí
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center" colspan="3">MUNICÍPIOS DO ESTADO DO ESPÍRITO SANTO ONDE A UFES POSSUI POLO DE EAD OU PRETENDE CRIÁ-LOS E QUE ESTÃO NA ÁREA DE ATUAÇÃO DA SUDENE</th>
+      <th class="align-left" colspan="3">Municípios do Estado do Espírito Santo onde a UFES possui polo de EaD ou pretende criá-los e que estão na área de atuação da Sudene </th>
     </tr>
     <tr>
-    <th scope="row"><strong>MUNICÍPIO</strong></th>
-      <th scope="row"><strong>POPULAÇÃO ESTIMADA - 2021</strong></th>
+    <th scope="row"><strong>Município</strong></th>
+      <th scope="row"><strong>População estimada - 2021</strong></th>
 </tr>
 <tr>
   <td>Baixo Guandu</td>

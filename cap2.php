@@ -19,14 +19,14 @@ include("components/page-header.php");
 <h2 id="intertitulo-2-2">2.2. Macroprocessos Finalísticos e de Apoio</h2>
 
 <p>Os Macroprocessos Finalísticos da SEAD são 03 (três):</p>
-<ul>
+<ul class="listagem">
   <li>Processos de Realização de Cursos;</li>
   <li>Processos de Provisão de Recursos e</li>
   <li>Processos de Medição e Gestão.</li>
 </ul>
 
 <p>Os Macroprocessos de Apoio são 13 (treze):</p>
-<ul>
+<ul class="listagem">
   <li>Processos Relacionados aos Alunos;</li>
   <li>Projeto e Desenvolvimento dos Cursos;</li>
   <li>Planejamento da Prestação do Serviço Educacional;</li>
@@ -141,7 +141,7 @@ include("components/page-header.php");
 <h2 id="intertitulo-2-3">2.3. Gestão de Pessoas</h2>
 
 <h3>2.3.1. Perfil do corpo técnico e docente</h3>
-<ul>
+<ul class="listagem">
   <li>Comprometidos com a missão da SEAD e o papel da Universidade Pública;</li>
   <li>Comprometidos com a valorização do serviço público e conscientes da importância de seu trabalho para a sociedade;</li>
   <li>Zelosos com o patrimônio público;</li>
@@ -316,7 +316,7 @@ include("components/page-header.php");
 
 <p>O polo EAD deverá apresentar identificação inequívoca da IES responsável pela oferta dos cursos, manter infraestrutura física, tecnológica e de pessoal adequada ao projeto pedagógico dos cursos a ele vinculados, ao quantitativo de estudantes matriculados e à legislação específica, para a realização das atividades presenciais, especialmente:</p>
 
-<ul>
+<ul class="listagem">
   <li>Salas de aula ou auditório;</li>
   <li>Laboratório de informática;</li>
   <li>Laboratórios específicos presenciais ou virtuais;</li>
@@ -331,7 +331,7 @@ include("components/page-header.php");
 
 <p>Um polo deve ter uma infraestrutura tecnológica composta, basicamente, por:</p>
 
-<ul>
+<ul class="listagem">
   <li>Computadores em número adequado para atender o quantitativo de alunos do polo;</li>
   <li>Conexão à internet em banda larga para todos os ambientes do polo;</li>
   <li>Ferramentas pedagógicas tais como Datashow; lousa, podendo ser digital; equipamentos para webconferências.</li>
@@ -390,7 +390,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 
 <p>Especificamente, as fontes de financiamento da UFES/SEAD são:</p>
 
-<ul>
+<ul class="listagem">
   <li>Dotações que são atribuídas à Universidade nos orçamentos da União mediante parâmetros de Matrizes de Orçamento de Custeio e Capital e outros destaques;</li>
   <li>Transferências voluntárias ou convênios envolvendo cooperação com órgãos governamentais ou não governamentais;</li>
   <li>Taxas e emolumentos.</li>
@@ -398,7 +398,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 
 <p>Atualmente, a SEAD é considerada como um centro de custos para a UFES, isto é, unidade geradora de despesa ou, quando gera receita, é insuficiente para cobrir as despesas. Isso se deve principalmente por estar engessada com uma atuação exclusivamente vinculada a um programa do Governo Federal (UAB) e/ou por falta de institucionalização e/ou por falta de iniciativa, deixando de captar receita nas seguintes modalidades:</p>
 
-<ul>
+<ul class="listagem">
   <li>Retribuição por atividades econômicas (comercialização ou serviços);</li>
   <li>Ressarcimento por uso de infraestrutura, imagem institucional ou royalties;</li>
   <li>Receitas próprias arrecadadas da aplicação de bens e valores;</li>
@@ -465,7 +465,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 
 <p>A Avaliação Institucional tem como premissas básicas os seguintes aspectos:</p>
 
-<ul>
+<ul class="listagem">
   <li>Prestar contas à sociedade do cumprimento de suas responsabilidades;</li>
   <li>Considerar as atividades de ensino, pesquisa e extensão, no que diz respeito a sua eficácia e eficiência;</li>
   <li>Avaliar a atuação das unidades a partir de um conjunto significativo de indicadores de qualidade integrados entre si e conforme a sua relação orgânica com a Instituição; </li>
@@ -489,7 +489,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <p>Há diversos instrumentos de planejamento na Universidade. Os três principais para a SEAD/UFES são:</p>
 
-<ul>
+<ul class="listagem">
   <li>O <a href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento Institucional (PDI) da UFES</a>;</li>
   <li>O <a href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Planejamento Pedagógico Institucional (PPI) da UFES</a>; e</li>
   <li>O <a href=https://sead.ufes.br/wp-content/uploads/2023/06/sead_planejamento-estrategico_2021-2030.pdf>Planejamento Estratégico da SEAD</a>.</li>
@@ -630,7 +630,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <p>O Planejamento Estratégico da SEAD está definido com base em um conjunto de 20 (vinte) objetivos estratégicos a serem alcançados até o final do período de vigência 2021-2030. Os objetivos possuem indicadores que serão utilizados parwa monitorar os resultados obtidos pela Superintendência no decorrer do tempo.</p>
 
-<ul>
+<ul class="listagem">
   <li>Ampliar a oferta de vagas em cursos, na modalidade EAD, de graduação, pós-graduação, extensão e abertos;</li>
   <li>Intensificar ações de formação e qualificação dos servidores da SEAD;</li>
   <li>Regulamentar a atuação da SEAD nas instâncias decisórias da UFES com vistas à integração das modalidades de ensino;</li>
@@ -654,7 +654,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <h4>2.6.1.2. Estratégias</h4>
 
-<ul>
+<ul class="listagem">
   <li>Avaliar continuamente os processos educativos utilizados na EAD;</li>
   <li>Manter atualizados os Projetos Pedagógicos dos Cursos EAD;</li>
   <li>Aprimorar os mecanismos de acompanhamento e avaliação dos cursos EAD;</li>
@@ -683,7 +683,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <p>Assim, as quatro perspectivas do BSC (Clientes, Proces sos Internos, Aprendizado e Crescimento, Financeiro) foram adaptadas para a realidade da UFES da seguinte forma:</p>
 
-<ul>
+<ul class="listagem">
   <li>Alunos e Sociedade; </li>
   <li>Processos;</li>
   <li>Aprendizado e Infraestrutura; e</li>
@@ -695,7 +695,7 @@ Alunos e Sociedade), para quem deve entregar resultados. Para entregar resultado
 
 <p>Além das perspectivas de análise e do mapeamento, é importante sabermos que este planejamento é composto pelos seguintes elementos:</p>
 
-<ul>
+<ul class="listagem">
   <li>Objetivos: definem o que a SEAD quer alcançar;</li>
   <li>Indicadores: buscam medir e acompanhar o sucesso da estratégia organizacional;</li>
   <li>Metas: referem-se ao nível de desempenho ou à taxa de melhorias que devem que ser realizadas para o alcance dos objetivos pretendidos; e</li>
@@ -950,7 +950,7 @@ Alunos e Sociedade), para quem deve entregar resultados. Para entregar resultado
 
   <h3>2.6.4. Outros Indicadores: 2023 - 2024</h3>
 
-  <ul>
+  <ul class="listagem">
     <li>Número de estudantes em mobilidade acadêmica na modalidade EAD;</li>
     <li>Taxa de sucesso nos cursos de Graduação EAD;</li>
     <li>Taxa de cursos com conceito igual ou superior a quatro ofertados na modalidade EAD;</li>
