@@ -169,7 +169,14 @@ contribuir para o cálculo de indicadores de qualidade, como o Conceito Prelimin
   </figure>
   
   <figure>
+  <h4 class="align-center">Ingressantes em cursos de graduação</h4>
+  <h5 class="align-center"> Número de ingressantes em cursos de graduação – Brasil 2011-2021</h5>
+  <h5 class="align-center"> Distribuição dos ingressantes, por grau acadêmico do curso – Brasil 2021</h5>
     <img src="img/cap1/grafico4.svg" alt="">
+    <figcaption>Nota: Não está computado os valores de ingressantes de áreas básicas de ingresso<br>
+      Fonte: MEC/Inep; Censo da Educação Superior<br><br>
+      O número de ingressos em cursos de graduação a distância tem aumentado substancialmente nos últimos anos. Por outro lado, o número de ingressantes em cursos presenciais vem diminuindo desde 2014, tendo o menor valor registrado em 2021 da série histórica dos últimos 10 anos. A Licenciatura registrou uma queda de -12,8% entre 2020 e 2021.
+ </figcaption> 
   </figure>
   
   <figure>

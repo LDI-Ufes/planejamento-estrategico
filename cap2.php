@@ -45,13 +45,13 @@ include("components/page-header.php");
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center" colspan="4">MACROPROCESSOS FINALÍSTICOS E DE APOIO AO EXERCÍCIO DAS COMPETÊNCIAS E FINALIDADES DA SEAD</th>
+      <th class="align-left" colspan="4">Macroprocessos finalísticos e de apoio ao exercício das competências e finalidades da SEAD</th>
     </tr>
     <tr>
-    <td class="align-center"><strong>MACROPROCESSOS FINALÍSTICOS</strong></td>
-    <td class="align-center"><strong>MACROPROCESSOS DE APOIO</strong></td>
-    <td class="align-center"><strong>PROCESSOS / INDICADORES QUALITATIVOS</strong></td>
-    <td class="align-center"><strong>SUBPROCESSOS</strong></td>
+    <td style="vertical-align: middle"><strong>Macroprocessos finalísticos</strong></td>
+    <td style="vertical-align: middle"><strong>Macroprocessos de apoio</strong></td>
+    <td style="vertical-align: middle"><strong>Processos / Indicadores qualitativos</strong></td>
+    <td style="vertical-align: middle"><strong>Subprocessos</strong></td>
    
 </tr>
     <tr>
@@ -159,16 +159,16 @@ include("components/page-header.php");
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center" colspan="7">GESTÃO DE PESSOAS - PERFIL DA EQUIPE</th>
+      <th class="align-left" colspan="7">Gestão de pessoas - Perfil da equipe</th>
     </tr>
     <tr>
-      <th scope="row"><strong>ESCOLARIDADE</strong></th>
-      <th scope="row"><strong>DOCENTES DIREÇÃO</strong></th>
-      <th scope="row"><strong>SERVIDORES TÉCNICOS</strong></th>
-      <th scope="row"><strong>ESTAGIÁRIOS</strong></th>
-      <th scope="row"><strong>CONTRATADOS</strong></th>
-      <th scope="row"><strong>BOLSISTAS</strong></th>
-      <th scope="row"><strong>TOTAL</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Escolaridade</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Docentes direção</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Servidores técnicos</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Estagiários</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Contratados</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Bolsistas</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>TOTAL</strong></th>
     </tr>
     <tr>
       <td>2º Grau Completo ou Técnico</td>
@@ -237,13 +237,13 @@ include("components/page-header.php");
       <th class="align-center" colspan="7"></th>
     </tr>
     <tr>
-      <th scope="row"><strong>IDADES</strong></th>
-      <th scope="row"><strong>DOCENTES DIREÇÃO</strong></th>
-      <th scope="row"><strong>SERVIDORES TÉCNICOS</strong></th>
-      <th scope="row"><strong>ESTAGIÁRIOS</strong></th>
-      <th scope="row"><strong>CONTRATADOS</strong></th>
-      <th scope="row"><strong>BOLSISTAS</strong></th>
-      <th scope="row"><strong>TOTAL</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Idades</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Docentes direção</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Servidores técnicos</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Estagiários</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Contratados</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>Bolsistas</strong></th>
+      <th scope="row" style="vertical-align: middle"><strong>TOTAL</strong></th>
     </tr>
     <tr>
       <td>18 a 30 anos</td>
@@ -344,8 +344,8 @@ include("components/page-header.php");
   <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center">MACRORREGIÕES DE PLANEJAMENTO DO ESTADO DO ESPÍRITO SANTO</th>
-      <th class="align-center">MUNICÍPIOS</th>
+      <th style="vertical-align: middle">Macrorregiões de planejamento do Estado do Espírito Santo</th>
+      <th style="vertical-align: middle">Municípios</th>
     </tr>
     <tr>
       <td>Metropolitana</td>
@@ -412,11 +412,11 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center">PROJETOS</th>
-      <th class="align-center">TC CAPES </th>
-      <th class="align-center">PROCESSO UFES</th>
-      <th class="align-center">Nº FEST</th>
-      <th class="align-center" colspan="2">VIGÊNCIA FEST</th>
+      <th class="align-left">Projetos</th>
+      <th class="align-left">TC CAPES </th>
+      <th class="align-left">Processo UFES</th>
+      <th class="align-left">Nº FEST</th>
+      <th class="align-left" colspan="2">Vigência FEST</th>
     </tr>
     <tr>
       <td>UAB 2018 - Edital 05</td>
@@ -444,10 +444,10 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center">PROJETOS</th>
-      <th class="align-center">TERMO DE OUTORGA</th>
-      <th class="align-center">PROCESSO UFES</th>
-      <th class="align-center" colspan="2">VIGÊNCIA FAPES</th>
+      <th class="align-left">Projetos</th>
+      <th class="align-left">Termo de outorga</th>
+      <th class="align-left">Processo UFES</th>
+      <th class="align-left" colspan="2">Vigência FAPES</th>
     </tr>
     <tr>
       <td>UNAC 2022 - Especialização em Direitos Humanos</td>
@@ -512,17 +512,17 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center" colspan="3">ANÁLISE DO AMBIENTE INTERNO E EXTERNO ‒ MODALIDADE DE EAD NA UFES</th>
+      <th class="align-center" colspan="3">Análise do ambiente interno e externo ‒ Modalidade de EaD na UFES</th>
     </tr>
     <tr>
       <td></td>
-      <th scope="row"><strong>ASPECTOS FAVORÁVEIS</th>
-      <th scope="row"><strong>ASPECTOS DESFAVORÁVEIS</th>
+      <th scope="row"><strong>Aspectos favoráveis</th>
+      <th scope="row"><strong>Aspectos desfavoráveis</th>
     </tr>
     <tr>
-    <th scope="row" rowspan="12"><strong>AMBIENTE EXTERNO</th>
-    <th scope="row" ><strong>OPORTUNIDADES:</th>
-    <th scope="row" ><strong>AMEAÇAS:</th>
+    <th scope="row" rowspan="12"><strong>Ambiente externo</th>
+    <th scope="row" ><strong>Oportunidades:</th>
+    <th scope="row" ><strong>Ameaças:</th>
     </tr>
     <tr>
       <td>a) Desenvolvimento permanente das Tecnologias da Informação e Comunicação (TIC`s)</td>
@@ -571,9 +571,9 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
       <td></td>
     </tr>
     <tr>
-    <th scope="row" rowspan="11"><strong>AMBIENTE INTERNO</th>
-    <th scope="row" ><strong>PONTOS FORTES:</th>
-    <th scope="row" ><strong>PONTOS FRACOS:</th>
+    <th scope="row" rowspan="11"><strong>Ambiente interno</th>
+    <th scope="row" ><strong>Pontos fortes:</th>
+    <th scope="row" ><strong>Pontos fracos:</th>
     </tr>
 <tr>
   <td>a) Capacitação dos profissionais da SEAD</td>
