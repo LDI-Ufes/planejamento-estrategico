@@ -156,21 +156,21 @@ contribuir para o cálculo de indicadores de qualidade, como o Conceito Prelimin
 
 
 <figure>
-  <h4 class="align-center">Vagas oferecidas para ingresso em cursos de graduação</h4>
-  <h5 class="align-center">Número de vagas oferecidas em cursos de graduação, por modalidade de ensino – Brasil 2014-2021</h5>
+  <h4 class="align-left"><strong>Vagas oferecidas para ingresso em cursos de graduação</strong></h4>
+  <h5 class="align-left">Número de vagas oferecidas em cursos de graduação, por modalidade de ensino – Brasil 2014-2021</h5>
     <img src="img/cap1/grafico1.svg" alt="">
   <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>  
   </figure>
 
   <figure>
-  <h4 class="align-center">Vagas oferecidas vs. Vagas ocupadas (ingressos)</h4>
-  <h5 class="align-center">Taxa de ocupação das vagas novas ofertadas, segundo cursos específicos - Brasil 2021</h5>
+  <h4 class="align-left"><strong>Vagas oferecidas vs. Vagas ocupadas (ingressos)</strong></h4>
+  <h5 class="align-left">Taxa de ocupação das vagas novas ofertadas, segundo cursos específicos - Brasil 2021</h5>
     <img src="img/cap1/grafico3.svg" alt="">
   </figure>
   
   <figure>
-  <h4 class="align-center">Ingressantes em cursos de graduação</h4>
-  <h5 class="align-center"> Número de ingressantes em cursos de graduação – Brasil 2011-2021</h5>
+  <h4 class="align-left"><strong>Ingressantes em cursos de graduação</strong></h4>
+  <h5 class="align-left"> Número de ingressantes em cursos de graduação – Brasil 2011-2021</h5>
   <h5 class="align-center"> Distribuição dos ingressantes, por grau acadêmico do curso – Brasil 2021</h5>
     <img src="img/cap1/grafico4.svg" alt="">
     <figcaption>Nota: Não está computado os valores de ingressantes de áreas básicas de ingresso<br>
@@ -180,27 +180,49 @@ contribuir para o cálculo de indicadores de qualidade, como o Conceito Prelimin
   </figure>
   
   <figure>
+  <h4 class="align-left"><strong>Rede privada</strong></h4>
+  <h5 class="align-left">Evolução do número de matrículas na rede privada, por modalidade de ensino – Brasil 2011-2021</h5>
     <img src="img/cap1/grafico6.svg" alt="">
+    <figcaption>Desde o ano de 2016, a matrícula em cursos presenciais na rede privada de educação superior tem diminuído e esse comportamento é acompanhado pelo aumento do ritmo de
+crescimento dos cursos EaD. Em 2021, o número de matrículas em cursos a distância da rede privada ultrapassa o número de matrículas em cursos presenciais.<br><br> 
+Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
   <figure>
+  <h4 class="align-left"><strong>Rede privada</strong></h4>
+  <h5 class="align-left"> Razão entre matrícula na rede privada e matrícula na rede pública em cursos presenciais, por Unidade da Federação – Brasil 2021</h5>
     <img src="img/cap1/grafico7.svg" alt="">
+    <figcaption>Em São Paulo, há 3,5 alunos na rede privada para cada aluno na rede pública, maior relação entre todas as UFs. Em 5 delas, essa relação é igual ou superior a dois alunos em favor da rede privada. Nos estados de Roraima, Amapá, Paraíba, Tocantins e Rio Grande do Norte há mais alunos na rede pública do que na rede privada (Acre, Alagoas e Mato Grosso do Sul tem a relação de 1 para 1).<br><br>
+    Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
   <figure>
+  <h4 class="align-left"><strong>Educação a distância</strong></h4>
+  <h5 class="align-left">Número de matrículas em cursos de graduação, por modalidade de ensino – Brasil 2011-2021</h5>
     <img src="img/cap1/grafico8.svg" alt="">
+    <figcaption>Nos últimos 10 anos, a educação a distância vem aumentando sua participação na educação superior. Em 2011, a modalidade EaD representava 14,7% das matrículas de graduação. Em 2018, ultrapassou a marca de 2 milhões de alunos, e, em 2021, alcança 3,7 milhões, o que representa mais de 41% dos alunos de graduação no país.<br><br>
+    Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
 
   <figure>
+  <h4 class="align-left"><strong>Educação a distância</strong></h4>
+  <h5 class="align-left">Número de ingressantes de cursos de graduação, por rede e modalidade de ensino – Brasil 2021</h5>
     <img src="img/cap1/grafico10.svg" alt="">
+    <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
   <figure>
+  <h4 class="align-left"><strong>Educação a distância</strong></h4>
+  <h5 class="align-left">Os 10 maiores cursos de graduação, por modalidade e rede de ensino – Brasil 2021</h5>
     <img src="img/cap1/grafico11.svg" alt="">
+    <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
   <figure>
+  <h4 class="align-left"><strong>Indicadores de trajetória dos estudantes no curso de ingresso</strong></h4>
+  <h5 class="align-left">Evolução dos indicadores de trajetória dos estudantes no curso de ingresso em 2012 – Brasil 2012-2021</h5>
     <img src="img/cap1/grafico13.svg" alt="">
+    <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
 
@@ -218,6 +240,7 @@ informação e de comunicação (TIC) na educação, tendo em vista que uma Inst
 <p>Um dos primeiros diagnósticos que pode ser destacado tem relação direta com as principais soluções tecnológicas adotadas pelas instituições consultadas, com o propósito de manter a oferta das aulas durante a pandemia, após a suspensão do ensino presencial.</p>
 
 <figure>
+<h4 class="align-left"><strong>Soluções tecnológicas para continuidade das aulas durante a pandemia</strong></h4>
     <img src="img/cap1/grafico14.svg" alt="">
   </figure>
 
@@ -225,6 +248,7 @@ informação e de comunicação (TIC) na educação, tendo em vista que uma Inst
 a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em plataformas de compartilhamento de vídeos, como Youtube, e pela utilização complementar de aplicativos de mensagens instantâneas, por exemplo, <em>Telegram</em> e <em>Whatsapp</em>, como alternativas de atendimento. A migração das aulas presenciais para as aulas remotas, após o início da pandemia, foi relativamente rápida, com 76,2% das instituições se adaptando à mudança nos primeiros 30 dias, de acordo com o Gráfico abaixo</p>
 
 <figure>
+<h4 class="align-left"><strong>Tempo de migração das aulas presenciais para as remotas</strong></h4>
     <img src="img/cap1/grafico15.svg" alt="">
   </figure>
 
