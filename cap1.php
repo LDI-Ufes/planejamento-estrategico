@@ -171,8 +171,9 @@ contribuir para o cálculo de indicadores de qualidade, como o Conceito Prelimin
   <figure>
   <h4 class="align-left"><strong>Ingressantes em cursos de graduação</strong></h4>
   <h5 class="align-left"> Número de ingressantes em cursos de graduação – Brasil 2011-2021</h5>
-  <h5 class="align-center"> Distribuição dos ingressantes, por grau acadêmico do curso – Brasil 2021</h5>
-    <img src="img/cap1/grafico4.svg" alt="">
+   <img src="img/cap1/grafico4.svg" alt="">
+  <h5 class="align-left"> Distribuição dos ingressantes, por grau acadêmico do curso – Brasil 2021</h5>
+    <img src="img/cap1/grafico4-2.svg" alt="">
     <figcaption>Nota: Não está computado os valores de ingressantes de áreas básicas de ingresso<br>
       Fonte: MEC/Inep; Censo da Educação Superior<br><br>
       O número de ingressos em cursos de graduação a distância tem aumentado substancialmente nos últimos anos. Por outro lado, o número de ingressantes em cursos presenciais vem diminuindo desde 2014, tendo o menor valor registrado em 2021 da série histórica dos últimos 10 anos. A Licenciatura registrou uma queda de -12,8% entre 2020 e 2021.
@@ -189,7 +190,7 @@ Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
   <figure>
-  <h4 class="align-left"><strong>Rede privada</strong></h4>
+ 
   <h5 class="align-left"> Razão entre matrícula na rede privada e matrícula na rede pública em cursos presenciais, por Unidade da Federação – Brasil 2021</h5>
     <img src="img/cap1/grafico7.svg" alt="">
     <figcaption>Em São Paulo, há 3,5 alunos na rede privada para cada aluno na rede pública, maior relação entre todas as UFs. Em 5 delas, essa relação é igual ou superior a dois alunos em favor da rede privada. Nos estados de Roraima, Amapá, Paraíba, Tocantins e Rio Grande do Norte há mais alunos na rede pública do que na rede privada (Acre, Alagoas e Mato Grosso do Sul tem a relação de 1 para 1).<br><br>
@@ -205,14 +206,14 @@ Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
 
   <figure>
-  <h4 class="align-left"><strong>Educação a distância</strong></h4>
+ 
   <h5 class="align-left">Número de ingressantes de cursos de graduação, por rede e modalidade de ensino – Brasil 2021</h5>
     <img src="img/cap1/grafico10.svg" alt="">
     <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
   <figure>
-  <h4 class="align-left"><strong>Educação a distância</strong></h4>
+ 
   <h5 class="align-left">Os 10 maiores cursos de graduação, por modalidade e rede de ensino – Brasil 2021</h5>
     <img src="img/cap1/grafico11.svg" alt="">
     <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
@@ -257,18 +258,21 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 <p>Uma forma de compreender essa complexidade está na análise dos obstáculos para a ampliação da oferta, a qual evidenciou a falta de uma política específica de formação dos professores. Além disso, a falta de conectividade dos alunos é representativa e não pode ser ignorada, assim como a resistência dos professores e da sociedade em relação à aprendizagem à distância e os limites das competências e habilidades digitais das instituições.</p>
 
 <figure>
+<h4 class="align-left"><strong>Maiores dificuldades para a ampliação da oferta de EAD durante a pandemia</strong></h4>
     <img src="img/cap1/grafico16.svg" alt="">
   </figure>
 
 <p>Nesse sentido, pode-se afirmar, pela análise da conjuntura social, que a pandemia trouxe indicativos de uma mudança na educação, que deve passar pela formação dos professores, pela revisão metodológica e pela atualização dos recursos tecnológicos, entre outras etapas. Destaca-se, na modalidade EAD, o fato de que 38,1% das instituições já indicaram o início desse processo, conforme apontado no gráfico abaixo.</p>
 
 <figure>
+<h4 class="align-left"><strong>Respostas à questão sobre transformações na EAD durante a pandemia</strong></h4>
     <img src="img/cap1/grafico17.svg" alt="">
   </figure>
 
 <p>O processo de mudança em si antecipa tendências e tem relação com o futuro da educação. A esse respeito, observa-se, no Gráfico abaixo, que 42,9% das instituições consultadas acreditam que a oferta da EAD será ampliada, enquanto 38,1% veem possibilidade de crescimento da opção pelo ensino híbrido (<em lang="en">blended learning</em>).</p>
 
 <figure>
+<h4 class="align-left"><strong>Visões sobre o futuro da educação pós-pandemia</strong></h4>
     <img src="img/cap1/grafico18.svg" alt="">
   </figure>
 
@@ -277,12 +281,15 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 <p>O Gráfico abaixo permite observar que os dados fornecidos pelas instituições participantes do Censo EAD. BR 2020-2021 confirmam essa tendência de ampliação da oferta da EAD e do ensino híbrido em relação às modalidades oferecidas.</p>
 
 <figure>
+<h4 class="align-left"><strong>Modalidades ofertadas pelas instituições respondentes</strong></h4>
     <img src="img/cap1/grafico19.svg" alt="">
  </figure>
 
 <p>Outro aspecto relevante, na visão dos gestores das instituições, corresponde ao modo como a crise sanitária demandou novas formas de relacionamento com os alunos. Nesse contexto, por um lado, surgiram oportunidades e, por outro, dificuldades financeiras precisaram ser superadas, conforme demonstra o Gráfico abaixo.</p>
 
 <figure>
+<h4 class="align-left"><strong>Impactos financeiros da pandemia</strong></h4>
+  <p>Sobre o ano de 2020, quando se iniciou a pandemia de COVID-19, informe o quanto concorda com cada uma das afirmações a seguir:</p>
     <img src="img/cap1/grafico20.svg" alt="">
   </figure>
 
@@ -295,12 +302,14 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 <p>Alguns aspectos do Gráfico ao lado chamam a atenção, como o fato de 27% dos cursos de pós-graduação abordar temas que são avaliados no Exame Nacional de Desempenho dos Estudantes (Enade), uma avaliação de graduação. Além disso, em todos os quesitos analisados, a pós-graduação é citada com menos frequência com relação ao desenvolvimento de habilidades para o trabalho, de atitudes profissionais, de pesquisa e de expansão de horizontes.</p>
 
 <figure>
+<h4 class="align-left"><strong>Conteúdos, habilidades e competências desenvolvidos em graduações e pós-graduações EAD, presenciais e híbridas</strong></h4>
     <img src="img/cap1/grafico21.svg" alt="">
   </figure>
 
 <p>Os cursos livres também se destacam pelo desenvolvimento de habilidades voltadas para o mercado de trabalho. Isso sugere que os alunos que estão buscando formação livremente também parecem ter o mundo do trabalho como sua maior preocupação. Destaca-se, no entanto, entre os cursos corporativos, o desenvolvimento de atitudes e habilidades interpessoais, revelando aquilo que o mercado de trabalho efetivamente está buscando desenvolver entre seus colaboradores já contratados.</p>
 
 <figure>
+<h4 class="align-left"><strong>Conteúdos, habilidades e competências ofertados em cursos livres EAD</strong></h4>
     <img src="img/cap1/grafico22.svg" alt="">
   </figure>
 
@@ -310,18 +319,21 @@ solução de problemas, realizar trabalhos dissertativos, elaborar textos acadê
 <p>Em linhas gerais, parece que os cursos de graduação estão com propostas mais ricas do que os cursos de pós-graduação e até mesmo do que os cursos presenciais. A parte de criação é, em média, a menos frequente, com de 56% a 65% das instituições solicitando materiais multimídia e textos não acadêmicos na graduação EAD, presencial ou híbrida. Na pós-graduação, 27% a 37% das instituições, respectivamente, solicitam isso. Em 2020, ano da pandemia, também somente as graduações EAD propuseram atividades em laboratório.</p>
 
 <figure>
+<h4 class="align-left"><strong>Ações de aprendizagem propostas aos alunos na graduação e na pós-graduação</strong></h4>
     <img src="img/cap1/grafico23.svg" alt="">
   </figure>
 
 <p>Existe a sensação de que, em 2020, a diversidade de recursos se ampliou mais na EAD que em cursos presenciais.</p>
 
 <figure>
+<h4 class="align-left"><strong>Recursos educacionais oferecidos na graduação e na pós-graduação</strong></h4>
     <img src="img/cap1/grafico24.svg" alt="">
   </figure>
 
 <p>Quanto aos repositórios, 94,7% dos cursos de graduação EAD contam com bibliotecas on-line e 64,5% dos cursos presenciais e híbridos contam com bibliotecas físicas. Somente 78% dos cursos presenciais e híbridos foram atendidos por bibliotecas on-line, mesmo na pandemia. Mais uma vez, a pós-graduação apresentou a tendência de estar menos servida de recursos variados em comparação com as graduações. Além disso, a minoria das instituições, entre 15 e 23,7%, investe em diferentes repositórios em um único sistema de busca.</p>
 
 <figure>
+<h4 class="align-left"><strong>Repositórios de conteúdos disponibilizados pelas instituições</strong></h4>
     <img src="img/cap1/grafico25.svg" alt="">
   </figure>
 
