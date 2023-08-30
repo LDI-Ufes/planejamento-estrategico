@@ -512,7 +512,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 <figure class="tabela">
   <table class="th-33">
     <tr>
-      <th class="align-center" colspan="3">Análise do ambiente interno e externo ‒ Modalidade de EaD na UFES</th>
+      <th class="align-left" colspan="3">Análise do ambiente interno e externo ‒ Modalidade de EaD na UFES</th>
     </tr>
     <tr>
       <td></td>
@@ -525,49 +525,49 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
     <th scope="row" ><strong>Ameaças:</th>
     </tr>
     <tr>
-      <td>a) Desenvolvimento permanente das Tecnologias da Informação e Comunicação (TIC`s)</td>
-      <td>a) Crise econômica com perspectiva de recessão mundial (guerra, preços de energia, inflação e taxa de juros)</td>
+      <td>Desenvolvimento permanente das Tecnologias da Informação e Comunicação (TIC`s).</td>
+      <td>Crise econômica com perspectiva de recessão mundial (guerra, preços de energia, inflação e taxa de juros).</td>
     </tr>
     <tr>
-      <td>b) Demanda por cursos de graduação pelas pessoas que já estão inseridas no mercado de trabalho</td>
-      <td>b) Preconceito com a modalidade de ensino e falta de reconhecimento no seio comunidade acadêmica</td>
+      <td>Demanda por cursos de graduação pelas pessoas que já estão inseridas no mercado de trabalho</td>
+      <td>Preconceito com a modalidade de ensino e falta de reconhecimento no seio comunidade acadêmica</td>
     </tr>
     <tr>
-      <td>c) Demanda por oferta de cursos de extensão e/ou curta duração (MOOCs)</td>
-      <td>c) Atuação agressiva da rede privada</td>
+      <td>Demanda por oferta de cursos de extensão e/ou curta duração (MOOCs)</td>
+      <td>Atuação agressiva da rede privada</td>
     </tr>
     <tr>
-      <td>d) Necessidade de formação contínua dos professores da rede de ensino fundamental e médio</td>
-      <td>d) Centralização do fomento em Programa de Governo, limitando a oferta de cursos (licenciaturas e formação continuada de professores)</td>
+      <td> Necessidade de formação contínua dos professores da rede de ensino fundamental e médio</td>
+      <td> Centralização do fomento em Programa de Governo, limitando a oferta de cursos (licenciaturas e formação continuada de professores)</td>
     </tr>
     <tr>
-      <td>e) Possibilidade de difusão da atuação da Universidade</td>
-      <td>e) Oferta única dos cursos ao invés de ser sequencial</td>
+      <td> Possibilidade de difusão da atuação da Universidade</td>
+      <td> Oferta única dos cursos ao invés de ser sequencial</td>
     </tr>
     <tr>
-      <td>f) Possibilidade de captação de recursos para viabilizar a atuação Universidade </td>
-      <td>f) Elevado nível de evasão da modalidade</td>
+      <td> Possibilidade de captação de recursos para viabilizar a atuação Universidade </td>
+      <td> Elevado nível de evasão da modalidade</td>
     </tr>
     <tr>
-      <td>g) Ampliação de parcerias no setor público e privado</td>
-      <td>g) Riscos no relacionamento com os alunos devido à alta rotatividade dos mediadores EAD</td>
+      <td>Ampliação de parcerias no setor público e privado</td>
+      <td>Riscos no relacionamento com os alunos devido à alta rotatividade dos mediadores EAD</td>
     </tr>
     <tr>
-      <td>h) Ampliação do cumprimento da função social da UFES</td>
-      <td>h) Relacionamento tênue com os parceiros
+      <td>Ampliação do cumprimento da função social da UFES</td>
+      <td>Relacionamento tênue com os parceiros
 </td>
     </tr>
     <tr>
-      <td>i) Carência de oferta de cursos de graduação e/ou pós-graduação gratuitos, de alta qualidade.</td>
-      <td>i) Submissão à dupla avaliação pelo MEC (institucional e individual)
+      <td>Carência de oferta de cursos de graduação e/ou pós-graduação gratuitos, de alta qualidade.</td>
+      <td>Submissão à dupla avaliação pelo MEC (institucional e individual)
 </td>
     </tr>
     <tr>
-      <td>j) Rigor do MEC na supervisão, regulação e a avaliação dos cursos</td>
-      <td>j) Rigor do MEC quanto à qualidade do ensino nas IES públicas</td>
+      <td>Rigor do MEC na supervisão, regulação e a avaliação dos cursos</td>
+      <td>Rigor do MEC quanto à qualidade do ensino nas IES públicas</td>
     </tr>
     <tr>
-      <td>k) Política de educação dos Governos Federal e Estadual favoráveis</td>
+      <td>Política de educação dos Governos Federal e Estadual favoráveis</td>
       <td></td>
     </tr>
     <tr>
@@ -576,44 +576,44 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
     <th scope="row" ><strong>Pontos fracos:</th>
     </tr>
 <tr>
-  <td>a) Capacitação dos profissionais da SEAD</td>
-  <td>a) Ausência de diversificação e oferta sequencial dos cursos ofertados</td>
+  <td>Capacitação dos profissionais da SEAD</td>
+  <td>Ausência de diversificação e oferta sequencial dos cursos ofertados</td>
 </tr>
 <tr>
-  <td>b) Experiência no processo de criação e oferta de cursos de graduação e pós-graduação lato sensu</td>
-  <td>b) Falta de engajamento e/ou envolvimento exclusivo dos docentes em atividades vinculadas aos cursos ofertados na modalidade</td>
+  <td>Experiência no processo de criação e oferta de cursos de graduação e pós-graduação lato sensu</td>
+  <td>Falta de engajamento e/ou envolvimento exclusivo dos docentes em atividades vinculadas aos cursos ofertados na modalidade</td>
 </tr>
 <tr>
-  <td>c) Planejamento Estratégico definido para o período 2021-2030</td>
-  <td>c) Morosidade na tramitação processual de projetos de cursos que serão ofertados na modalidade</td>
+  <td>Planejamento Estratégico definido para o período 2021-2030</td>
+  <td>Morosidade na tramitação processual de projetos de cursos que serão ofertados na modalidade</td>
 </tr>
 <tr>
-  <td>d) Inserção dos objetivos estratégicos da SEAD inseridos no Plano de Desenvolvimento Institucional (PDI) da UFES</td>
-  <td>d) Docentes possuem pouca ou nenhuma experiência para atuação na modalidade</td>
+  <td>Inserção dos objetivos estratégicos da SEAD inseridos no Plano de Desenvolvimento Institucional (PDI) da UFES</td>
+  <td>Docentes possuem pouca ou nenhuma experiência para atuação na modalidade</td>
 </tr>
 <tr>
-  <td>e) SEAD como órgão autônomo na estrutura organizacional da UFES</td>
-  <td>e) Estrutura inadequada (prédio SEAD) ou inexistente (polo associado e polos em alguns municípios de alta densidade populacional)</td>
+  <td>SEAD como órgão autônomo na estrutura organizacional da UFES</td>
+  <td>Estrutura inadequada (prédio SEAD) ou inexistente (polo associado e polos em alguns municípios de alta densidade populacional)</td>
 </tr>
 <tr>
-  <td>f) Marca UFES inserida nos produtos e serviços criados, desenvolvidos e ofertados pela SEAD</td>
-  <td>f) Inexistência de estrutura de cargos e salários para os profissionais que atuam na EAD, nas funções de gestão dos cursos, setores da SEAD, docência, equipe multidisciplinar e tutoria.</td>
+  <td> Marca UFES inserida nos produtos e serviços criados, desenvolvidos e ofertados pela SEAD</td>
+  <td> Inexistência de estrutura de cargos e salários para os profissionais que atuam na EAD, nas funções de gestão dos cursos, setores da SEAD, docência, equipe multidisciplinar e tutoria.</td>
 </tr>
 <tr>
-  <td>g) Inovação através da Equipe Multidisciplinar na elaboração de Produtos e Ambientes Educativos (Core Competence)</td>
-  <td>g) Ausência de carga horária docente/TAEs nos projetos e processos para ações de pesquisa, extensão, formação continuada das equipes, gestão das equipes multidisciplinares, etc.</td>
+  <td> Inovação através da Equipe Multidisciplinar na elaboração de Produtos e Ambientes Educativos (Core Competence)</td>
+  <td> Ausência de carga horária docente/TAEs nos projetos e processos para ações de pesquisa, extensão, formação continuada das equipes, gestão das equipes multidisciplinares, etc.</td>
 </tr>
 <tr>
-  <td>h) Parque de máquinas e equipamentos atualizados periodicamente (a cada cinco anos, no máximo).</td>
-  <td>h) Acesso limitado às inovações, como desenvolvimento e manutenção de plataformas, sistemas e materiais didáticos, devido a limitações orçamentárias.</td>
+  <td> Parque de máquinas e equipamentos atualizados periodicamente (a cada cinco anos, no máximo).</td>
+  <td> Acesso limitado às inovações, como desenvolvimento e manutenção de plataformas, sistemas e materiais didáticos, devido a limitações orçamentárias.</td>
 </tr>
 <tr>
-  <td>i) Melhoria contínua dos recursos tecnológicos disponibilizados para o ensino-aprendizagem</td>
-  <td>i) Falta de integração entre AVAs e Sistema Acadêmico (pós-graduação).</td>
+  <td> Melhoria contínua dos recursos tecnológicos disponibilizados para o ensino-aprendizagem</td>
+  <td> Falta de integração entre AVAs e Sistema Acadêmico (pós-graduação).</td>
 </tr>
 <tr>
   <td></td>
-  <td>j) Insuficiência da institucionalização do EAD na UFES, através de normatização regulamentadora.</td>
+  <td> Insuficiência da institucionalização do EAD na UFES, através de normatização regulamentadora.</td>
 </tr>
 </table>
 </figure>
@@ -706,16 +706,16 @@ Alunos e Sociedade), para quem deve entregar resultados. Para entregar resultado
 
 <table class="th-33">
     <tr>
-      <th class="align-center" colspan="4">OBJETIVOS QUANTITATIVOS PARA 2023-2024</th>
+      <th class="align-left" colspan="4">Objetivos quantitativos para 2023-2024</th>
     </tr>
     <tr>
-    <th scope="row" class="align-center" colspan="4"><strong>DESAFIOS: Ações Afirmativas; Desenvolvimento de Pessoas; Esporte, Cultura e Arte; Imagem Institucional; Infraestrutura e Acessibilidade;Inovação; Internacionalização; Qualidade de Vida; Sustentabilidade Ambiental; Sustentabilidade Econômico-Financeira.</th> 
+    <th scope="row" class="align-left" colspan="4"><strong>Desafios: Ações Afirmativas; Desenvolvimento de Pessoas; Esporte, Cultura e Arte; Imagem Institucional; Infraestrutura e Acessibilidade;Inovação; Internacionalização; Qualidade de Vida; Sustentabilidade Ambiental; Sustentabilidade Econômico-Financeira.</th> 
     </tr>
     <tr>
-    <th scope="row" ><strong>DIMENSÃO</th>
-    <th scope="row" ><strong>OBJETIVOS</th>
-    <th scope="row" ><strong>METAS/VAGAS</th>
-    <th scope="row" ><strong>RESPONSÁVEL</th>
+    <th scope="row" ><strong>Dimensão</th>
+    <th scope="row" ><strong>Objetivos</th>
+    <th scope="row" ><strong>Metas/Vagas</th>
+    <th scope="row" ><strong>Responsável</th>
     </tr>
     <tr>
       <td>Alunos e Sociedade </td>
@@ -761,17 +761,17 @@ Alunos e Sociedade), para quem deve entregar resultados. Para entregar resultado
 
 <table class="th-33">
     <tr>
-      <th class="align-center" colspan="5">OBJETIVOS QUALITATIVOS</th>
+      <th class="align-left" colspan="5">Objetivos qualitativos</th>
     </tr>
     <tr>
-    <th scope="row" class="align-center" colspan="5"><strong>DESAFIOS: Ações Afirmativas; Desenvolvimento de Pessoas; Esporte, Cultura e Arte; Imagem Institucional; Infraestrutura e Acessibilidade; Inovação; Internacionalização; Qualidade de Vida; Sustentabilidade Ambiental; Sustentabilidade Econômico-Financeira.</th> 
+    <th scope="row" class="align-left" colspan="5"><strong>Desafios: Ações Afirmativas; Desenvolvimento de Pessoas; Esporte, Cultura e Arte; Imagem Institucional; Infraestrutura e Acessibilidade; Inovação; Internacionalização; Qualidade de Vida; Sustentabilidade Ambiental; Sustentabilidade Econômico-Financeira.</th> 
     </tr>
     <tr>
-    <th scope="row" ><strong>DIMENSÃO</th>
-    <th scope="row" ><strong>OBJETIVOS</th>
-    <th scope="row" ><strong>INDICADORES</th>
-    <th scope="row" ><strong>META</th>
-    <th scope="row" ><strong>RESPONSÁVEL</th>
+    <th scope="row" ><strong>Dimensão</th>
+    <th scope="row" ><strong>Objetivos</th>
+    <th scope="row" ><strong>Indicadores</th>
+    <th scope="row" ><strong>Meta</th>
+    <th scope="row" ><strong>Responsável</th>
     </tr>
     <tr>
       <td></td>
