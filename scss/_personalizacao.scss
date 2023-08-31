@@ -41,45 +41,40 @@ article {
 	}
 
 	ol,
-	ul {
-		padding: 0;
+    ul {
+        padding: 0;
 
-		> li {
-			margin-left: 1em;
+li {
+            margin-left: 1em;
 
-			&::marker{
-				color:var(--primariaPrincipal);
-				font-weight: 700;
-			}
+            strong:first-of-type {
+                color: var(--primariaPrincipal);
+            }
+        }
+    }
 
-			strong:first-of-type {
-				color: var(--primariaPrincipal);
-			}
-		}
-	}
+    ul {
+li {
+            list-style: none;
 
-	ul {
-		> li {
-			list-style: none;
+            &:before {
+                content: "•";
+            font-weight: 700;
+               font-size: 1.3em;
+               line-height: 1em;
+               color: var(--primariaPrincipal);
+            margin-left: -1.1em;
+            padding-right: 0.8em;
+            }
 
-			&:before {
-				content: "\2022";
-				font-weight: 700;
-				font-size: 1.3em;
-				line-height: 1em;
-				color: var(--primariaPrincipal);
-				margin-left: -0.5em;
-				padding-right: 0.2em;
-			}
-
-			> ul li {
-				list-style: circle;
-				&:before {
-					display: none;
-				}
-			}
-		}
-	}
+ul li {
+                list-style: circle;
+                &:before {
+                    display: none;
+                }
+            }
+        }
+    }
 
 
 

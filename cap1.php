@@ -212,12 +212,299 @@ Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
     <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
-  <figure>
+  
  
   <h5 class="align-left">Os 10 maiores cursos de graduação, por modalidade e rede de ensino – Brasil 2021</h5>
-    <img src="img/cap1/grafico11.svg" alt="">
-    <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
-  </figure>
+    <!-- <img src="img/cap1/grafico11.svg" alt=""> -->
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th colspan="5">Rede Federal</th>
+    </tr>
+    <tr>
+      <td style="background-color: var(--fundotabela)"></td>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Nome da Área do Curso — Cine Brasil</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Número de Matrículas</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência<br>%</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência acumulada<br>%</strong></th>
+    </tr>
+    <tr>
+      <td rowspan="10" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Cursos presenciais</strong></td>
+      <td>Administração</td>
+      <td>47.174</td>
+      <td>3,7</td>
+      <td>3,7</td>
+    </tr>
+    <tr>
+      <td>Pedagogia</td>
+      <td>44.490</td>
+      <td>3,5</td>
+      <td>7,1</td>
+    </tr>
+    <tr>
+      <td>Direito</td>
+      <td>42.099</td>
+      <td>3,3</td>
+      <td>10,4</td>
+    </tr>
+    <tr>
+      <td>Medicina</td>
+      <td>41.297</td>
+      <td>3,2</td>
+      <td>13,6</td>
+    </tr>
+    <tr>
+      <td>Agronomia</td>
+      <td>39.211</td>
+      <td>3,0</td>
+      <td>16,6</td>
+    </tr>
+    <tr>
+      <td>Engenharia civil</td>
+      <td>37.215</td>
+      <td>2,9</td>
+      <td>19,5</td>
+    </tr>
+    <tr>
+      <td>Sistemas de informação</td>
+      <td>30.702</td>
+      <td>2,4</td>
+      <td>21,9</td>
+    </tr>
+    <tr>
+      <td>Biologia formação de professor</td>
+      <td>30.258</td>
+      <td>2,3</td>
+      <td>24,2</td>
+    </tr>
+    <tr>
+      <td>Engenharia elétrica</td>
+      <td>28.951</td>
+      <td>2,2</td>
+      <td>26,5</td>
+    </tr>
+    <tr>
+      <td>Matemática formação de professor</td>
+      <td>28.597</td>
+      <td>2,2</td>
+      <td>28,7</td>
+    </tr>
+    <tr>
+      <td style="background-color: var(--fundotabela)"></td>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Nome da Área do Curso — Cine Brasil</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Número de Matrículas</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência<br>%</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência acumulada<br>%</strong></th>
+    </tr>
+    <tr>
+      <td rowspan="10" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Cursos a Distância</strong></td>
+      <td>Pedagogia</td>
+      <td>12.852</td>
+      <td>15,7</td>
+      <td>15,7</td>
+    </tr>
+    <tr>
+      <td>Matemática formação de professor</td>
+      <td>8.500</td>
+      <td>10,4</td>
+      <td>26,1</td>
+    </tr>
+    <tr>
+      <td>Letras português formação de professor</td>
+      <td>7.302</td>
+      <td>8,9</td>
+      <td>35,0</td>
+    </tr>
+    <tr>
+      <td>Administração</td>
+      <td>6.700</td>
+      <td>8,2</td>
+      <td>43,2</td>
+    </tr>
+    <tr>
+      <td>Administração pública</td>
+      <td>6.681</td>
+      <td>8,2</td>
+      <td>51,4</td>
+    </tr>
+    <tr>
+      <td>Biologia formação de professor</td>
+      <td>4.116</td>
+      <td>5,0</td>
+      <td>56,4</td>
+    </tr>
+    <tr>
+      <td>Computação formação de professor</td>
+      <td>2.658</td>
+      <td>3,2</td>
+      <td>59,6</td>
+    </tr>
+    <tr>
+      <td>Engenharia de produção</td>
+      <td>2.625</td>
+      <td>3,2</td>
+      <td>62,9</td>
+    </tr>
+    <tr>
+      <td>Física formação de professor</td>
+      <td>2.536</td>
+      <td>3,1</td>
+      <td>66,0</td>
+    </tr>
+    <tr>
+      <td>Química formação de professor</td>
+      <td>2.348</td>
+      <td>2,9</td>
+      <td>68,8</td>
+    </tr>
+  </table>
+</figure>
+
+<figure class="tabela">
+  <table class="th-33">
+    <tr>
+      <th colspan="5">Rede Privada</th>
+    </tr>
+    <tr>
+      <td style="background-color: var(--fundotabela)"></td>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Nome da Área do Curso — Cine Brasil</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Número de Matrículas</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência<br>%</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência acumulada<br>%</strong></th>
+    </tr>
+    <tr>
+      <td rowspan="10" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Cursos presenciais</strong></td>
+      <td>Direito</td>
+      <td>616.980</td>
+      <td>18,3</td>
+      <td>18,3</td>
+    </tr>
+    <tr>
+      <td>Psicologia</td>
+      <td>261.818</td>
+      <td>7,8</td>
+      <td>26,1</td>
+    </tr>
+    <tr>
+      <td>Enfermagem</td>
+      <td>243.562</td>
+      <td>7,2</td>
+      <td>33,4</td>
+    </tr>
+    <tr>
+      <td>Administração</td>
+      <td>195.741</td>
+      <td>5,8</td>
+      <td>39,2</td>
+    </tr>
+    <tr>
+      <td>Medicina</td>
+      <td>159.017</td>
+      <td>4,7</td>
+      <td>43,9</td>
+    </tr>
+    <tr>
+      <td>Fisioterapia</td>
+      <td>136.483</td>
+      <td>4,1</td>
+      <td>47,9</td>
+    </tr>
+    <tr>
+      <td>Odontologia</td>
+      <td>125.363</td>
+      <td>3,7</td>
+      <td>51,7</td>
+    </tr>
+    <tr>
+      <td>Engenharia civil</td>
+      <td>117.961</td>
+      <td>3,5</td>
+      <td>55,2</td>
+    </tr>
+    <tr>
+      <td>Farmácia</td>
+      <td>105.072</td>
+      <td>3,1</td>
+      <td>58,3</td>
+    </tr>
+    <tr>
+      <td>Pedagogia</td>
+      <td>103.393</td>
+      <td>3,1</td>
+      <td>61,4</td>
+    </tr>
+    <tr>
+      <td style="background-color: var(--fundotabela)"></td>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Nome da Área do Curso — Cine Brasil</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Número de Matrículas</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência<br>%</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Frequência acumulada<br>%</strong></th>
+    </tr>
+    <tr>
+      <td rowspan="10" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Cursos a Distância</strong></td>
+      <td>Pedagogia</td>
+      <td>557.273</td>
+      <td>15,7</td>
+      <td>15,7</td>
+    </tr>
+    <tr>
+      <td>Administração</td>
+      <td>341.139</td>
+      <td>9,6</td>
+      <td>25,3</td>
+    </tr>
+    <tr>
+      <td>Contabilidade</td>
+      <td>193.181</td>
+      <td>5,5</td>
+      <td>30,8</td>
+    </tr>
+    <tr>
+      <td>Gestão de pessoas</td>
+      <td>170.469</td>
+      <td>4,8</td>
+      <td>35,6</td>
+    </tr>
+    <tr>
+      <td>Educação Física</td>
+      <td>146.492</td>
+      <td>4,1</td>
+      <td>39,7</td>
+    </tr>
+    <tr>
+      <td>Sistemas de informação</td>
+      <td>128.865</td>
+      <td>3,6</td>
+      <td>43,4</td>
+    </tr>
+    <tr>
+      <td>Enfermagem</td>
+      <td>108.249</td>
+      <td>3,1</td>
+      <td>46,4</td>
+    </tr>
+    <tr>
+      <td>Serviço social</td>
+      <td>103.907</td>
+      <td>2,9</td>
+      <td>49,4</td>
+    </tr>
+    <tr>
+      <td>Logística</td>
+      <td>95.968</td>
+      <td>2,7</td>
+      <td>52,1</td>
+    </tr>
+    <tr>
+      <td>Marketing</td>
+      <td>74.207</td>
+      <td>2,1</td>
+      <td>54,2</td>
+    </tr>
+  </table>
+  <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
+</figure>
+ 
   
   <figure>
   <h4 class="align-left"><strong>Indicadores de trajetória dos estudantes no curso de ingresso</strong></h4>
