@@ -44,8 +44,8 @@
       --fundoCor: #111416;
       --textoCor: rgba(255,255,255,.75);
 
-      --primariaPrincipal: #1479CC;
-      --secundariaPrincipal: #C25700;
+      --primariaPrincipal: #1588E6;
+      --secundariaPrincipal:#D96200;
       
       --monoOpacidade: rgba(255,255,255, .2);
       --monoMenu: #14191C;
@@ -58,6 +58,22 @@
 
       #modal-ajustes{ 
         background-color:var(--monoModalFundo);
+      }
+
+      table {
+
+        th {
+          background-color: #1171BF;
+          border-color: #1171BF;
+        }
+
+        th[scope="row"] {
+          background-color: var(--bordaPrimaria);
+          // white-space: nowrap;
+          font-weight: $semibold;
+          vertical-align: top;
+          color: unset;
+        }
       }
 
       #authors{
