@@ -35,19 +35,19 @@ include("components/page-header.php");
       <th class="align-left">Municípios</th>
     </tr>
     <tr>
-      <th scope="row">Metropolitana</th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)">Metropolitana</th>
       <td>Cariacica, Viana, Vitória, Vila Velha, Afonso Cláudio, Domingos Martins, Venda Nova do Imigrante, Santa Leopoldina e Santa Teresa.</td>
     </tr>
     <tr>
-      <th scope="row">Norte</th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)">Norte</th>
       <td>Conceição da Barra, São Mateus, Montanha, Pinheiros, Ecoporanga, Mantenópolis e Nova Venécia.</td>
     </tr>
     <tr>
-      <th scope="row">Noroeste</th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)">Noroeste</th>
       <td>Baixo Guandu, Colatina, Aracruz e Linhares.</td>
     </tr>
     <tr>
-      <th scope="row">Sul</th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)">Sul</th>
       <td>Cachoeiro do Itapemirim, Vargem Alta, Castelo, Mimoso do Sul, Alegre, Piúma, Itapemirim, Bom Jesus do Norte e Iúna.</td>
     </tr>
   </table>
@@ -691,8 +691,8 @@ e pelo domínio de informações culturais e tecnológicas. Essa estrutura de pe
       <th class="align-left" colspan="2">Vocações econômicas do Estado do Espírito Santo</th>
     </tr>
     <tr>
-      <th scope="row"><strong>Setores</strong></th>
-      <th scope="row"><strong>Informações relevantes</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Setores</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Informações relevantes</strong></th>
     </tr>
     <tr>
       <th scope="row">Agronegócio</th>
@@ -755,10 +755,10 @@ papaia, abacaxi, maracujá, coco, goiaba e morango).</td>
       <th class="align-left" colspan="4">Principais atividades econômicas por macrorregião e microrregião do Estado do Espírito Santo</th>
     </tr>
     <tr>
-      <th scope="row"><strong>Macrorregiões</strong></th>
-      <th scope="row"><strong>Microrregiões</strong></th>
-      <th scope="row"><strong>Municípios</strong></th>
-      <th scope="row"><strong>Potencialidades econômicas</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Macrorregiões</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Microrregiões</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Municípios</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Potencialidades econômicas</strong></th>
     </tr>
     <tr>
       <th scope="row"rowspan="3">Metropolitana</th>
@@ -832,8 +832,8 @@ significa apoio e estímulo, por meio da administração de incentivos e benefí
       <th class="align-left" colspan="3">Municípios do Estado do Espírito Santo onde a UFES possui polo de EaD ou pretende criá-los e que estão na área de atuação da Sudene </th>
     </tr>
     <tr>
-    <th scope="row"><strong>Município</strong></th>
-      <th scope="row"><strong>População estimada - 2021</strong></th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Município</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>População estimada - 2021</strong></th>
 </tr>
 <tr>
   <td>Baixo Guandu</td>

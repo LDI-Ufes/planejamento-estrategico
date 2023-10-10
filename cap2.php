@@ -48,14 +48,14 @@ include("components/page-header.php");
       <th class="align-left" colspan="4">Macroprocessos finalísticos e de apoio ao exercício das competências e finalidades da SEAD</th>
     </tr>
     <tr>
-    <td style="vertical-align: middle"><strong>Macroprocessos finalísticos</strong></td>
-    <td style="vertical-align: middle"><strong>Macroprocessos de apoio</strong></td>
-    <td style="vertical-align: middle"><strong>Processos / Indicadores qualitativos</strong></td>
-    <td style="vertical-align: middle"><strong>Subprocessos</strong></td>
+    <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Macroprocessos finalísticos</strong></td>
+    <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Macroprocessos de apoio</strong></td>
+    <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Processos / Indicadores qualitativos</strong></td>
+    <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Subprocessos</strong></td>
    
 </tr>
     <tr>
-      <td scope="row" rowspan="7"><strong>Processos de Realização dos Cursos</strong></td>
+      <td scope="row" rowspan="7"style="vertical-align: top; background-color: var(--fundotabela)"><strong>Processos de Realização dos Cursos</strong></td>
       <td scope="row" rowspan="2">Processos Relacionados aos Alunos</td>
       <td>Determinação e Análise dos Requisitos dos Alunos</td>
       <td></td>
@@ -88,7 +88,7 @@ include("components/page-header.php");
       <td>Avaliação e Melhoria Contínua; Manual de Atividades da Secretaria Acadêmica; Avaliação de Alunos; Revisão de Gabarito; Revisão de Provas; Elaboração de Provas; Empréstimo de Material Bibliográfico; Rotina Operacional - Coordenação de TCC; Cancelamento e Trancamento de Matrícula; Arquivo Discente; Manual do Aluno.</td>
     </tr>
     <tr>
-      <td scope="row" rowspan="3"><strong>Processos de Provisão de Recursos</strong></td>
+      <td scope="row" rowspan="3"style="vertical-align: top; background-color: var(--fundotabela)"><strong>Processos de Provisão de Recursos</strong></td>
       <td>Gestão de Recursos Humanos</td>
       <td>IQ: 28</td>
       <td>Capacitação de Tutores, Coordenadores de Disciplinas e Colaboradores; Recrutamento, Seleção e Contratação de Pessoal; Emissão de Certificados de Capacitação Interna e de Palestrantes; Recrutamento, Seleção e Contratação de Estagiários; Tratamento aos Alunos Portadores de Necessidades Especiais – PNE.</td>
@@ -104,7 +104,7 @@ include("components/page-header.php");
       <td>Assessoria permanente a Execução Financeira dos Projetos.</td>
     </tr>
     <tr>
-      <td scope="row" rowspan="6"><strong>Processos de Medição e Gestão</strong></td>
+      <td scope="row" rowspan="6"style="vertical-align: top; background-color: var(--fundotabela)"><strong>Processos de Medição e Gestão</strong></td>
       <td>Planejamento e Gestão Estratégica</td>
       <td>IQ: 11, 12, 13</td>
       <td>Elaboração, acompanhamento e readequações.</td>
@@ -162,13 +162,13 @@ include("components/page-header.php");
       <th class="align-left" colspan="7">Gestão de pessoas - Perfil da equipe</th>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: middle"><strong>Escolaridade</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Docentes direção</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Servidores técnicos</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Estagiários</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Contratados</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Bolsistas</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>TOTAL</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Escolaridade</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Docentes direção</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Servidores técnicos</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Estagiários</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Contratados</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Bolsistas</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>TOTAL</strong></th>
     </tr>
     <tr>
       <td>2º Grau Completo ou Técnico</td>
@@ -225,25 +225,25 @@ include("components/page-header.php");
       <td>72</td>
     </tr>
     <tr>
-    <th scope="row"><strong>TOTAL</th>
-    <th scope="row"><strong>2</th>
-    <th scope="row"><strong>20</th>
-    <th scope="row"><strong>10</th>
-    <th scope="row"><strong>11</th>
-    <th scope="row"><strong>130</th>
-    <th scope="row"><strong>173</strong></th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>TOTAL</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>2</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>20</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>10</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>11</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>130</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>173</strong></th>
    
     <tr>
       <th class="align-center" colspan="7"></th>
     </tr>
     <tr>
-      <th scope="row" style="vertical-align: middle"><strong>Idades</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Docentes direção</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Servidores técnicos</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Estagiários</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Contratados</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>Bolsistas</strong></th>
-      <th scope="row" style="vertical-align: middle"><strong>TOTAL</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Idades</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Docentes direção</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Servidores técnicos</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Estagiários</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Contratados</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Bolsistas</strong></th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>TOTAL</strong></th>
     </tr>
     <tr>
       <td>18 a 30 anos</td>
@@ -291,13 +291,13 @@ include("components/page-header.php");
       <td>7</td>
     </tr>
     <tr>
-    <th scope="row"><strong>TOTAL</th>
-    <th scope="row"><strong>2</th>
-    <th scope="row"><strong>20</th>
-    <th scope="row"><strong>10</th>
-    <th scope="row"><strong>11</th>
-    <th scope="row"><strong>130</th>
-    <th scope="row"><strong>173</strong></th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>TOTAL</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>2</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>20</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>10</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>11</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>130</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>173</strong></th>
     </tr>
   </table>
 </figure>
@@ -348,19 +348,19 @@ include("components/page-header.php");
       <th style="vertical-align: middle">Municípios</th>
     </tr>
     <tr>
-      <td>Metropolitana</td>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Metropolitana</strong></td>
       <td>Cariacica, Guarapari, Serra, Viana, UFES-Campus Goiabeiras, UFES-Campus Maruípe, Santa Maria de Jetibá.</td>
     </tr>
     <tr>
-      <td>Norte</td>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Norte</strong></td>
       <td>Jaguaré, Barra de São Francisco.</td>
     </tr>
     <tr>
-      <td>Central</td>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Central</strong></td>
       <td>São Gabriel da Palha, Sooretama.</td>
     </tr>
     <tr>
-      <td>Sul</td>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Sul</strong></td>
       <td>Anchieta, Guaçuí, Ibatiba, Marataízes.</td>
     </tr>
 </table>
@@ -419,7 +419,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
       <th class="align-left" colspan="2">Vigência FEST</th>
     </tr>
     <tr>
-      <td>UAB 2018 - Edital 05</td>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>UAB 2018 - Edital 05</strong></td>
       <td>9307</td>
       <td>23068.031737/2020-47</td>
       <td>909</td>
@@ -427,7 +427,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
       <td>03/10/2025</td>
     </tr>
     <tr>
-      <td>UAB 2018 - Biblioteconomia</td>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>UAB 2018 - Biblioteconomia</strong></td>
       <td>9185</td>
       <td>23068.031736/2020-01</td>
       <td>910</td>
@@ -450,7 +450,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
       <th class="align-left" colspan="2">Vigência FAPES</th>
     </tr>
     <tr>
-      <td>UNAC 2022 - Especialização em Direitos Humanos</td>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"><strong>UNAC 2022 - Especialização em Direitos Humanos</strong></td>
       <td>555/2021</td>
       <td>23068.082707/2021-80</td>
       <td>01/01/2022</td>
@@ -515,12 +515,12 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
       <th class="align-left" colspan="3">Análise do ambiente interno e externo ‒ Modalidade de EaD na UFES</th>
     </tr>
     <tr>
-      <td></td>
-      <th scope="row"><strong>Aspectos favoráveis</th>
-      <th scope="row"><strong>Aspectos desfavoráveis</th>
+      <td style="vertical-align: middle; background-color: var(--fundotabela)"></td>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Aspectos favoráveis</th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Aspectos desfavoráveis</th>
     </tr>
     <tr>
-    <th scope="row" rowspan="12"><strong>Ambiente externo</th>
+    <th scope="row" rowspan="12" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Ambiente externo</th>
     <th scope="row" ><strong>Oportunidades:</th>
     <th scope="row" ><strong>Ameaças:</th>
     </tr>
@@ -571,7 +571,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
       <td></td>
     </tr>
     <tr>
-    <th scope="row" rowspan="11"><strong>Ambiente interno</th>
+    <th scope="row" rowspan="11" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Ambiente interno</th>
     <th scope="row" ><strong>Pontos fortes:</th>
     <th scope="row" ><strong>Pontos fracos:</th>
     </tr>
@@ -709,13 +709,13 @@ Alunos e Sociedade), para quem deve entregar resultados. Para entregar resultado
       <th class="align-left" colspan="4">Objetivos quantitativos para 2023-2024</th>
     </tr>
     <tr>
-    <th scope="row" class="align-left" colspan="4"><strong>Desafios: Ações Afirmativas; Desenvolvimento de Pessoas; Esporte, Cultura e Arte; Imagem Institucional; Infraestrutura e Acessibilidade;Inovação; Internacionalização; Qualidade de Vida; Sustentabilidade Ambiental; Sustentabilidade Econômico-Financeira.</th> 
+    <th scope="row" class="align-left" colspan="4" ><strong>Desafios: Ações Afirmativas; Desenvolvimento de Pessoas; Esporte, Cultura e Arte; Imagem Institucional; Infraestrutura e Acessibilidade;Inovação; Internacionalização; Qualidade de Vida; Sustentabilidade Ambiental; Sustentabilidade Econômico-Financeira.</th> 
     </tr>
     <tr>
-    <th scope="row" ><strong>Dimensão</th>
-    <th scope="row" ><strong>Objetivos</th>
-    <th scope="row" ><strong>Metas/Vagas</th>
-    <th scope="row" ><strong>Responsável</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Dimensão</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Objetivos</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Metas/Vagas</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Responsável</th>
     </tr>
     <tr>
       <td>Alunos e Sociedade </td>
@@ -767,11 +767,11 @@ Alunos e Sociedade), para quem deve entregar resultados. Para entregar resultado
     <th scope="row" class="align-left" colspan="5"><strong>Desafios: Ações Afirmativas; Desenvolvimento de Pessoas; Esporte, Cultura e Arte; Imagem Institucional; Infraestrutura e Acessibilidade; Inovação; Internacionalização; Qualidade de Vida; Sustentabilidade Ambiental; Sustentabilidade Econômico-Financeira.</th> 
     </tr>
     <tr>
-    <th scope="row" ><strong>Dimensão</th>
-    <th scope="row" ><strong>Objetivos</th>
-    <th scope="row" ><strong>Indicadores</th>
-    <th scope="row" ><strong>Meta</th>
-    <th scope="row" ><strong>Responsável</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Dimensão</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Objetivos</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Indicadores</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Meta</th>
+    <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Responsável</th>
     </tr>
     <tr>
       <td></td>

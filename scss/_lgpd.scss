@@ -94,24 +94,42 @@ $branco: #fff;
               i{ margin-right: .5rem;}
           }
 
+          // .config.salvar{
+          //     background: var(--primariaPrincipal);
+          //     color: $branco;
+          //     border: 2px solid var(--primariaPrincipal);
+
+          //     &::before {
+          //       @extend %fontAwesome;
+          //       content: '\f058';
+          //       display: inline-block;
+          //       margin-right: 8px;
+          //     }
+
+          //     &:hover{
+          //         background: #C75000;
+          //         border-color: #C75000;
+          //         transition: all .3s ease-in-out;
+          //     }
+          // }
           .config.salvar{
-              background: var(--primariaPrincipal);
-              color: $branco;
-              border: 2px solid var(--primariaPrincipal);
+            background: var(--primariaPrincipal);
+            color: $branco;
+            border: 2px solid var(--primariaPrincipal);
 
-              &::before {
-                @extend %fontAwesome;
-                content: '\f058';
-                display: inline-block;
-                margin-right: 8px;
-              }
+            &::before {
+              @extend %fontAwesome;
+              content: '\f058';
+              display: inline-block;
+              margin-right: 8px;
+            }
 
-              &:hover{
-                  background: #056449;
-                  border-color: #056449;
-                  transition: all .3s ease-in-out;
-              }
-          }
+            &:hover{
+                background: var(--secundariaPrincipal);
+                border-color: var(--secundariaPrincipal);
+                transition: all .3s ease-in-out;
+            }
+        }
 
           // .config.ler-mais{
           //   color: $laranja-medio;
