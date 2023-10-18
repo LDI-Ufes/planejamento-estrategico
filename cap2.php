@@ -407,7 +407,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 
 <p>A dotação orçamentária consignada para o custeio da SEAD, na LOA/2023, é insuficiente para suprir a necessidade da unidade. No orçamento dos cursos, que são gerenciados e fiscalizados por esta Secretaria, uma parte, parametrizada, é destinada ao custeio das despesas da Secretaria e outra parte às ofertas dos cursos. Entretanto, essa é uma situação que nos causa um enorme incômodo. A UFES é integrada ao <a  class = "ref" alt ="Link abre site do Ministério da Educação, falando sobre a Universidade Aberta do Brasil" target ="_blank"  href=http://portal.mec.gov.br/politica-de-educacao-inclusiva?id=12265>Sistema Universidade Aberta do Brasil – UAB</a> e, periodicamente, através de um processo coordenado pela SEAD, participa das chamadas para articulação de cursos que, após serem aprovados, são financiados pela CAPES/MEC com a descentralização dos recursos financeiros referendada por Termos de Cooperação. Em virtude das inúmeras dificuldades envolvidas na gestão orçamentária, esta Secretaria contrata uma Fundação de Apoio para efetuar a execução financeira dos projetos aprovados e fica com a coordenação e fiscalização. </p>
 
-<p>Atualmente, temos contratos vigentes apenas com a <a  class = "ref" alt ="Link abre site da Fundação Espirito-Santense de Tecnologia" target ="_blank"   href=https://fest.org.br>Fundação Espírito-Santense de Tecnologia – FEST</a></p>
+<p>Atualmente, temos contratos vigentes apenas com a <a  class = "ref" alt ="Link abre site da FEST - Fundação Espirito-Santense de Tecnologia" target ="_blank"   href=https://fest.org.br>Fundação Espírito-Santense de Tecnologia – FEST</a></p>
 
 <figure class="tabela">
   <table class="th-33">
@@ -439,7 +439,7 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 </figure>
 
 
-<p>A UFES integra, também, o <a class = "ref" alt ="" target ="_blank"   href=https://universidades.es.gov.br>Sistema Universidade do Espírito Santo - UniversidadES</a>, programa do governo do estado, administrado pela <a  class = "ref" alt ="" target ="_blank"  href=https://secti.es.gov.br>Secretaria da Ciência, Tecnologia, Inovação e Educação Profissional - Secti</a>, desenvolvendo e ofertando cursos para <a class = "ref" alt ="" target ="_blank"   href=https://universidades.es.gov.br/polos-unac>Universidade Aberta Capixaba (UnAC)</a>, em regime de colaboração. Através da SEAD participa das chamadas para articulação de cursos que após serem aprovados são financiados pela <a class = "ref" alt ="" target ="_blank"   href=https://fapes.es.gov.br>Fundação de Amparo à Pesquisa e Inovação do Espírito Santo – FAPES</a>, com a alocação de recursos financeiros vinculados aos Coordenadores dos Cursos, através de Termos de Outorga, para execução dos projetos de ensino.</p>
+<p>A UFES integra, também, o <a class = "ref" alt ="Link abre site do UniversidadES - Sistema Universidade do Espírito Santo" target ="_blank"   href=https://universidades.es.gov.br>Sistema Universidade do Espírito Santo - UniversidadES</a>, programa do governo do estado, administrado pela <a  class = "ref" alt ="Link abre site do Governo Estadual, na seção da Secti - Secretaria da Ciência, Tecnologia, Inovação e Educação Profissional" target ="_blank"  href=https://secti.es.gov.br>Secretaria da Ciência, Tecnologia, Inovação e Educação Profissional - Secti</a>, desenvolvendo e ofertando cursos para <a class = "ref" alt ="Link abre site do UniversidadES, na seção sobre a UnAC - Universidade Aberta Capixaba" target ="_blank"   href=https://universidades.es.gov.br/polos-unac>Universidade Aberta Capixaba (UnAC)</a>, em regime de colaboração. Através da SEAD participa das chamadas para articulação de cursos que após serem aprovados são financiados pela <a class = "ref" alt ="Link abre site da FAPES - Fundação de Amparo à Pesquisa e Inovação do Espírito Santo" target ="_blank"   href=https://fapes.es.gov.br>Fundação de Amparo à Pesquisa e Inovação do Espírito Santo – FAPES</a>, com a alocação de recursos financeiros vinculados aos Coordenadores dos Cursos, através de Termos de Outorga, para execução dos projetos de ensino.</p>
 
 <figure class="tabela">
   <table class="th-33">
@@ -476,9 +476,9 @@ servidores e a despesa necessária à manutenção e continuidade das atividades
 
 <p>Nessa perspectiva, o planejamento deve considerar o processo avaliativo não apenas como um mero levantamento de fragilidades e potencialidades, mas, acima de tudo, como um processo de acompanhamento permanente das ações que visam alcançar os objetivos estratégicos estabelecidos.</p>
 
-<p>Considerando a natureza das atividades da SEAD, as interações com a sociedade e a previsão de crescimento em um período determinado, estruturamos o planejamento de longo, médio e curto prazo, respectivamente, através dos objetivos estratégicos estabelecidos no Planejamento Estratégico da SEAD, no <a class = "ref" alt ="" target ="_blank"   href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Projeto Pedagógico Institucional (PPI)</a> e no <a  class = "ref" alt ="" target ="_blank"  href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento e Institucional (PDI)</a>.</p>
+<p>Considerando a natureza das atividades da SEAD, as interações com a sociedade e a previsão de crescimento em um período determinado, estruturamos o planejamento de longo, médio e curto prazo, respectivamente, através dos objetivos estratégicos estabelecidos no Planejamento Estratégico da SEAD, no <a class = "ref" alt ="Link abre pdf do Projeto Pedagógico Institucional da Ufes" target ="_blank"   href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Projeto Pedagógico Institucional (PPI)</a> e no <a  class = "ref" alt ="Link abre pdf do Plano de Desenvolvimento Institucional da Ufes" target ="_blank"  href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento e Institucional (PDI)</a>.</p>
 
-<p>Na UFES, a <a  class = "ref" alt ="" target ="_blank"  href=https://www.ufes.br/secretaria-de-avalia%C3%A7%C3%A3o-institucional-seavin>Secretaria de Avaliação Institucional - SEAVIN</a> é o órgão responsável por acompanhar, coordenar e articular as diversas ações de avaliação desenvolvidas na Instituição. Os principais processos avaliados, e em decorrência disso acompanhados pela SEAVIN, são: processos de reconhecimento e renovação de reconhecimento de cursos via Enade; processos de reconhecimento e renovação de reconhecimento de cursos via visitas <em>in loco</em>; Índice Geral de Cursos (IGC); recredenciamento institucional; e rankings (nacional e internacional).</p>
+<p>Na UFES, a <a  class = "ref" alt ="Link abre site da Ufes, na seção sobre a SEAVIN - Secretaria de Avaliação Institucional" target ="_blank"  href=https://www.ufes.br/secretaria-de-avalia%C3%A7%C3%A3o-institucional-seavin>Secretaria de Avaliação Institucional - SEAVIN</a> é o órgão responsável por acompanhar, coordenar e articular as diversas ações de avaliação desenvolvidas na Instituição. Os principais processos avaliados, e em decorrência disso acompanhados pela SEAVIN, são: processos de reconhecimento e renovação de reconhecimento de cursos via Enade; processos de reconhecimento e renovação de reconhecimento de cursos via visitas <em>in loco</em>; Índice Geral de Cursos (IGC); recredenciamento institucional; e rankings (nacional e internacional).</p>
 
 <p>As ações do Enade são atualmente divididas em três grandes etapas: desenvolvimento, treinamento e sensibilização. Destaca-se que a UFES alcançou Conceito de Curso máximo (5) em cinco cursos, um deles é desenvolvido na modalidade EAD pela SEAD/UFES. Os cursos nota cinco da UFES são: Arquivologia, Pedagogia-CEUNES, Estatística, Filosofia-EaD e Educação do Campo-CEUNES. A última vez em que um curso foi avaliado com CC=5 foi em 2008.</p>
 
@@ -490,9 +490,9 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 <p>Há diversos instrumentos de planejamento na Universidade. Os três principais para a SEAD/UFES são:</p>
 
 <ul class="listagem">
-  <li>O <a  class = "ref" alt ="" target ="_blank"  href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento Institucional (PDI) da UFES</a>;</li>
-  <li>O <a class = "ref" alt ="" target ="_blank"   href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Planejamento Pedagógico Institucional (PPI) da UFES</a>; e</li>
-  <li>O <a class = "ref" alt ="" target ="_blank"   href=https://sead.ufes.br/wp-content/uploads/2023/06/sead_planejamento-estrategico_2021-2030.pdf>Planejamento Estratégico da SEAD</a>.</li>
+  <li>O <a  class = "ref" alt ="Link abre pdf do Plano de Desenvolvimento Institucional da Ufes" target ="_blank"  href=https://proplan.ufes.br/sites/proplan.ufes.br/files/field/anexo/pdi_2021-2030.pdf>Plano de Desenvolvimento Institucional (PDI) da UFES</a>;</li>
+  <li>O <a class = "ref" alt ="Link abre pdf do Projeto Pedagógico Institucional da Ufes" target ="_blank"   href=https://avaliacaoinstitucional.ufes.br/sites/avaliacaoinstitucional.ufes.br/files/field/anexo/PPI-UFES.pdf>Planejamento Pedagógico Institucional (PPI) da UFES</a>; e</li>
+  <li>O <a class = "ref" alt ="Link abre pdf do Planejamento Estratégico da SEAD" target ="_blank"   href=https://sead.ufes.br/wp-content/uploads/2023/06/sead_planejamento-estrategico_2021-2030.pdf>Planejamento Estratégico da SEAD</a>.</li>
 </ul>
 
 <p>O PDI é o documento que identifica e norteia o que será desenvolvido na UFES de uma forma geral. Está relacionado à filosofia de trabalho, à missão e às atividades acadêmicas realizadas ou pretendidas. Dessa forma, serve de base para o planejamento da Universidade como um todo, tem a função de guiar o trabalho dos cursos, centros de ensino, departamentos, superintendências e programas. Além disso, é o instrumento que o Ministério da Educação (MEC) e outros órgãos de controle utilizam para avaliar a instituição.</p>
@@ -503,7 +503,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <h3>2.6.1. Planejamento Estratégico da SEAD 2021-2030</h3>
 
-<p>O Planejamento Estratégico foi elaborado a partir das contribuições coletadas por nossos colaboradores, tendo como referências o cenário nacional e regional; as tendências e perspectivas; o <a  class = "ref" alt ="" target ="_blank"  href=https://pne.mec.gov.br/18-planos-subnacionais-de-educacao/543-plano-nacional-de-educacao-lei-n-13-005-2014>Plano Nacional da Educação (PNE)</a>; o <a  class = "ref" alt ="" target ="_blank"  href=https://www.gov.br/economia/pt-br/assuntos/planejamento-e-orcamento/plano-plurianual-ppa>Plano Plurianual do Governo Federal (PPA)</a>; o <a  class = "ref" alt ="" target ="_blank"  href=https://planejamento.es.gov.br/Media/sep/Plano%20ES%202030/ES2030.pdf>Plano de Desenvolvimento do Espírito Santo - 2030</a>; o Plano de Desenvolvimento Institucional (PDI) e o Plano Pedagógico Institucional (PPI) de diversas Instituições Federais de Ensino Superior; os resultados de análises realizadas internamente na Instituição (como a autoavaliação institucional); e a Análise Ambiental (SWOT). Com isso, a SEAD espera contribuir para que a Missão da UFES seja cumprida com efetividade, atendendo aos anseios da sociedade.</p>
+<p>O Planejamento Estratégico foi elaborado a partir das contribuições coletadas por nossos colaboradores, tendo como referências o cenário nacional e regional; as tendências e perspectivas; o <a  class = "ref" alt ="Link abre site do PNE - Plano Nacional de Educação" target ="_blank"  href=https://pne.mec.gov.br/18-planos-subnacionais-de-educacao/543-plano-nacional-de-educacao-lei-n-13-005-2014>Plano Nacional da Educação (PNE)</a>; o <a  class = "ref" alt ="Link abre site do Governo Federal, mostrando o Plano Plurianual do Governo Federal" target ="_blank"  href=https://www.gov.br/economia/pt-br/assuntos/planejamento-e-orcamento/plano-plurianual-ppa>Plano Plurianual do Governo Federal (PPA)</a>; o <a  class = "ref" alt ="Link abre pdf do Plano de Desenvolvimento do Espírito Santo - 2030 " target ="_blank"  href=https://planejamento.es.gov.br/Media/sep/Plano%20ES%202030/ES2030.pdf>Plano de Desenvolvimento do Espírito Santo - 2030</a>; o Plano de Desenvolvimento Institucional (PDI) e o Plano Pedagógico Institucional (PPI) de diversas Instituições Federais de Ensino Superior; os resultados de análises realizadas internamente na Instituição (como a autoavaliação institucional); e a Análise Ambiental (SWOT). Com isso, a SEAD espera contribuir para que a Missão da UFES seja cumprida com efetividade, atendendo aos anseios da sociedade.</p>
 
 <p>A Análise Ambiental foi efetuada utilizando a Matriz SWOT ou FOFA para destacar os pontos do ambiente externo (oportunidades e ameaças) e interno (fortes e fracos), a fim de proporcionar melhor entendimento sobre quais pontos críticos, fora e dentro do órgão, podem influenciar o seu desempenho.</p>
 
@@ -622,9 +622,33 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
 
 <p>De forma ponderada, as informações obtidas com o estudo detalhado do cenário em que atuamos conduzem a definição de qual ou quais estratégias voltadas para as nossas atividades fim pretendemos utilizar. Priorizamos algumas atividades meio, adotando objetivos estratégicos, cuja gestão de alguma forma contribuirá diretamente para a consecução da nossa missão. A Matriz Microambiente de Atuação x Produto, de Ansoff, ficou definida da seguinte forma:</p>
 
-<figure>
+<!-- <figure>
    <img src="img/cap2/matriz-ansoff.svg" alt=""/>
- </figure>
+ </figure> -->
+ <h4 class="align-left"><strong>Matriz de Ansoff</strong></h4>
+
+ <figure class="tabela">
+  <table>
+    <tr>
+      <td rowspan="2" colspan="2" style= "border: none"></td>
+      <th class="align-left" colspan="2">Microambiente de atuação</th>
+    </tr>
+    <tr>
+   
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Microambiente existente</th>
+      <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Microambiente novo</th>
+    </tr>
+   <tr> <th class="align-left" rowspan="2">Produtos</th>
+   <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Produtos<br> existentes</th>
+   <td><strong>Penetração no microambiente</strong><br><br>•  Ampliação de oferta e diversificação de Cursos da UAB<br><br> •  Oferta de Cursos UNASUS</td>
+   <td><strong>Desenvolvimento no microambiente</strong><br><br>• Oferta e diversificação de Cursos UAB em novos polos<br><br>• Oferta de Cursos UNASUS em novos polos</td>
+  </tr>
+  
+   <th scope="row" style="vertical-align: middle; background-color: var(--fundotabela)"><strong>Produtos<br> novos</th>
+   <td><strong>Desenvolvimento de produto</strong><br><br> •  Oferta de Ensino Híbrido na UFES<br><br> •  Oferta de Cursos MOOCs</td>
+   <td><strong>Diversificação</strong><br><br> •  Desenvolvimento e oferta de cursos semipresenciais para oferta de acordo c/ os Arranjos Produtos Locais do Estado<br><br> •  Desenvolvimento de Cursos Customizados para novos parceiros</td>
+  </tr>
+</table></figure>
 
 <h4>2.6.1.1. Objetivos Estratégicos</h4>
 
@@ -634,7 +658,7 @@ UFES, foi avaliada em 2013, tendo seu reconhecimento publicado em 2017 (nota tr�
   <li>Ampliar a oferta de vagas em cursos, na modalidade EAD, de graduação, pós-graduação, extensão e abertos;</li>
   <li>Intensificar ações de formação e qualificação dos servidores da SEAD;</li>
   <li>Regulamentar a atuação da SEAD nas instâncias decisórias da UFES com vistas à integração das modalidades de ensino;</li>
-  <li>Institucionalizar e estabelecer as bases legais na UFES para implantar o Ensino Híbrido (<a class = "ref" alt ="" target ="_blank"   href=https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/57496468/do1-2018-12-31-portaria-n-1-428-de-28-de-dezembro-de-2018-57496251>Portaria MEC/GM nº 1.428/2018</a>), viabilizando a inserção de carga horária EAD nos cursos presenciais, possibilitando flexibilização e diferenciação na integralização curricular dos mesmos;Implantar e operacionalizar a parceria UFES/UNA-SUS (credenciamento de 29/04/2014);</li>
+  <li>Institucionalizar e estabelecer as bases legais na UFES para implantar o Ensino Híbrido (<a class = "ref" alt ="Link abre site do Governo Federal, exibindo a Portaria Nº 1.428, de 2018 no Diário Oficial da União" target ="_blank"   href=https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/57496468/do1-2018-12-31-portaria-n-1-428-de-28-de-dezembro-de-2018-57496251>Portaria MEC/GM nº 1.428/2018</a>), viabilizando a inserção de carga horária EAD nos cursos presenciais, possibilitando flexibilização e diferenciação na integralização curricular dos mesmos;Implantar e operacionalizar a parceria UFES/UNA-SUS (credenciamento de 29/04/2014);</li>
   <li>Ampliar a infraestrutura física, tecnológica e de pessoal projetada para a SEAD e para os polos de educação a distância, em consonância com os cursos a serem ofertados;</li>
   <li>Ampliar a taxa de sucesso e os índices de permanência, reduzindo os índices de evasão nos cursos de graduação, pós-graduação e de extensão, efetuados na modalidade EAD semipresencial;</li>
   <li>Viabilizar o financiamento da EAD de forma simétrica ao fomento da educação presencial;</li>
