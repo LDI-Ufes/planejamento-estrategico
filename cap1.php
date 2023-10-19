@@ -932,8 +932,8 @@ o ser humano pode ser o agente transformador de maneira positiva ou negativa. N�
 <p>O fio condutor que tece tudo o que você leu até aqui é o fascínio pelo amanhã e uma lente provocativa para a cultura. Nesse sentido, a consultoria <em lang="en">BrainReserve</em>, em diversos outros artigos, aponta os setores que irão crescer à medida que avançamos para 2030:</p>
 
 <ul class="listagem">
-  <li><strong><em lang="en"><a class = "ref" alt ="" target ="_blank"  href=https://www.voitto.com.br/blog/artigo/e-learning>E-learning</a></em>:</strong> de cursos online a implantes cerebrais, conhecimento é poder. </li>
-  <li><strong><em lang="en"><a class = "ref" alt ="" target ="_blank"  href=https://rockcontent.com/br/blog/e-commerce-guia>E-commerce</a></em>:</strong> satisfazer as necessidades do consumidor sem obrigá-lo a sair de seus Pod Coons (espaços móveis de vida/trabalho).</li>
+  <li><strong><a class = "ref" alt ="" target ="_blank"  href=https://www.voitto.com.br/blog/artigo/e-learning><em lang="en">E-learning</em></a>:</strong> de cursos online a implantes cerebrais, conhecimento é poder. </li>
+  <li><strong><a class = "ref" alt ="" target ="_blank"  href=https://rockcontent.com/br/blog/e-commerce-guia><em lang="en">E-commerce</em></a>:</strong> satisfazer as necessidades do consumidor sem obrigá-lo a sair de seus Pod Coons (espaços móveis de vida/trabalho).</li>
   <li><strong><a ref=https://www.saudebusiness.com/ti-e-inovao/entenda-como-telessade-pode-melhorar-medicina-no-brasil>Telessaúde</a>:</strong> de visitas de bem-estar a procedimentos médicos e saúde mental, tudo está acontecendo virtualmente. O apoio emocional será vital por anos pós-pandemia, à medida que a sociedade se recupera do que perdeu.</li>
   <li><strong>Transporte:</strong> Recriando nosso sistema atual para um mundo pós-pandemia e investindo em viagens espaciais e temporais.</li>
   <li><strong><a class = "ref" alt ="" target ="_blank"  href=https://atozofai.withgoogle.com/intl/pt-BR/robotics>IA e robótica</a>:</strong> reforçando e substituindo nossa força de trabalho à medida que entramos neste novo estágio da evolução humana.</li>
