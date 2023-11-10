@@ -6,7 +6,7 @@ include("components/page-header.php");
 ?>
 
 <p><a href=https://www.in.gov.br/en/web/dou/-/portaria-n-434-de-22-de-outu-bro-de-2020-284699573>https://www.in.gov.br/en/web/dou/-/portaria-n-434-de-22-de-outu-bro-de-2020-284699573</a></p>
-<p>JOCQUINOT, G. Apprivoiser la distance et supprimer l’absence ? ou les défis de la formation à distance. Revue Française de Pédagogie, S.l., n. 102, p. 55-67, 1993.</p>
+<p>JOCQUINOT, G. <strong>Apprivoiser la distance et supprimer l’absence ? ou les défis de la formation à distance</strong>. Revue Française de Pédagogie, S.l., n. 102, p. 55-67, 1993.</p>
 <p><a href=https://desafiosdaeducacao.grupoa.com.br/educacao-virtual>https://desafiosdaeducacao.grupoa.com.br/educacao-virtual/</a></p>
 <p><a href=http://abed.org.br/arquivos/CENSO_DIGITAL_EAD_2018_PORTUGUES.pdf>http://abed.org.br/arquivos/CENSO_DIGITAL_EAD_2018_PORTUGUES.pdf</a></p>
 <p><a href=https://desafiosdaeducacao.grupoa.com.br>https://desafiosdaeducacao.grupoa.com.br/</a></p>
