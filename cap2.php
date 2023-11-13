@@ -11,7 +11,7 @@ include("components/page-header.php");
 <p>O organograma da SEAD mostra que buscamos mesclar os conceitos das estruturas organizacionais simples e virtual, ou em rede, apresentando baixo grau de departamentalização, onde se sobressai a autoridade decorrente da competência técnica, da simplicidade, da obviedade, da agilidade, da flexibilidade, da manutenção barata e da clareza das responsabilidades. As composições das equipes de trabalho são flexíveis e interligadas as demais unidades.</p>
 
 <figure>
-   <img src="img/cap2/organograma.svg" alt=""/>
+   <img src="img/cap2/organograma.svg" alt="Organograma demonstrando a estrutura de governança da SEAD/UFES"/>
  </figure>
 
 <p>O que buscamos é a flexibilidade máxima da estrutura organizacional, com o intuito de obter concentração naquilo que sabemos fazer melhor. O nosso diferencial pressupõe uma elevada conectividade entre as partes, de tal forma que elas desenvolvam suas funções com autonomia e de forma auto coordenada. Entendemos que a unidade de comando é um conceito pouco relevante, porque trabalhamos com equipes auto gerenciadas e utilizamos plenamente as possibilidades de comunicação por meio de recursos das Tecnologias de Informação e Comunicação (TICs).</p>

@@ -165,15 +165,15 @@ contribuir para o cálculo de indicadores de qualidade, como o Conceito Prelimin
   <figure>
   <h4 class="align-left"><strong>Vagas oferecidas vs. Vagas ocupadas (ingressos)</strong></h4>
   <h5 class="align-left">Taxa de ocupação das vagas novas ofertadas, segundo cursos específicos - Brasil 2021</h5>
-    <img src="img/cap1/grafico3.svg" alt="">
+    <img src="img/cap1/grafico3.svg" alt="Dois gráficos, em barras, comparando a taxa de ocupação das novas vagas ofertadas no ensino público e privado, em cursos específicos, no Brasil em 2021">
   </figure>
   
   <figure>
   <h4 class="align-left"><strong>Ingressantes em cursos de graduação</strong></h4>
   <h5 class="align-left"> Número de ingressantes em cursos de graduação – Brasil 2011-2021</h5>
-   <img src="img/cap1/grafico4.svg" alt="">
+   <img src="img/cap1/grafico4.svg" alt="Gráfico em colunas expondo a diferença do número de ingressantes em cursos de graduação no Brasil nas modalidades de ensino presencial e à distância, no período de 2011 a 2021">
   <h5 class="align-left"> Distribuição dos ingressantes, por grau acadêmico do curso – Brasil 2021</h5>
-    <img src="img/cap1/grafico4-2.svg" alt="">
+    <img src="img/cap1/grafico4-2.svg" alt="Seta apontando para gráfico em anel. A seta indica o número total de ingressantes em cursos de graduação no ano de 2021 e o gráfico em anel, que está dividido em três partes, mostra a distribuição dos ingressantes por grau acadêmico do curso, que são: Bacharelado, Licenciatura e Tecnológico. A maior parte representada é de Bacharelado">
     <figcaption>Nota: Não está computado os valores de ingressantes de áreas básicas de ingresso<br>
       Fonte: MEC/Inep; Censo da Educação Superior<br><br>
       O número de ingressos em cursos de graduação a distância tem aumentado substancialmente nos últimos anos. Por outro lado, o número de ingressantes em cursos presenciais vem diminuindo desde 2014, tendo o menor valor registrado em 2021 da série histórica dos últimos 10 anos. A Licenciatura registrou uma queda de -12,8% entre 2020 e 2021.
@@ -183,7 +183,7 @@ contribuir para o cálculo de indicadores de qualidade, como o Conceito Prelimin
   <figure>
   <h4 class="align-left"><strong>Rede privada</strong></h4>
   <h5 class="align-left">Evolução do número de matrículas na rede privada, por modalidade de ensino – Brasil 2011-2021</h5>
-    <img src="img/cap1/grafico6.svg" alt="">
+    <img src="img/cap1/grafico6.svg" alt="Gráfico em colunas acerca da evolução do número de matrículas na rede privada dividido por modalidade de ensino, presencial e a distância, no período de 2011 a 2021 no Brasil">
     <figcaption>Desde o ano de 2016, a matrícula em cursos presenciais na rede privada de educação superior tem diminuído e esse comportamento é acompanhado pelo aumento do ritmo de
 crescimento dos cursos EaD. Em 2021, o número de matrículas em cursos a distância da rede privada ultrapassa o número de matrículas em cursos presenciais.<br><br> 
 Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
@@ -192,7 +192,7 @@ Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   <figure>
  
   <h5 class="align-left"> Razão entre matrícula na rede privada e matrícula na rede pública em cursos presenciais, por Unidade da Federação – Brasil 2021</h5>
-    <img src="img/cap1/grafico7.svg" alt="">
+    <img src="img/cap1/grafico7.svg" alt="Gráfico em colunas representando a razão entre matrículas na rede privada e matrículas na rede pública em cursos presenciais por estado, em 2021 no Brasil">
     <figcaption>Em São Paulo, há 3,5 alunos na rede privada para cada aluno na rede pública, maior relação entre todas as UFs. Em 5 delas, essa relação é igual ou superior a dois alunos em favor da rede privada. Nos estados de Roraima, Amapá, Paraíba, Tocantins e Rio Grande do Norte há mais alunos na rede pública do que na rede privada (Acre, Alagoas e Mato Grosso do Sul tem a relação de 1 para 1).<br><br>
     Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
@@ -200,7 +200,7 @@ Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   <figure>
   <h4 class="align-left"><strong>Educação a distância</strong></h4>
   <h5 class="align-left">Número de matrículas em cursos de graduação, por modalidade de ensino – Brasil 2011-2021</h5>
-    <img src="img/cap1/grafico8.svg" alt="">
+    <img src="img/cap1/grafico8.svg" alt="Gráfico em colunas acerca do número de matrículas em cursos de graduação dividido por modalidade de ensino, presencial e a distância, no período de 2011 a 2021 no Brasil">
     <figcaption>Nos últimos 10 anos, a educação a distância vem aumentando sua participação na educação superior. Em 2011, a modalidade EaD representava 14,7% das matrículas de graduação. Em 2018, ultrapassou a marca de 2 milhões de alunos, e, em 2021, alcança 3,7 milhões, o que representa mais de 41% dos alunos de graduação no país.<br><br>
     Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
@@ -208,7 +208,7 @@ Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   <figure>
  
   <h5 class="align-left">Número de ingressantes de cursos de graduação, por rede e modalidade de ensino – Brasil 2021</h5>
-    <img src="img/cap1/grafico10.svg" alt="">
+    <img src="img/cap1/grafico10.svg" alt="Gráfico de setores indicando o número de ingressantes em cursos de graduação na rede pública e privada, por modalidade de ensino - presencial ou a distância - no Brasil em 2021">
     <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
@@ -509,7 +509,7 @@ Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   <figure>
   <h4 class="align-left"><strong>Indicadores de trajetória dos estudantes no curso de ingresso</strong></h4>
   <h5 class="align-left">Evolução dos indicadores de trajetória dos estudantes no curso de ingresso em 2012 – Brasil 2012-2021</h5>
-    <img src="img/cap1/grafico13.svg" alt="">
+    <img src="img/cap1/grafico13.svg" alt="Gráfico em colunas indicando as taxas de desistência acumulada, conclusão acumulada e permanência de estudantes em cursos de graduação, presencial ou a distância, no Brasil no período de 2012 a 2021">
     <figcaption>Fonte: MEC/Inep; Censo da Educação Superior</figcaption>
   </figure>
   
@@ -529,7 +529,7 @@ informação e de comunicação (TIC) na educação, tendo em vista que uma Inst
 
 <figure>
 <h4 class="align-left"><strong>Soluções tecnológicas para continuidade das aulas durante a pandemia</strong></h4>
-    <img src="img/cap1/grafico14.svg" alt="">
+    <img src="img/cap1/grafico14.svg" alt="Gráfico em barras indicando as principais soluções tecnológicas adotadas pelas instituições de ensino para continuidade das aulas durante a pandemia">
   </figure>
 
 <p>A cultura estabelecida na EAD clássica, baseada em ambientes virtuais de aprendizagem (AVA), como o Moodle, apresentou-se, inicialmente, como a principal alternativa em 35,4% dos casos. Contudo, os dados indicam uma proximidade em relação à tendência que se consolidou com o prolongamento da urgência social: as aulas por plataformas de videoconferência. Isso pode ser constatado com a crescente utilização dos serviços de videoconferência – como <em>Zoom</em>, <em>Google Meet</em> e <em>Microsoft Teams</em> – na educação, em todos os níveis e modalidades,
@@ -537,7 +537,7 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 
 <figure>
 <h4 class="align-left"><strong>Tempo de migração das aulas presenciais para as remotas</strong></h4>
-    <img src="img/cap1/grafico15.svg" alt="">
+    <img src="img/cap1/grafico15.svg" alt="Gráfico em barras especificando o tempo de migração das aulas presenciais para as remotas">
   </figure>
 
 <p>O que talvez possa ser questionado para ampliar o debate é se essa agilidade na resposta refletiu apenas os aspectos tecnológicos. Enquanto o meio técnico se apresentou rapidamente como uma alternativa para viabilizar a continuidade das aulas, entre as consequências da disrupção estava a dificuldade metodológica, cuja dimensão não pode ser desconsiderada.</p>
@@ -546,21 +546,21 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 
 <figure>
 <h4 class="align-left"><strong>Maiores dificuldades para a ampliação da oferta de EAD durante a pandemia</strong></h4>
-    <img src="img/cap1/grafico16.svg" alt="">
+    <img src="img/cap1/grafico16.svg" alt="Gráfico em barras indicando as principais dificuldades enfrentadas pelas instituições de ensino para a ampliação da oferta EAD durante a pandemia">
   </figure>
 
 <p>Nesse sentido, pode-se afirmar, pela análise da conjuntura social, que a pandemia trouxe indicativos de uma mudança na educação, que deve passar pela formação dos professores, pela revisão metodológica e pela atualização dos recursos tecnológicos, entre outras etapas. Destaca-se, na modalidade EAD, o fato de que 38,1% das instituições já indicaram o início desse processo, conforme apontado no gráfico abaixo.</p>
 
 <figure>
 <h4 class="align-left"><strong>Respostas à questão sobre transformações na EAD durante a pandemia</strong></h4>
-    <img src="img/cap1/grafico17.svg" alt="">
+    <img src="img/cap1/grafico17.svg" alt="Gráfico de setores indicando a porcentagem de instituições que implementaram ou não transformações na modalidade EAD durante a pandemia">
   </figure>
 
 <p>O processo de mudança em si antecipa tendências e tem relação com o futuro da educação. A esse respeito, observa-se, no Gráfico abaixo, que 42,9% das instituições consultadas acreditam que a oferta da EAD será ampliada, enquanto 38,1% veem possibilidade de crescimento da opção pelo ensino híbrido (<em lang="en">blended learning</em>).</p>
 
 <figure>
 <h4 class="align-left"><strong>Visões sobre o futuro da educação pós-pandemia</strong></h4>
-    <img src="img/cap1/grafico18.svg" alt="">
+    <img src="img/cap1/grafico18.svg" alt="Gráfico de setores indicando as tendências que o EAD pode seguir pós pandemia, de acordo com o as instituições de ensino consultadas">
   </figure>
 
 <p>O ensino híbrido vem se reconfigurando pelos sistemas de ensino, apresentando-se como a solução predominante para o retorno escalonado dos alunos pós-pandemia, por meio da mescla entre aulas presenciais e remotas. O emprego dessa metodologia deve, cada vez mais, intensificar-se nas instituições de ensino, com o planejamento integrado das atividades e o desafio de superar os limites de conectividade no Brasil.</p>
@@ -569,7 +569,7 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 
 <figure>
 <h4 class="align-left"><strong>Modalidades ofertadas pelas instituições respondentes</strong></h4>
-    <img src="img/cap1/grafico19.svg" alt="">
+    <img src="img/cap1/grafico19.svg" alt="Gráfico em barras especificando a porcentagem de cada modalidade de ensino ofertada pelas instituições respondentes">
  </figure>
 
 <p>Outro aspecto relevante, na visão dos gestores das instituições, corresponde ao modo como a crise sanitária demandou novas formas de relacionamento com os alunos. Nesse contexto, por um lado, surgiram oportunidades e, por outro, dificuldades financeiras precisaram ser superadas, conforme demonstra o Gráfico abaixo.</p>
@@ -590,14 +590,14 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 
 <figure>
 <h4 class="align-left"><strong>Conteúdos, habilidades e competências desenvolvidos em graduações e pós-graduações EAD, presenciais e híbridas</strong></h4>
-    <img src="img/cap1/grafico21.svg" alt="">
+    <img src="img/cap1/grafico21.svg" alt="Gráfico em barras indicando conteúdos, habilidades e competências desenvolvidos em graduações e pós-graduações EAD, presenciais e híbridas">
   </figure>
 
 <p>Os cursos livres também se destacam pelo desenvolvimento de habilidades voltadas para o mercado de trabalho. Isso sugere que os alunos que estão buscando formação livremente também parecem ter o mundo do trabalho como sua maior preocupação. Destaca-se, no entanto, entre os cursos corporativos, o desenvolvimento de atitudes e habilidades interpessoais, revelando aquilo que o mercado de trabalho efetivamente está buscando desenvolver entre seus colaboradores já contratados.</p>
 
 <figure>
 <h4 class="align-left"><strong>Conteúdos, habilidades e competências ofertados em cursos livres EAD</strong></h4>
-    <img src="img/cap1/grafico22.svg" alt="">
+    <img src="img/cap1/grafico22.svg" alt="Gráfico em barras indicando conteúdos, habilidades e competências ofertados em cursos livres, corporativos ou não corporativos, EAD">
   </figure>
 
 <p>Com relação às ações de aprendizagem, assistir a vídeos e ler textos são as mais frequentes, sendo, na pós-graduação, a oferta de textos mais frequente ainda, com 92% das instituições oferecendo esse tipo de conteúdo. Vale ressaltar, no entanto, que, apesar de as atividades de correção automática também serem muito frequentes nos cursos de graduação e pós-graduação EAD, com quase 80% das instituições propondo esse tipo de ação, os cursos de graduação têm outras propostas que estão se tornando mais frequentes ainda: desenvolver
@@ -607,21 +607,21 @@ solução de problemas, realizar trabalhos dissertativos, elaborar textos acadê
 
 <figure>
 <h4 class="align-left"><strong>Ações de aprendizagem propostas aos alunos na graduação e na pós-graduação</strong></h4>
-    <img src="img/cap1/grafico23.svg" alt="">
+    <img src="img/cap1/grafico23.svg" alt="Gráfico em barras indicando a porcentagem de instituições que implementam ações específicas de aprendizagem aos alunos na graduação ou pós-graduação EAD, e cursos presenciais ou híbridos">
   </figure>
 
 <p>Existe a sensação de que, em 2020, a diversidade de recursos se ampliou mais na EAD que em cursos presenciais.</p>
 
 <figure>
 <h4 class="align-left"><strong>Recursos educacionais oferecidos na graduação e na pós-graduação</strong></h4>
-    <img src="img/cap1/grafico24.svg" alt="">
+    <img src="img/cap1/grafico24.svg" alt="Gráfico em colunas representando o quantitativo da oferta de recursos educacionais em cursos de graduação ou pós-graduação EAD, e cursos presenciais ou híbridos">
   </figure>
 
 <p>Quanto aos repositórios, 94,7% dos cursos de graduação EAD contam com bibliotecas on-line e 64,5% dos cursos presenciais e híbridos contam com bibliotecas físicas. Somente 78% dos cursos presenciais e híbridos foram atendidos por bibliotecas on-line, mesmo na pandemia. Mais uma vez, a pós-graduação apresentou a tendência de estar menos servida de recursos variados em comparação com as graduações. Além disso, a minoria das instituições, entre 15 e 23,7%, investe em diferentes repositórios em um único sistema de busca.</p>
 
 <figure>
 <h4 class="align-left"><strong>Repositórios de conteúdos disponibilizados pelas instituições</strong></h4>
-    <img src="img/cap1/grafico25.svg" alt="">
+    <img src="img/cap1/grafico25.svg" alt="Gráfico em colunas representando o quantitativo da oferta de repositórios de conteúdo das instituições em cursos de graduação ou pós-graduação EAD, e cursos presenciais ou híbridos">
   </figure>
 
 <h4>1.3.3.1. Perfil dos Alunos</h4>
@@ -927,17 +927,17 @@ o ser humano pode ser o agente transformador de maneira positiva ou negativa. N�
 
 <p>O seu Banco de Tendências é um repositório de <em lang="en">insights</em> e dados sobre mudanças culturais. Ela monitora continuamente as 17 Tendências da <em lang="en">BrainReserve</em> através de sua equipe principal de analistas e estrategistas de tendências, compondo uma rede global de <em lang="en"><a class = "ref" alt ="Link abre site do dicionário Merriam-Webster, mostrando o significado da palavra trendspotters" target ="_blank"  href=https://www.merriam-webster.com/dictionary/trendspotter>trendspotters</a></em> e informações assistidas por tecnologia na forma de mapas de calor, Planejamento Estratégico SEAD 2021-2030 53 escuta cultural e outras ferramentas proprietárias. Cada uma das tendências reflete uma dimensão diferente e não óbvia do comportamento e do desejo do consumidor. Às vezes, essas lentes são contraditórias e conflitantes, assim como nossos impulsos. Mas, juntas elas descrevem o espectro completo e global da experiência humana através das lentes do futuro. Com isso a especialista, através de pesquisas permanentes, consegue prever tendências, produtos que podem virar sucesso e influenciar a dinâmica de empresas/organizações no mercado. Seu acompanhamento é fundamental para mapear o impacto do futuro de qualquer negócio porque elas explicam e preveem as dimensões flutuantes refletidas na experiência humana à medida que evoluem para definir os comportamentos de consumo do amanhã.</p>
 
-<p>As tendências são as seguintes: <a class = "ref" alt ="" target ="_blank"  href=https://faithpopcorn.com/trendbank/99-lives>99 Vidas</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/anchoring>Ancoragem</a>; <a class = "ref" alt ="" target ="_blank"  href=https://faithpopcorn.com/trendbank/AtmosFear>AtmosFear</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/being-alive>Estar Vivo</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/cashing-out>Saque</a>; Clã; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/cocooning>Cocooning</a>; <a class = "ref" alt ="" target ="_blank"  href=https://faithpopcorn.com/trendbank/down-aging>Down-Aging (Envelhecimento Descendente)</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/egonomics>Egonomia</a>; <a hef=https://faithpopcorn.com/trendbank/eveolution>EVEolução</a>; <a class = "ref" alt ="" target ="_blank"  href=https://faithpopcorn.com/trendbank/fantasy-adventure>Aventura de Fantasia</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/futuretense>FutureTense</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/icon-toppling>Alternância de Ícones</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/pleasure-revenge>Vingança do Prazer</a>; <a  class = "ref" alt ="" target ="_blank" href=https://faithpopcorn.com/trendbank/save-our-society>Salve nossa Sociedade</a>; <a class = "ref" alt ="" target ="_blank"  href=https://faithpopcorn.com/trendbank/small-indulgences>Pequenas indulgências</a>; <a class = "ref" alt ="" target ="_blank"  href=https://faithpopcorn.com/trendbank/vigilante-consumer>Vigilante Consumidor</a>.</p>
+<p>As tendências são as seguintes: <a class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de 99 Vidas" target ="_blank"  href=https://faithpopcorn.com/trendbank/99-lives>99 Vidas</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Ancoragem" target ="_blank" href=https://faithpopcorn.com/trendbank/anchoring>Ancoragem</a>; <a class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de AtmosFear" target ="_blank"  href=https://faithpopcorn.com/trendbank/AtmosFear>AtmosFear</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Estar Vivo" target ="_blank" href=https://faithpopcorn.com/trendbank/being-alive>Estar Vivo</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Saque" target ="_blank" href=https://faithpopcorn.com/trendbank/cashing-out>Saque</a>; Clã; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Cocooning" target ="_blank" href=https://faithpopcorn.com/trendbank/cocooning>Cocooning</a>; <a class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Envelhecimento Descendente" target ="_blank"  href=https://faithpopcorn.com/trendbank/down-aging>Down-Aging (Envelhecimento Descendente)</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Egonomia" target ="_blank" href=https://faithpopcorn.com/trendbank/egonomics>Egonomia</a>; <a class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de EVEolução" target ="_blank" href=https://faithpopcorn.com/trendbank/eveolution>EVEolução</a>; <a class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Aventura de Fantasia" target ="_blank"  href=https://faithpopcorn.com/trendbank/fantasy-adventure>Aventura de Fantasia</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de FutureTense" target ="_blank" href=https://faithpopcorn.com/trendbank/futuretense>FutureTense</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Alternância de Ícones" target ="_blank" href=https://faithpopcorn.com/trendbank/icon-toppling>Alternância de Ícones</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Vingança do Prazer" target ="_blank" href=https://faithpopcorn.com/trendbank/pleasure-revenge>Vingança do Prazer</a>; <a  class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Salve nossa Sociedade" target ="_blank" href=https://faithpopcorn.com/trendbank/save-our-society>Salve nossa Sociedade</a>; <a class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Pequenas indulgências" target ="_blank"  href=https://faithpopcorn.com/trendbank/small-indulgences>Pequenas indulgências</a>; <a class = "ref" alt ="Link abre site da Consultoria BrainReserve, explicando sobre o conceito de Vigilante Consumidor" target ="_blank"  href=https://faithpopcorn.com/trendbank/vigilante-consumer>Vigilante Consumidor</a>.</p>
 
 <p>O fio condutor que tece tudo o que você leu até aqui é o fascínio pelo amanhã e uma lente provocativa para a cultura. Nesse sentido, a consultoria <em lang="en">BrainReserve</em>, em diversos outros artigos, aponta os setores que irão crescer à medida que avançamos para 2030:</p>
 
 <ul class="listagem">
-  <li><strong><a class = "ref" alt ="" target ="_blank"  href=https://www.voitto.com.br/blog/artigo/e-learning><em lang="en">E-learning</em></a>:</strong> de cursos online a implantes cerebrais, conhecimento é poder. </li>
-  <li><strong><a class = "ref" alt ="" target ="_blank"  href=https://rockcontent.com/br/blog/e-commerce-guia><em lang="en">E-commerce</em></a>:</strong> satisfazer as necessidades do consumidor sem obrigá-lo a sair de seus Pod Coons (espaços móveis de vida/trabalho).</li>
-  <li><strong><a ref=https://www.saudebusiness.com/ti-e-inovao/entenda-como-telessade-pode-melhorar-medicina-no-brasil>Telessaúde</a>:</strong> de visitas de bem-estar a procedimentos médicos e saúde mental, tudo está acontecendo virtualmente. O apoio emocional será vital por anos pós-pandemia, à medida que a sociedade se recupera do que perdeu.</li>
+  <li><strong><a class = "ref" alt ="Link abre site Voitto, que mostra artigo explicando sobre o E-learning" target ="_blank"  href=https://www.voitto.com.br/blog/artigo/e-learning><em lang="en">E-learning</em></a>:</strong> de cursos online a implantes cerebrais, conhecimento é poder. </li>
+  <li><strong><a class = "ref" alt ="Link abre site Rockcontent, que mostra artigo explicando o que é E-commerce" target ="_blank"  href=https://rockcontent.com/br/blog/e-commerce-guia><em lang="en">E-commerce</em></a>:</strong> satisfazer as necessidades do consumidor sem obrigá-lo a sair de seus Pod Coons (espaços móveis de vida/trabalho).</li>
+  <li><strong><a class = "ref" alt ="Link abre site Saúde Business, que mostra artigo para entender como a telessaúde pode melhorar a medicina no Brasil" target ="_blank"  href=https://www.saudebusiness.com/ti-e-inovao/entenda-como-telessade-pode-melhorar-medicina-no-brasil>Telessaúde</a>:</strong> de visitas de bem-estar a procedimentos médicos e saúde mental, tudo está acontecendo virtualmente. O apoio emocional será vital por anos pós-pandemia, à medida que a sociedade se recupera do que perdeu.</li>
   <li><strong>Transporte:</strong> Recriando nosso sistema atual para um mundo pós-pandemia e investindo em viagens espaciais e temporais.</li>
-  <li><strong><a class = "ref" alt ="" target ="_blank"  href=https://atozofai.withgoogle.com/intl/pt-BR/robotics>IA e robótica</a>:</strong> reforçando e substituindo nossa força de trabalho à medida que entramos neste novo estágio da evolução humana.</li>
-  <li><strong><a class = "ref" alt ="Link abre site " target ="_blank"  href=https://techinnovations.info/why-every-organization-needs-an-augmented-reality-strategy/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4-St4ZlhKLzFNWjBNZNmNd_gzOKl-Xug8iH_io3QPTKI1W-ecvHHYaAqAKEALw_wcB>VR e AR</a>:</strong> Construindo nosso admirável novo mundo virtual.</li>
+  <li><strong><a class = "ref" alt ="Link abre site da Explicando IA, em seção sobre Robótica" target ="_blank"  href=https://atozofai.withgoogle.com/intl/pt-BR/robotics>IA e robótica</a>:</strong> reforçando e substituindo nossa força de trabalho à medida que entramos neste novo estágio da evolução humana.</li>
+  <li><strong><a class = "ref" alt ="Link abre site da Tech Innovations, em artigo sobre o porquê as Organizações precisam de um plano estratégico em Realidade Aumentada" target ="_blank"  href=https://techinnovations.info/why-every-organization-needs-an-augmented-reality-strategy/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4-St4ZlhKLzFNWjBNZNmNd_gzOKl-Xug8iH_io3QPTKI1W-ecvHHYaAqAKEALw_wcB>VR e AR</a>:</strong> Construindo nosso admirável novo mundo virtual.</li>
   <li><strong>Economia do prazer:</strong> Se faz o trabalhador se sentir bem, implante.</li>
   <li><strong>Localização de fabricação e serviços:</strong> Fornecendo segurança em caso de pandemias, falhas de energia e interrupção da cadeia de suprimentos.</li>
   <li><strong>Eco-serviços:</strong> Responder às mudanças climáticas como uma prioridade urgente.</li>
