@@ -577,7 +577,7 @@ a partir do segundo trimestre de 2020. Essa tendência é seguida, por aulas em 
 <figure>
 <h4 class="align-left"><strong>Impactos financeiros da pandemia</strong></h4>
   <p>Sobre o ano de 2020, quando se iniciou a pandemia de COVID-19, informe o quanto concorda com cada uma das afirmações a seguir:</p>
-    <img src="img/cap1/grafico20.svg" alt="">
+    <img src="img/cap1/grafico20.svg" alt="Gráfico em barras segmentado de acordo com as respostas dadas pelas instituições de ensino sobre os impactos financeiros citados. As respostas variam entre discordo totalmente, discordo, não concordo nem discordo, concordo, concordo totalmente e não respondeu">
   </figure>
 
 <p>Outro fato observado no período é que os polos de apoio presencial perderam temporariamente sua representatividade, dadas as concessões necessárias feitas pelas portarias do Ministério da Educação (MEC), que reduziram as exigências da presencialidade de modo geral. Dessa forma, a linha histórica do Censo também fica marcada por esse momento bastante peculiar da educação. Isso, de algum modo, permitirá que se tenha no futuro uma nova visão sobre a importância dos polos, diante do impulsionamento causado na educação à distância (EAD) pelas condições de estudo durante a pandemia. Sob este aspecto, é importante voltar o olhar para o número de polos fechados em 2020. As condições atípicas potencializaram os fechamentos, que apresentaram números superiores em relação aos anos anteriores, com um detalhe importante: do montante geral fechado, aproximadamente 99% pertenciam a instituições privadas. Essa movimentação demonstra efeitos colaterais das flexibilizações permitidas pelo MEC e, eventualmente, é fruto do modelo de negócio em que o polo é, em muitos casos, sediado em pequenas escolas que também fecharam suas portas no último ano.</p>
@@ -910,7 +910,7 @@ global, agir local”. Esse pensamento, atribuído ao planejador urbano e ativis
 o ser humano pode ser o agente transformador de maneira positiva ou negativa. Não se trata mais do cumprimento de uma norma e/ou acordo e, sim, de uma necessidade básica do ser humano. Na SEAD/UFES essa conscientização está internalizada e é um dos valores que permeia a atuação de seus agentes. Cada vez mais as cinco áreas de importância, os chamados <strong>Cinco P`s da sustentabilidade</strong> necessitam que as instituições de ensino se conscientizem de que precisam trabalhar conjuntamente.</p>
 
 <figure>
-   <img src="img/cap1/infografico.svg" alt=""/>
+   <img src="img/cap1/infografico.svg" alt="Barra dividida em 5 espaços, cada espaço é reservado para um dos 5 P's da sustentabilidade que são: Pessoas, Prosperidade, Paz, Parcerias e Planeta"/>
  </figure>
 
 <h3>1.3.6. Cenário Regional - Instituições de Ensino Superior no Espírito Santo - Modalidade EAD</h3>
