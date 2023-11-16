@@ -128,7 +128,7 @@ $autorLivro = "Mauro Pantoja";
         <div class="credits-gov">
           <p><strong>Presidente da República</strong><br>Luiz Inácio Lula da Silva</p>
           <p><strong>Ministro da Educação</strong><br>Camilo Santana</p>
-          <p><strong>Diretoria de Educação a Distância DED/CAPES/MEC</strong><br>Carlos Cézar Modernel Lenuzza</p>
+          <p><strong>Diretoria de Educação a Distância DED/CAPES/MEC</strong><br>Suzana dos Santos Gomes</p>
         </div>
 
         <div class="credits-team">
