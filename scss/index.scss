@@ -60,7 +60,7 @@ section {
   }
 
   > .cover-title {
-    font-family: $serif;
+    font-family: "Archivo", sans-serif;
     color: var(--primariaPrincipal);
     font-size: 2rem;
     line-height: 1.2;
@@ -74,7 +74,8 @@ section {
   }
 
   > .cover-info {
-    font-family: $serif;
+    font-family: "Archivo", sans-serif;
+    line-height: 1.5;
     font-size: 0.9rem;
     max-width: 660px;
   }
@@ -127,9 +128,9 @@ section {
 #authors {
   h2 {
     width: 100%;
-    font-family: $serif;
+    font-family:  "Archivo", sans-serif;
     color: var(--primariaPrincipal);
-    font-weight: $light;
+    font-weight: 600;
     font-size: 2rem;
 
     @media screen and (min-width: 720px) {
@@ -145,6 +146,7 @@ section {
     width: 250px;
     margin: 0 auto 2rem;
     vertical-align: top;
+    line-height: 1.5;
 
     p {
       max-width: 250px;
@@ -236,7 +238,7 @@ section {
       }
 
       > p {
-        font-family: $serif;
+        font-family:  "Archivo", sans-serif;
         font-size: 1rem;
       }
 
@@ -344,6 +346,7 @@ section {
   // Quebra de linhas...
   word-break: break-word;
   font-size: 1rem;
+  line-height: 1.5;
 
 
   div {

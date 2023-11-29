@@ -165,7 +165,10 @@ $autorLivro = "Mauro Pantoja";
             
             <p>
               <strong>Desenvolvimento</strong><br>
-              Paulo Serpa
+              <em>Coordenação:</em><br>
+              Paulo Serpa <br>
+              <em>Equipe:</em><br>
+              Dara Morati
             </p>
           </div>
 
