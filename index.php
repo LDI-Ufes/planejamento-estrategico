@@ -65,10 +65,10 @@ $autorLivro = "Mauro Pantoja";
           <a id="link-download" class="info-btn btn-secondary" href="" target="_blank">Baixar PDF</a>
         </div> -->
 
-        <div class="info-item" id="app-install" hidden>
+        <!-- <div class="info-item" id="app-install" hidden>
           <p class="info-text">Adicione esse livro ao seu celular como um <strong>aplicativo</strong> para acessá-lo offline.</p>
           <button id="btn-app-install" class="info-btn btn-secondary">Instalar App</button>
-        </div>
+        </div> -->
 
         <div class="info-item">
           <p class="info-text">A Sead também disponibiliza outros <strong>materiais didáticos</strong> em seu acervo digital.</p>
